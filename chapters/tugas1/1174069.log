@@ -1,0 +1,102 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2019.10.13)  14 OCT 2019 19:10
+entering extended mode
+**./1174069.tex
+(1174069.tex
+LaTeX2e <2019-10-01>
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\Article.cls"
+
+LaTeX Warning: You have requested document class `Article',
+               but the document class provides `article'.
+
+Document Class: article 2019/08/27 v1.4j Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\size10.clo"
+File: size10.clo 2019/08/27 v1.4j Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+
+LaTeX Warning: Unused global option(s):
+    [lipt].
+
+No file 1174069.aux.
+\openout1 = `1174069.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 1
+1.
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 11.
+
+Overfull \hbox (7.21375pt too wide) in paragraph at lines 15--16
+\OT1/cmr/m/n/10 peta dip-isahkan men-jadi be-ber-apa lapisan (layer). Perkem-ba
+n-gan perangkat
+ []
+
+
+Overfull \hbox (19.80646pt too wide) in paragraph at lines 19--20
+\OT1/cmr/m/n/10 susun (over-lay), penghi-tun-gan, pendi-ji-ta-lan/pemindaian (d
+ig-i-tiz-ing/scanning),
+ []
+
+[1
+
+{C:/Users/LENOVO/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Overfull \hbox (4.19516pt too wide) in paragraph at lines 21--22
+\OT1/cmr/m/n/10 denga ap-likasi pemetaan komer-sil yang dikelu-arkan be-ber-apa
+ ven-dor seperti
+ []
+
+
+Overfull \hbox (8.97299pt too wide) in paragraph at lines 21--22
+\OT1/cmr/m/n/10 meng-gabung pen-dekatan gen-erasi per-tama pada pemisa-han in-f
+or-masi spasial
+ []
+
+[2]
+Overfull \hbox (0.21371pt too wide) in paragraph at lines 51--52
+[]\OT1/cmr/m/n/10 Masing-masing for-mat data mem-pun-yai kelebi-han dan keku-ra
+n-gan. Pemil-
+ []
+
+[3] [4] (1174069.aux) ) 
+Here is how much of TeX's memory you used:
+ 239 strings out of 492452
+ 2718 string characters out of 3129804
+ 66485 words of memory out of 3000000
+ 4681 multiletter control sequences out of 15000+200000
+ 4850 words of font info for 18 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 25i,4n,20p,938b,163s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr1
+0.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on 1174069.pdf (4 pages, 57204 bytes).
+PDF statistics:
+ 27 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
