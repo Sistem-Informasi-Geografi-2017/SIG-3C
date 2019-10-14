@@ -118,3 +118,7 @@
 \contentsline {subsection}{\numberline {1.15.5}Data Geospasial}{38}% 
 \contentsline {subsection}{\numberline {1.15.6}Link Youtube}{39}% 
 \contentsline {subsection}{\numberline {1.15.7}Plagiarisme}{39}% 
+\contentsline {section}{\numberline {1.16}Difa Al Fansha(1174076)}{39}% 
+\contentsline {subsection}{\numberline {1.16.1}Pengertian}{39}% 
+\contentsline {subsection}{\numberline {1.16.2}Link}{40}% 
+\contentsline {subsection}{\numberline {1.16.3}Plagiarism}{40}% 
