@@ -71,3 +71,50 @@
 \contentsline {subsection}{\numberline {1.9.2}Pengertian}{21}% 
 \contentsline {subsection}{\numberline {1.9.3}Link}{22}% 
 \contentsline {subsection}{\numberline {1.9.4}Plagiarism}{22}% 
+\contentsline {section}{\numberline {1.10}Arrizal Furqona Gifary (1174070)}{22}% 
+\contentsline {subsection}{\numberline {1.10.1}Koordinat}{22}% 
+\contentsline {subsection}{\numberline {1.10.2}Link}{24}% 
+\contentsline {subsection}{\numberline {1.10.3}Plagiarism}{24}% 
+\contentsline {section}{\numberline {1.11}Bakti QIlan Mufid (1174083)}{24}% 
+\contentsline {subsection}{\numberline {1.11.1}Buku}{24}% 
+\contentsline {subsection}{\numberline {1.11.2}Data Geospasial}{24}% 
+\contentsline {subsection}{\numberline {1.11.3}Link}{26}% 
+\contentsline {subsection}{\numberline {1.11.4}Plagiarism}{26}% 
+\contentsline {subsection}{\numberline {1.11.5}Cara Penggunaan}{26}% 
+\contentsline {subsubsection}{\numberline {1.11.5.1}Gambar}{26}% 
+\contentsline {subsubsection}{\numberline {1.11.5.2}List}{26}% 
+\contentsline {section}{\numberline {1.12}Alfadian Owen (1174091)}{27}% 
+\contentsline {subsection}{\numberline {1.12.1}Buku}{27}% 
+\contentsline {subsection}{\numberline {1.12.2}Data Geospasial}{27}% 
+\contentsline {subsection}{\numberline {1.12.3}Link}{27}% 
+\contentsline {subsection}{\numberline {1.12.4}Plagiarism}{28}% 
+\contentsline {subsection}{\numberline {1.12.5}Cara Penggunaan}{28}% 
+\contentsline {subsubsection}{\numberline {1.12.5.1}Gambar}{28}% 
+\contentsline {subsubsection}{\numberline {1.12.5.2}List}{28}% 
+\contentsline {section}{\numberline {1.13}Geographic Information System | Nurul Izza Hamka | 1174062}{29}% 
+\contentsline {subsection}{\numberline {1.13.1}Buku}{29}% 
+\contentsline {subsection}{\numberline {1.13.2}Pengertian Sistem Informasi geografis}{29}% 
+\contentsline {subsection}{\numberline {1.13.3}Sejarah}{30}% 
+\contentsline {subsection}{\numberline {1.13.4}Koordinat}{30}% 
+\contentsline {subsection}{\numberline {1.13.5}Data Geospasial}{30}% 
+\contentsline {subsection}{\numberline {1.13.6}Link}{31}% 
+\contentsline {subsection}{\numberline {1.13.7}Plagiarism}{31}% 
+\contentsline {section}{\numberline {1.14}Ainul Filiani (1174073)}{31}% 
+\contentsline {subsection}{\numberline {1.14.1}Buku}{31}% 
+\contentsline {subsection}{\numberline {1.14.2}Pengertian Sistem Informasi Geografis}{31}% 
+\contentsline {subsection}{\numberline {1.14.3}Sejarah}{32}% 
+\contentsline {subsection}{\numberline {1.14.4}koordinat}{33}% 
+\contentsline {subsection}{\numberline {1.14.5}Data geospasial}{34}% 
+\contentsline {subsection}{\numberline {1.14.6}link}{34}% 
+\contentsline {subsection}{\numberline {1.14.7}plagiarisme}{34}% 
+\contentsline {section}{\numberline {1.15}Aulyardha Anindita | 1174054}{35}% 
+\contentsline {subsection}{\numberline {1.15.1}Buku}{35}% 
+\contentsline {subsection}{\numberline {1.15.2}Sistem Informasi Geografis}{35}% 
+\contentsline {paragraph}{}{35}% 
+\contentsline {subsection}{\numberline {1.15.3}Sejarah}{35}% 
+\contentsline {paragraph}{}{35}% 
+\contentsline {paragraph}{}{36}% 
+\contentsline {subsection}{\numberline {1.15.4}Koordinat Bumi}{37}% 
+\contentsline {subsection}{\numberline {1.15.5}Data Geospasial}{38}% 
+\contentsline {subsection}{\numberline {1.15.6}Link Youtube}{39}% 
+\contentsline {subsection}{\numberline {1.15.7}Plagiarisme}{39}% 
