@@ -668,3 +668,150 @@
 \contentsline {figure}{\numberline {4.227\relax }{\ignorespaces Buka aplikasi mapproxy}}{408}% 
 \contentsline {figure}{\numberline {4.228\relax }{\ignorespaces Buka mapproxy pada browser}}{408}% 
 \contentsline {figure}{\numberline {4.229\relax }{\ignorespaces MapProxy menampilkan map}}{409}% 
+\contentsline {figure}{\numberline {4.230\relax }{\ignorespaces Halaman download map server untuk windows}}{409}% 
+\contentsline {figure}{\numberline {4.231\relax }{\ignorespaces Halaman download map server untuk selain windows}}{409}% 
+\contentsline {figure}{\numberline {4.232\relax }{\ignorespaces File yang telah didownload}}{410}% 
+\contentsline {figure}{\numberline {4.233\relax }{\ignorespaces Agree Instalasi}}{410}% 
+\contentsline {figure}{\numberline {4.234\relax }{\ignorespaces Full Instalasi}}{410}% 
+\contentsline {figure}{\numberline {4.235\relax }{\ignorespaces Penyimpanan Instalasi}}{411}% 
+\contentsline {figure}{\numberline {4.236\relax }{\ignorespaces Menggunakan Port 80}}{411}% 
+\contentsline {figure}{\numberline {4.237\relax }{\ignorespaces Proses Instalasi}}{411}% 
+\contentsline {figure}{\numberline {4.238\relax }{\ignorespaces Membuka folder ms4w}}{412}% 
+\contentsline {figure}{\numberline {4.239\relax }{\ignorespaces Isi Folder ms4w}}{412}% 
+\contentsline {figure}{\numberline {4.240\relax }{\ignorespaces Isi Folder Apache}}{412}% 
+\contentsline {figure}{\numberline {4.241\relax }{\ignorespaces Isi Folder Conf}}{413}% 
+\contentsline {figure}{\numberline {4.242\relax }{\ignorespaces Listen port}}{413}% 
+\contentsline {figure}{\numberline {4.243\relax }{\ignorespaces Mengakses Halaman Service}}{413}% 
+\contentsline {figure}{\numberline {4.244\relax }{\ignorespaces Pengaturan Service Apache MS4W Web Server}}{414}% 
+\contentsline {figure}{\numberline {4.245\relax }{\ignorespaces Isi Folder httpd.d}}{414}% 
+\contentsline {figure}{\numberline {4.246\relax }{\ignorespaces Membuat file baru}}{414}% 
+\contentsline {figure}{\numberline {4.247\relax }{\ignorespaces Konfigurasi File Tersebut}}{414}% 
+\contentsline {figure}{\numberline {4.248\relax }{\ignorespaces Isi Folder Apps}}{415}% 
+\contentsline {figure}{\numberline {4.249\relax }{\ignorespaces Membuat folder baru}}{415}% 
+\contentsline {figure}{\numberline {4.250\relax }{\ignorespaces Membuat file baru}}{415}% 
+\contentsline {figure}{\numberline {4.251\relax }{\ignorespaces Isi mywfs.map 1}}{415}% 
+\contentsline {figure}{\numberline {4.252\relax }{\ignorespaces Isi mywfs.map 2}}{416}% 
+\contentsline {figure}{\numberline {4.253\relax }{\ignorespaces Hasil}}{416}% 
+\contentsline {figure}{\numberline {4.254\relax }{\ignorespaces Instalasi MapProxy}}{416}% 
+\contentsline {figure}{\numberline {4.255\relax }{\ignorespaces Buat folder tmp}}{417}% 
+\contentsline {figure}{\numberline {4.256\relax }{\ignorespaces Edit lokasi mymap.map}}{417}% 
+\contentsline {figure}{\numberline {4.257\relax }{\ignorespaces Edit path binary mapserv}}{417}% 
+\contentsline {figure}{\numberline {4.258\relax }{\ignorespaces Edit path working-dir}}{418}% 
+\contentsline {figure}{\numberline {4.259\relax }{\ignorespaces Buka Folder gede dan mapproxy}}{418}% 
+\contentsline {figure}{\numberline {4.260\relax }{\ignorespaces Buka aplikasi mapproxy}}{418}% 
+\contentsline {figure}{\numberline {4.261\relax }{\ignorespaces Buka mapproxy pada browser}}{418}% 
+\contentsline {figure}{\numberline {4.262\relax }{\ignorespaces MapProxy menampilkan map}}{419}% 
+\contentsline {figure}{\numberline {4.263\relax }{\ignorespaces Pilih menu download}}{419}% 
+\contentsline {figure}{\numberline {4.264\relax }{\ignorespaces Download aplikasi MS4W}}{419}% 
+\contentsline {figure}{\numberline {4.265\relax }{\ignorespaces Klik "I Agree" lalu install seperti biasa}}{420}% 
+\contentsline {figure}{\numberline {4.266\relax }{\ignorespaces Install mapproxy}}{420}% 
+\contentsline {figure}{\numberline {4.267\relax }{\ignorespaces Install pyproj}}{420}% 
+\contentsline {figure}{\numberline {4.268\relax }{\ignorespaces Membuka service}}{420}% 
+\contentsline {figure}{\numberline {4.269\relax }{\ignorespaces MS4W Web Server Automatic}}{421}% 
+\contentsline {figure}{\numberline {4.270\relax }{\ignorespaces Download repository gede}}{421}% 
+\contentsline {figure}{\numberline {4.271\relax }{\ignorespaces Extract repository}}{421}% 
+\contentsline {figure}{\numberline {4.272\relax }{\ignorespaces Buka folder shp}}{422}% 
+\contentsline {figure}{\numberline {4.273\relax }{\ignorespaces Hasil gambar 00.shp Negara Indonesia}}{422}% 
+\contentsline {figure}{\numberline {4.274\relax }{\ignorespaces Hasil gambar btsnegara.shp peta dunia}}{422}% 
+\contentsline {figure}{\numberline {4.275\relax }{\ignorespaces Hasil 00.shp dan btsnegara.shp peta dunia dengan batas negara Indonesia}}{423}% 
+\contentsline {figure}{\numberline {4.276\relax }{\ignorespaces Isi folder mapproxy}}{423}% 
+\contentsline {figure}{\numberline {4.277\relax }{\ignorespaces Konfigurasi map:lokasi file mwmys.map, binary:lokasi instal MS4C, dan workingdir:lokasi folder tmp di dalam folder gede }}{423}% 
+\contentsline {figure}{\numberline {4.278\relax }{\ignorespaces Jalankan map server}}{423}% 
+\contentsline {figure}{\numberline {4.279\relax }{\ignorespaces Buka mapproxy pada browser}}{424}% 
+\contentsline {figure}{\numberline {4.280\relax }{\ignorespaces Pilih png atau jpg}}{424}% 
+\contentsline {figure}{\numberline {4.281\relax }{\ignorespaces Hasil mapproxy}}{424}% 
+\contentsline {figure}{\numberline {4.282\relax }{\ignorespaces Gambar Link Download MS4W}}{425}% 
+\contentsline {figure}{\numberline {4.283\relax }{\ignorespaces Gambar Untuk Install File exe}}{425}% 
+\contentsline {figure}{\numberline {4.284\relax }{\ignorespaces Gambar Proses Instalasi Ms4w}}{425}% 
+\contentsline {figure}{\numberline {4.285\relax }{\ignorespaces Gambar Untuk File http.conf}}{426}% 
+\contentsline {figure}{\numberline {4.286\relax }{\ignorespaces Gambar Listen port 80}}{426}% 
+\contentsline {figure}{\numberline {4.287\relax }{\ignorespaces Gambar Untuk Mengakses Halaman Service}}{426}% 
+\contentsline {figure}{\numberline {4.288\relax }{\ignorespaces Gambar Untuk Mengakses Halaman Service}}{426}% 
+\contentsline {figure}{\numberline {4.289\relax }{\ignorespaces Link Github}}{427}% 
+\contentsline {figure}{\numberline {4.290\relax }{\ignorespaces Gambar Untuk Download File}}{427}% 
+\contentsline {figure}{\numberline {4.291\relax }{\ignorespaces Gambar di File aqm.ymal}}{427}% 
+\contentsline {figure}{\numberline {4.292\relax }{\ignorespaces Gambar Untuk Aplikasi QGIS}}{428}% 
+\contentsline {figure}{\numberline {4.293\relax }{\ignorespaces Gambar Hasil 00.shp}}{428}% 
+\contentsline {figure}{\numberline {4.294\relax }{\ignorespaces Gambar Hasil bts negara.shp}}{428}% 
+\contentsline {figure}{\numberline {4.295\relax }{\ignorespaces Instalasi MapProxy}}{429}% 
+\contentsline {figure}{\numberline {4.296\relax }{\ignorespaces Download File MS4W}}{429}% 
+\contentsline {figure}{\numberline {4.297\relax }{\ignorespaces Install File exe}}{429}% 
+\contentsline {figure}{\numberline {4.298\relax }{\ignorespaces Isi Folder apache}}{430}% 
+\contentsline {figure}{\numberline {4.299\relax }{\ignorespaces Isi Folder conf}}{430}% 
+\contentsline {figure}{\numberline {4.300\relax }{\ignorespaces Listen port 80}}{430}% 
+\contentsline {figure}{\numberline {4.301\relax }{\ignorespaces Mengakses Halaman Service}}{430}% 
+\contentsline {figure}{\numberline {4.302\relax }{\ignorespaces Pengaturan Service Apache MS4W Web Server}}{431}% 
+\contentsline {figure}{\numberline {4.303\relax }{\ignorespaces Pengaturan Service Apache MS4W Web Server}}{431}% 
+\contentsline {figure}{\numberline {4.304\relax }{\ignorespaces Download atau clone file di github}}{431}% 
+\contentsline {figure}{\numberline {4.305\relax }{\ignorespaces Isi folder shp}}{432}% 
+\contentsline {figure}{\numberline {4.306\relax }{\ignorespaces Hasil Gambar file 00}}{432}% 
+\contentsline {figure}{\numberline {4.307\relax }{\ignorespaces Hasil Gambar file btsnegara}}{432}% 
+\contentsline {figure}{\numberline {4.308\relax }{\ignorespaces Instalasi MapProxy}}{432}% 
+\contentsline {figure}{\numberline {4.309\relax }{\ignorespaces Instalasi PyProj}}{433}% 
+\contentsline {figure}{\numberline {4.310\relax }{\ignorespaces Membuat folder baru tmp}}{433}% 
+\contentsline {figure}{\numberline {4.311\relax }{\ignorespaces File agm.yaml}}{433}% 
+\contentsline {figure}{\numberline {4.312\relax }{\ignorespaces Edit lokasi mywms.map}}{433}% 
+\contentsline {figure}{\numberline {4.313\relax }{\ignorespaces Edit path binary mapserv}}{434}% 
+\contentsline {figure}{\numberline {4.314\relax }{\ignorespaces Edit path working-dir}}{434}% 
+\contentsline {figure}{\numberline {4.315\relax }{\ignorespaces Aplikasi MS4W-Shell}}{434}% 
+\contentsline {figure}{\numberline {4.316\relax }{\ignorespaces Buka Folder gede}}{434}% 
+\contentsline {figure}{\numberline {4.317\relax }{\ignorespaces Buka Folder mapproxy}}{434}% 
+\contentsline {figure}{\numberline {4.318\relax }{\ignorespaces Buka aplikasi mapproxy}}{434}% 
+\contentsline {figure}{\numberline {4.319\relax }{\ignorespaces MapProxy menampilkan map}}{435}% 
+\contentsline {figure}{\numberline {4.320\relax }{\ignorespaces MapProxy menampilkan map}}{435}% 
+\contentsline {figure}{\numberline {5.1\relax }{\ignorespaces Run Mapproxy}}{437}% 
+\contentsline {figure}{\numberline {5.2\relax }{\ignorespaces Isi Basic.html}}{438}% 
+\contentsline {figure}{\numberline {5.3\relax }{\ignorespaces Hasil dari Basic.html}}{438}% 
+\contentsline {figure}{\numberline {5.4\relax }{\ignorespaces Isi dari marker.html}}{438}% 
+\contentsline {figure}{\numberline {5.5\relax }{\ignorespaces Isi dari marker.html}}{438}% 
+\contentsline {figure}{\numberline {5.6\relax }{\ignorespaces Gambar 1}}{439}% 
+\contentsline {figure}{\numberline {5.7\relax }{\ignorespaces Gambar 2}}{439}% 
+\contentsline {figure}{\numberline {5.8\relax }{\ignorespaces Gambar 3}}{440}% 
+\contentsline {figure}{\numberline {5.9\relax }{\ignorespaces Gambar 4}}{440}% 
+\contentsline {figure}{\numberline {5.10\relax }{\ignorespaces Gambar 5}}{441}% 
+\contentsline {figure}{\numberline {5.11\relax }{\ignorespaces Gambar 6}}{442}% 
+\contentsline {figure}{\numberline {5.12\relax }{\ignorespaces Menjalankan Mapproxy}}{442}% 
+\contentsline {figure}{\numberline {5.13\relax }{\ignorespaces Hasil dari file basic.htm}}{443}% 
+\contentsline {figure}{\numberline {5.14\relax }{\ignorespaces Contoh menambahkan marker, circle dan polygon}}{443}% 
+\contentsline {figure}{\numberline {5.15\relax }{\ignorespaces Hasil dari file marker.html}}{443}% 
+\contentsline {figure}{\numberline {5.16\relax }{\ignorespaces Start server MapProxy}}{444}% 
+\contentsline {figure}{\numberline {5.17\relax }{\ignorespaces File Basic.html}}{444}% 
+\contentsline {figure}{\numberline {5.18\relax }{\ignorespaces Code Basic.html}}{445}% 
+\contentsline {figure}{\numberline {5.19\relax }{\ignorespaces Tampilan Basic.html}}{446}% 
+\contentsline {figure}{\numberline {5.20\relax }{\ignorespaces File Marker.html}}{446}% 
+\contentsline {figure}{\numberline {5.21\relax }{\ignorespaces Code tambahan Marker.html}}{447}% 
+\contentsline {figure}{\numberline {5.22\relax }{\ignorespaces Tampilan Marker.html}}{447}% 
+\contentsline {figure}{\numberline {5.23\relax }{\ignorespaces Gambar 1}}{448}% 
+\contentsline {figure}{\numberline {5.24\relax }{\ignorespaces Gambar 2}}{448}% 
+\contentsline {figure}{\numberline {5.25\relax }{\ignorespaces Gambar 3}}{449}% 
+\contentsline {figure}{\numberline {5.26\relax }{\ignorespaces Gambar 4}}{449}% 
+\contentsline {figure}{\numberline {5.27\relax }{\ignorespaces Gambar 5}}{450}% 
+\contentsline {figure}{\numberline {5.28\relax }{\ignorespaces Run Mapproxy}}{450}% 
+\contentsline {figure}{\numberline {5.29\relax }{\ignorespaces Isi Basic.html}}{451}% 
+\contentsline {figure}{\numberline {5.30\relax }{\ignorespaces Hasil dari Basic.html}}{451}% 
+\contentsline {figure}{\numberline {5.31\relax }{\ignorespaces Isi dari marker.html}}{451}% 
+\contentsline {figure}{\numberline {5.32\relax }{\ignorespaces Isi dari marker.html}}{451}% 
+\contentsline {figure}{\numberline {5.33\relax }{\ignorespaces Start server MapProxy}}{452}% 
+\contentsline {figure}{\numberline {5.34\relax }{\ignorespaces File Basic.html}}{452}% 
+\contentsline {figure}{\numberline {5.35\relax }{\ignorespaces Code Basic.html}}{453}% 
+\contentsline {figure}{\numberline {5.36\relax }{\ignorespaces Tampilan Basic.html}}{453}% 
+\contentsline {figure}{\numberline {5.37\relax }{\ignorespaces File Marker.html}}{454}% 
+\contentsline {figure}{\numberline {5.38\relax }{\ignorespaces Code tambahan Marker.html}}{454}% 
+\contentsline {figure}{\numberline {5.39\relax }{\ignorespaces Tampilan Marker.html}}{455}% 
+\contentsline {figure}{\numberline {5.40\relax }{\ignorespaces Start server MapProxy}}{455}% 
+\contentsline {figure}{\numberline {5.41\relax }{\ignorespaces File Basic.html}}{456}% 
+\contentsline {figure}{\numberline {5.42\relax }{\ignorespaces Code Basic.html}}{456}% 
+\contentsline {figure}{\numberline {5.43\relax }{\ignorespaces Tampilan Basic.html}}{457}% 
+\contentsline {figure}{\numberline {5.44\relax }{\ignorespaces File Marker.html}}{457}% 
+\contentsline {figure}{\numberline {5.45\relax }{\ignorespaces Code tambahan Marker.html}}{458}% 
+\contentsline {figure}{\numberline {5.46\relax }{\ignorespaces Tampilan Marker.html}}{458}% 
+\contentsline {figure}{\numberline {5.47\relax }{\ignorespaces Gambar 1}}{459}% 
+\contentsline {figure}{\numberline {5.48\relax }{\ignorespaces Gambar 2}}{459}% 
+\contentsline {figure}{\numberline {5.49\relax }{\ignorespaces Gambar 3}}{460}% 
+\contentsline {figure}{\numberline {5.50\relax }{\ignorespaces Gambar 4}}{460}% 
+\contentsline {figure}{\numberline {5.51\relax }{\ignorespaces Gambar 5}}{461}% 
+\contentsline {figure}{\numberline {5.52\relax }{\ignorespaces Gambar 6}}{462}% 
+\contentsline {figure}{\numberline {5.53\relax }{\ignorespaces Run Mapproxy}}{462}% 
+\contentsline {figure}{\numberline {5.54\relax }{\ignorespaces Open basic.html}}{463}% 
+\contentsline {figure}{\numberline {5.55\relax }{\ignorespaces Hasil basic.html}}{464}% 
+\contentsline {figure}{\numberline {5.56\relax }{\ignorespaces Hasil marker.html}}{465}% 

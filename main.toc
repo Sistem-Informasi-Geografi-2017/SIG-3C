@@ -1,13 +1,13 @@
-\contentsline {schapter}{Daftar Gambar}{xix}% 
-\contentsline {schapter}{Daftar Tabel}{xlv}% 
-\contentsline {schapter}{Foreword}{lix}% 
-\contentsline {schapter}{Kata Pengantar}{lxi}% 
-\contentsline {schapter}{Acknowledgments}{lxiii}% 
-\contentsline {schapter}{Acronyms}{lxv}% 
-\contentsline {schapter}{Glossary}{lxvii}% 
-\contentsline {schapter}{List of Symbols}{lxix}% 
-\contentsline {schapter}{Introduction}{lxxi}% 
-\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{lxxi}% 
+\contentsline {schapter}{Daftar Gambar}{xxi}% 
+\contentsline {schapter}{Daftar Tabel}{liii}% 
+\contentsline {schapter}{Foreword}{lxvii}% 
+\contentsline {schapter}{Kata Pengantar}{lxix}% 
+\contentsline {schapter}{Acknowledgments}{lxxi}% 
+\contentsline {schapter}{Acronyms}{lxxiii}% 
+\contentsline {schapter}{Glossary}{lxxv}% 
+\contentsline {schapter}{List of Symbols}{lxxvii}% 
+\contentsline {schapter}{Introduction}{lxxix}% 
+\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{lxxix}% 
 \contentsline {chapter}{\numberline {1}Tugas Pertama}{1}% 
 \contentsline {section}{\numberline {1.1}NAMA (NPM)}{1}% 
 \contentsline {subsection}{\numberline {1.1.1}Pengertian}{1}% 
@@ -361,5 +361,63 @@
 \contentsline {subsection}{\numberline {4.14.4}Instalasi MapProxy}{407}% 
 \contentsline {subsection}{\numberline {4.14.5}Membuka map menggunakan MapProxy}{407}% 
 \contentsline {subsection}{\numberline {4.14.6}Link Youtube MapProxy dan Menjalankannya}{409}% 
-\contentsline {schapter}{Daftar Pustaka}{411}% 
-\contentsline {schapter}{Index}{413}% 
+\contentsline {section}{\numberline {4.15}Aulyardha Anindita | 1174054}{409}% 
+\contentsline {subsection}{\numberline {4.15.1}Instalasi Map Server}{409}% 
+\contentsline {subsection}{\numberline {4.15.2}Konfigurasi Map Server}{412}% 
+\contentsline {subsection}{\numberline {4.15.3}Pengujian}{414}% 
+\contentsline {subsection}{\numberline {4.15.4}Link Youtube}{416}% 
+\contentsline {subsection}{\numberline {4.15.5}Instalasi Map Proxy}{416}% 
+\contentsline {subsection}{\numberline {4.15.6}Membuka Map menggunakan MapProxy}{416}% 
+\contentsline {subsection}{\numberline {4.15.7}Link Youtube MapProxy}{419}% 
+\contentsline {section}{\numberline {4.16}Muhammad Abdul Gani Wijaya (117407)}{419}% 
+\contentsline {subsection}{\numberline {4.16.1}Instalasi Map Server dan Map Proxy}{419}% 
+\contentsline {subsection}{\numberline {4.16.2}Pengujian Map Server dan Map Proxy}{421}% 
+\contentsline {subsection}{\numberline {4.16.3}Link tutorial}{424}% 
+\contentsline {section}{\numberline {4.17}Nurul Izza Hamka (1174062)}{425}% 
+\contentsline {subsection}{\numberline {4.17.1}Instalasi Map Server}{425}% 
+\contentsline {subsection}{\numberline {4.17.2}Konfigurasi Map Server}{425}% 
+\contentsline {subsection}{\numberline {4.17.3}Pengujian}{427}% 
+\contentsline {subsection}{\numberline {4.17.4}Link Youtube Instalasi MapServer}{428}% 
+\contentsline {subsection}{\numberline {4.17.5}Instalasi MapProxy}{428}% 
+\contentsline {subsection}{\numberline {4.17.6}Link Youtube MapProxy dan Menjalankannya}{429}% 
+\contentsline {section}{\numberline {4.18}Ainul Filiani | 1174073}{429}% 
+\contentsline {subsection}{\numberline {4.18.1}Instalasi Map Server}{429}% 
+\contentsline {subsection}{\numberline {4.18.2}Konfigurasi Map Server}{429}% 
+\contentsline {subsection}{\numberline {4.18.3}Pengujian}{431}% 
+\contentsline {subsection}{\numberline {4.18.4}Link Youtube Instalasi MapServer}{432}% 
+\contentsline {subsection}{\numberline {4.18.5}Instalasi MapProxy}{432}% 
+\contentsline {subsection}{\numberline {4.18.6}Membuka map menggunakan MapProxy}{433}% 
+\contentsline {subsection}{\numberline {4.18.7}Link Youtube MapProxy dan Menjalankannya}{435}% 
+\contentsline {chapter}{\numberline {5}Tugas Kelima}{437}% 
+\contentsline {section}{\numberline {5.1}Fanny Shafira Damayanti (1174069)}{437}% 
+\contentsline {subsection}{\numberline {5.1.1}LeafletJS dan Mapproxy}{437}% 
+\contentsline {subsection}{\numberline {5.1.2}Link Youtube MapProxy dan Menjalankannya}{439}% 
+\contentsline {section}{\numberline {5.2}Bakti Qilan Mufid (1174083)}{439}% 
+\contentsline {subsection}{\numberline {5.2.1}Menggunakan LeafletJS dengan MapProxy}{439}% 
+\contentsline {subsection}{\numberline {5.2.2}Link Youtube}{442}% 
+\contentsline {section}{\numberline {5.3}D. Irga B. Naufal Fakhri (1174066)}{442}% 
+\contentsline {subsection}{\numberline {5.3.1}LeafletJS dan MapProxy}{442}% 
+\contentsline {subsection}{\numberline {5.3.2}Link Youtube LeafletJS dan MapProxy}{443}% 
+\contentsline {section}{\numberline {5.4}Muhammad Reza Syachrani (1174084)}{444}% 
+\contentsline {subsection}{\numberline {5.4.1}Menggunakan LeafletJS dengan MapProxy}{444}% 
+\contentsline {subsection}{\numberline {5.4.2}Link Youtube}{448}% 
+\contentsline {section}{\numberline {5.5}Tia Nur Candida (1174086)}{448}% 
+\contentsline {subsection}{\numberline {5.5.1}Menggunakan LeafletJS dengan MapProxy}{448}% 
+\contentsline {subsection}{\numberline {5.5.2}Link Youtube}{450}% 
+\contentsline {section}{\numberline {5.6}Arrial Furqona Gifary (1174070)}{450}% 
+\contentsline {subsection}{\numberline {5.6.1}LeafletJS dan Mapproxy}{450}% 
+\contentsline {subsection}{\numberline {5.6.2}Link Youtube MapProxy dan Menjalankannya}{452}% 
+\contentsline {section}{\numberline {5.7}Alvan Alvanzah (1174077)}{452}% 
+\contentsline {subsection}{\numberline {5.7.1}Menggunakan LeafletJS dengan MapProxy}{452}% 
+\contentsline {subsection}{\numberline {5.7.2}Link Youtube}{455}% 
+\contentsline {section}{\numberline {5.8}Ilham Muhammad Ariq(1174087)}{455}% 
+\contentsline {subsection}{\numberline {5.8.1}Menggunakan LeafletJS dengan MapProxy}{455}% 
+\contentsline {subsection}{\numberline {5.8.2}Link Youtube}{458}% 
+\contentsline {section}{\numberline {5.9}Chandra Kirana Poetra (1174079)}{459}% 
+\contentsline {subsection}{\numberline {5.9.1}Menggunakan LeafletJS dengan MapProxy}{459}% 
+\contentsline {subsection}{\numberline {5.9.2}Link Youtube}{462}% 
+\contentsline {section}{\numberline {5.10}Difa Al Fansha (1174076)}{462}% 
+\contentsline {subsection}{\numberline {5.10.1}Menggunakan LeafletJS dengan MapProxy}{462}% 
+\contentsline {subsection}{\numberline {5.10.2}Link}{465}% 
+\contentsline {schapter}{Daftar Pustaka}{467}% 
+\contentsline {schapter}{Index}{469}% 
