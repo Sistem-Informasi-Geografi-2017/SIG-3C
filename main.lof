@@ -1,817 +1,837 @@
-\contentsline {figure}{\numberline {1.1\relax }{\ignorespaces Contoh gambar.}}{2}% 
-\contentsline {figure}{\numberline {1.2\relax }{\ignorespaces Gambar 1}}{3}% 
-\contentsline {figure}{\numberline {1.3\relax }{\ignorespaces Gambar 1}}{3}% 
-\contentsline {figure}{\numberline {1.4\relax }{\ignorespaces Gambar Plagiat}}{4}% 
-\contentsline {figure}{\numberline {1.5\relax }{\ignorespaces Tipe data Geospasial.}}{4}% 
-\contentsline {figure}{\numberline {1.6\relax }{\ignorespaces Plagiarisme.}}{6}% 
-\contentsline {figure}{\numberline {1.7\relax }{\ignorespaces Contoh gambar.}}{6}% 
-\contentsline {figure}{\numberline {1.8\relax }{\ignorespaces Plagiarisme.}}{8}% 
-\contentsline {figure}{\numberline {1.9\relax }{\ignorespaces Contoh gambar.}}{8}% 
-\contentsline {figure}{\numberline {1.10\relax }{\ignorespaces Gambar Plagiat}}{10}% 
-\contentsline {figure}{\numberline {1.11\relax }{\ignorespaces Gambar Plagiat}}{12}% 
-\contentsline {figure}{\numberline {1.12\relax }{\ignorespaces Gambar Garis Lintang}}{14}% 
-\contentsline {figure}{\numberline {1.13\relax }{\ignorespaces Gambar Garis Bujur}}{14}% 
-\contentsline {figure}{\numberline {1.14\relax }{\ignorespaces Gambar Plagiat}}{17}% 
-\contentsline {figure}{\numberline {1.15\relax }{\ignorespaces Data Vektor}}{18}% 
-\contentsline {figure}{\numberline {1.16\relax }{\ignorespaces Culture}}{18}% 
-\contentsline {figure}{\numberline {1.17\relax }{\ignorespaces Physycal}}{19}% 
-\contentsline {figure}{\numberline {1.18\relax }{\ignorespaces Data Raster}}{19}% 
-\contentsline {figure}{\numberline {1.19\relax }{\ignorespaces Plagiarism}}{20}% 
-\contentsline {figure}{\numberline {1.20\relax }{\ignorespaces Hasil Plagiarisme}}{22}% 
-\contentsline {figure}{\numberline {1.21\relax }{\ignorespaces Plagiarism}}{23}% 
-\contentsline {figure}{\numberline {1.22\relax }{\ignorespaces Gambar 1}}{24}% 
-\contentsline {figure}{\numberline {1.23\relax }{\ignorespaces Gambar 1}}{25}% 
-\contentsline {figure}{\numberline {1.24\relax }{\ignorespaces Gambar Plagiat}}{25}% 
-\contentsline {figure}{\numberline {1.25\relax }{\ignorespaces Data Raster}}{26}% 
-\contentsline {figure}{\numberline {1.26\relax }{\ignorespaces Data Vektor}}{27}% 
-\contentsline {figure}{\numberline {1.27\relax }{\ignorespaces check plagiarsm}}{27}% 
-\contentsline {figure}{\numberline {1.28\relax }{\ignorespaces Contoh gambar.}}{27}% 
-\contentsline {figure}{\numberline {1.29\relax }{\ignorespaces Plagiarisme.}}{29}% 
-\contentsline {figure}{\numberline {1.30\relax }{\ignorespaces Contoh gambar.}}{29}% 
-\contentsline {figure}{\numberline {1.31\relax }{\ignorespaces Gambar Plagiat}}{32}% 
-\contentsline {figure}{\numberline {1.32\relax }{\ignorespaces Gambar Plagiat}}{35}% 
-\contentsline {figure}{\numberline {1.33\relax }{\ignorespaces Gambar Plagiarisme}}{40}% 
-\contentsline {figure}{\numberline {1.34\relax }{\ignorespaces Gambar Plagiarisme 1174076}}{41}% 
-\contentsline {figure}{\numberline {1.35\relax }{\ignorespaces Gambar 1}}{42}% 
-\contentsline {figure}{\numberline {1.36\relax }{\ignorespaces Gambar 1}}{42}% 
-\contentsline {figure}{\numberline {1.37\relax }{\ignorespaces Gambar 1}}{43}% 
-\contentsline {figure}{\numberline {1.38\relax }{\ignorespaces Gambar Plagiat}}{43}% 
-\contentsline {figure}{\numberline {1.39\relax }{\ignorespaces Data Geospasial}}{44}% 
-\contentsline {figure}{\numberline {1.40\relax }{\ignorespaces Data Raster}}{44}% 
-\contentsline {figure}{\numberline {1.41\relax }{\ignorespaces Data Vektor}}{45}% 
-\contentsline {figure}{\numberline {1.42\relax }{\ignorespaces Open Geospasial Consortium}}{46}% 
-\contentsline {figure}{\numberline {1.43\relax }{\ignorespaces Check Plagiarism}}{46}% 
-\contentsline {figure}{\numberline {2.1\relax }{\ignorespaces Point (Titik)}}{52}% 
-\contentsline {figure}{\numberline {2.2\relax }{\ignorespaces Point (Titik)}}{53}% 
-\contentsline {figure}{\numberline {2.3\relax }{\ignorespaces Point (Titik)}}{54}% 
-\contentsline {figure}{\numberline {2.4\relax }{\ignorespaces Point (Titik)}}{55}% 
-\contentsline {figure}{\numberline {2.5\relax }{\ignorespaces PolyLine (Garis)}}{55}% 
-\contentsline {figure}{\numberline {2.6\relax }{\ignorespaces Polygon (Bidang)}}{56}% 
-\contentsline {figure}{\numberline {2.7\relax }{\ignorespaces Polygon (Bidang)}}{57}% 
-\contentsline {figure}{\numberline {2.8\relax }{\ignorespaces Polygon (Bidang)}}{58}% 
-\contentsline {figure}{\numberline {2.9\relax }{\ignorespaces Polygon (Bidang)}}{59}% 
-\contentsline {figure}{\numberline {2.10\relax }{\ignorespaces Polygon, Hasil modulus dari npm saya 1174066 adalah 2 jadi membuat bidang bujursangkar dan angka akhir dari npm saya adalah 6 jadi membuat bidangnya sebanyak 6}}{60}% 
-\contentsline {figure}{\numberline {2.11\relax }{\ignorespaces Hasil No 1}}{61}% 
-\contentsline {figure}{\numberline {2.12\relax }{\ignorespaces Hasil No 2}}{62}% 
-\contentsline {figure}{\numberline {2.13\relax }{\ignorespaces Hasil No 3}}{63}% 
-\contentsline {figure}{\numberline {2.14\relax }{\ignorespaces Hasil No 4}}{64}% 
-\contentsline {figure}{\numberline {2.15\relax }{\ignorespaces Hasil No 5}}{65}% 
-\contentsline {figure}{\numberline {2.16\relax }{\ignorespaces Hasil No 6}}{66}% 
-\contentsline {figure}{\numberline {2.17\relax }{\ignorespaces Hasil No 7}}{66}% 
-\contentsline {figure}{\numberline {2.18\relax }{\ignorespaces Hasil No 8}}{67}% 
-\contentsline {figure}{\numberline {2.19\relax }{\ignorespaces Hasil No 9}}{68}% 
-\contentsline {figure}{\numberline {2.20\relax }{\ignorespaces Hasil No 10, NPM saya adalah 1174079, maka hasil modulus 8 dari NPM 1174079 adalah 7, jadi membuat bidang segitaga siku-siku dan angka kedua terakhir di NPM saya dalah 7 maka saya akan membuat 7 buah segitiga siku siku}}{70}% 
-\contentsline {figure}{\numberline {2.21\relax }{\ignorespaces Point (Titik)}}{71}% 
-\contentsline {figure}{\numberline {2.22\relax }{\ignorespaces Point (Titik)}}{71}% 
-\contentsline {figure}{\numberline {2.23\relax }{\ignorespaces Point (Titik)}}{72}% 
-\contentsline {figure}{\numberline {2.24\relax }{\ignorespaces Point (Titik)}}{73}% 
-\contentsline {figure}{\numberline {2.25\relax }{\ignorespaces PolyLine (Garis)}}{74}% 
-\contentsline {figure}{\numberline {2.26\relax }{\ignorespaces Polygon (Bidang)}}{74}% 
-\contentsline {figure}{\numberline {2.27\relax }{\ignorespaces Polygon (Bidang)}}{75}% 
-\contentsline {figure}{\numberline {2.28\relax }{\ignorespaces Polygon (Bidang)}}{76}% 
-\contentsline {figure}{\numberline {2.29\relax }{\ignorespaces Polygon (Bidang)}}{77}% 
-\contentsline {figure}{\numberline {2.30\relax }{\ignorespaces Polygon, Hasil modulus dari npm saya 1174086 adalah 6 jadi membuat bidang trapesium dan angka kedua akhir dari npm saya adalah 8 jadi membuat bidangnya sebanyak 8}}{78}% 
-\contentsline {figure}{\numberline {2.31\relax }{\ignorespaces Point (Titik)}}{79}% 
-\contentsline {figure}{\numberline {2.32\relax }{\ignorespaces Point (Titik)}}{80}% 
-\contentsline {figure}{\numberline {2.33\relax }{\ignorespaces Point (Titik)}}{81}% 
-\contentsline {figure}{\numberline {2.34\relax }{\ignorespaces Point (Titik)}}{81}% 
-\contentsline {figure}{\numberline {2.35\relax }{\ignorespaces PolyLine (Garis)}}{82}% 
-\contentsline {figure}{\numberline {2.36\relax }{\ignorespaces PolyLine (Garis)}}{83}% 
-\contentsline {figure}{\numberline {2.37\relax }{\ignorespaces Polyline (Garis)}}{83}% 
-\contentsline {figure}{\numberline {2.38\relax }{\ignorespaces Polygon (Bidang)}}{84}% 
-\contentsline {figure}{\numberline {2.39\relax }{\ignorespaces Polygon (Bidang)}}{85}% 
-\contentsline {figure}{\numberline {2.40\relax }{\ignorespaces Polygon, Hasil modulus dari npm saya 1174071 adalah 7 , membuat bangun datar segitiga siku-siku. Angka kedua npm dari belakang adalah 7 sehingga membuat 7 bangun datar segita siku-siku}}{86}% 
-\contentsline {figure}{\numberline {2.41\relax }{\ignorespaces Point}}{87}% 
-\contentsline {figure}{\numberline {2.42\relax }{\ignorespaces Point}}{88}% 
-\contentsline {figure}{\numberline {2.43\relax }{\ignorespaces Point}}{89}% 
-\contentsline {figure}{\numberline {2.44\relax }{\ignorespaces Point}}{90}% 
-\contentsline {figure}{\numberline {2.45\relax }{\ignorespaces Polyline}}{91}% 
-\contentsline {figure}{\numberline {2.46\relax }{\ignorespaces Polygon}}{92}% 
-\contentsline {figure}{\numberline {2.47\relax }{\ignorespaces Polygon}}{92}% 
-\contentsline {figure}{\numberline {2.48\relax }{\ignorespaces Polygon}}{93}% 
-\contentsline {figure}{\numberline {2.49\relax }{\ignorespaces Polygon}}{94}% 
-\contentsline {figure}{\numberline {2.50\relax }{\ignorespaces Polygon, Hasil modulus dari npm saya 1174084 adalah 4 jadi membuat bidang jajargenjang dan angka akhir dari npm saya adalah 8 jadi membuat bidangnya sebanyak 8}}{96}% 
-\contentsline {figure}{\numberline {2.51\relax }{\ignorespaces Point (Titik)}}{97}% 
-\contentsline {figure}{\numberline {2.52\relax }{\ignorespaces Point (Titik)}}{98}% 
-\contentsline {figure}{\numberline {2.53\relax }{\ignorespaces Point (Titik)}}{99}% 
-\contentsline {figure}{\numberline {2.54\relax }{\ignorespaces Point (Titik)}}{99}% 
-\contentsline {figure}{\numberline {2.55\relax }{\ignorespaces PolyLine (Garis)}}{100}% 
-\contentsline {figure}{\numberline {2.56\relax }{\ignorespaces Polygon (Bidang)}}{101}% 
-\contentsline {figure}{\numberline {2.57\relax }{\ignorespaces Polygon (Bidang)}}{102}% 
-\contentsline {figure}{\numberline {2.58\relax }{\ignorespaces Polygon (Bidang)}}{102}% 
-\contentsline {figure}{\numberline {2.59\relax }{\ignorespaces Polygon (Bidang)}}{103}% 
-\contentsline {figure}{\numberline {2.60\relax }{\ignorespaces Polygon,Hasil modul dari NPM saya 1174069 adalah 5 jadi membuat bidang Belahketupat sebanyak 6 buah }}{105}% 
-\contentsline {figure}{\numberline {2.61\relax }{\ignorespaces Hasil No 1}}{106}% 
-\contentsline {figure}{\numberline {2.62\relax }{\ignorespaces Hasil No 2}}{107}% 
-\contentsline {figure}{\numberline {2.63\relax }{\ignorespaces Hasil No 3}}{108}% 
-\contentsline {figure}{\numberline {2.64\relax }{\ignorespaces Hasil No 4}}{108}% 
-\contentsline {figure}{\numberline {2.65\relax }{\ignorespaces Hasil No 5}}{109}% 
-\contentsline {figure}{\numberline {2.66\relax }{\ignorespaces Hasil No 6}}{110}% 
-\contentsline {figure}{\numberline {2.67\relax }{\ignorespaces Hasil No 7}}{111}% 
-\contentsline {figure}{\numberline {2.68\relax }{\ignorespaces Hasil No 8}}{112}% 
-\contentsline {figure}{\numberline {2.69\relax }{\ignorespaces Hasil No 9}}{113}% 
-\contentsline {figure}{\numberline {2.70\relax }{\ignorespaces Hasil No 10, NPM saya adalah 1174083, maka hasil modulus 8 dari NPM 1174083 adalah 3, jadi membuat bidang persegi panjang dan angka kedua terakhir di NPM saya dalah 8 maka saya akan membuat 8 buah persegi panjang}}{114}% 
-\contentsline {figure}{\numberline {2.71\relax }{\ignorespaces Point (Titik)}}{115}% 
-\contentsline {figure}{\numberline {2.72\relax }{\ignorespaces Point (Titik)}}{116}% 
-\contentsline {figure}{\numberline {2.73\relax }{\ignorespaces Point (Titik)}}{117}% 
-\contentsline {figure}{\numberline {2.74\relax }{\ignorespaces Point (Titik)}}{118}% 
-\contentsline {figure}{\numberline {2.75\relax }{\ignorespaces PolyLine (Garis)}}{119}% 
-\contentsline {figure}{\numberline {2.76\relax }{\ignorespaces Polygon (Bidang)}}{119}% 
-\contentsline {figure}{\numberline {2.77\relax }{\ignorespaces Polygon (Bidang)}}{120}% 
-\contentsline {figure}{\numberline {2.78\relax }{\ignorespaces Polygon (Bidang)}}{120}% 
-\contentsline {figure}{\numberline {2.79\relax }{\ignorespaces Polygon (Bidang)}}{121}% 
-\contentsline {figure}{\numberline {2.80\relax }{\ignorespaces Polygon, Hasil modulus 8 dari npm 1174067 adalah 3 sesui nomor 3 bidang persegipanjang dan angka akhir dari npm saya adalah 6 jadi membuat bidangnya sebanyak 6}}{123}% 
-\contentsline {figure}{\numberline {2.81\relax }{\ignorespaces Point (Titik)}}{124}% 
-\contentsline {figure}{\numberline {2.82\relax }{\ignorespaces Point (Titik)}}{125}% 
-\contentsline {figure}{\numberline {2.83\relax }{\ignorespaces Point (Titik)}}{126}% 
-\contentsline {figure}{\numberline {2.84\relax }{\ignorespaces Point (Titik)}}{127}% 
-\contentsline {figure}{\numberline {2.85\relax }{\ignorespaces PolyLine (Garis)}}{128}% 
-\contentsline {figure}{\numberline {2.86\relax }{\ignorespaces Polygon (Bidang)}}{128}% 
-\contentsline {figure}{\numberline {2.87\relax }{\ignorespaces Polygon (Bidang)}}{129}% 
-\contentsline {figure}{\numberline {2.88\relax }{\ignorespaces Polygon (Bidang)}}{130}% 
-\contentsline {figure}{\numberline {2.89\relax }{\ignorespaces Polygon (Bidang)}}{131}% 
-\contentsline {figure}{\numberline {2.90\relax }{\ignorespaces Polygon, Hasil modulus dari NPM masing masing}}{132}% 
-\contentsline {figure}{\numberline {2.91\relax }{\ignorespaces Point (Titik)}}{133}% 
-\contentsline {figure}{\numberline {2.92\relax }{\ignorespaces Point (Titik)}}{134}% 
-\contentsline {figure}{\numberline {2.93\relax }{\ignorespaces Point (Titik)}}{135}% 
-\contentsline {figure}{\numberline {2.94\relax }{\ignorespaces Point (Titik)}}{136}% 
-\contentsline {figure}{\numberline {2.95\relax }{\ignorespaces PolyLine (Garis)}}{137}% 
-\contentsline {figure}{\numberline {2.96\relax }{\ignorespaces Polygon (Bidang)}}{138}% 
-\contentsline {figure}{\numberline {2.97\relax }{\ignorespaces Polygon (Bidang)}}{139}% 
-\contentsline {figure}{\numberline {2.98\relax }{\ignorespaces Polygon (Bidang)}}{140}% 
-\contentsline {figure}{\numberline {2.99\relax }{\ignorespaces Polygon (Bidang)}}{141}% 
-\contentsline {figure}{\numberline {2.100\relax }{\ignorespaces Polygon, Hasil modulus dari npm saya 1174089 adalah membuatsegitiga sama sisi dan angka akhir dari npm saya adalah 8 jadi membuat bidangnya sebanyak 8}}{142}% 
-\contentsline {figure}{\numberline {2.101\relax }{\ignorespaces Point}}{143}% 
-\contentsline {figure}{\numberline {2.102\relax }{\ignorespaces Point}}{144}% 
-\contentsline {figure}{\numberline {2.103\relax }{\ignorespaces Point}}{145}% 
-\contentsline {figure}{\numberline {2.104\relax }{\ignorespaces Point (Titik)}}{146}% 
-\contentsline {figure}{\numberline {2.105\relax }{\ignorespaces PolyLine/Garis)}}{147}% 
-\contentsline {figure}{\numberline {2.106\relax }{\ignorespaces Polygon/Bidang}}{147}% 
-\contentsline {figure}{\numberline {2.107\relax }{\ignorespaces Polygon/Bidang}}{148}% 
-\contentsline {figure}{\numberline {2.108\relax }{\ignorespaces Polygon/Bidang}}{149}% 
-\contentsline {figure}{\numberline {2.109\relax }{\ignorespaces Polygon/Bidang}}{150}% 
-\contentsline {figure}{\numberline {2.110\relax }{\ignorespaces Polygon/Bidang (Hasil Dari Angka Ke2 Terkahir Dari Nmp yaitu Angka 6}}{151}% 
-\contentsline {figure}{\numberline {2.111\relax }{\ignorespaces gambar 1}}{152}% 
-\contentsline {figure}{\numberline {2.112\relax }{\ignorespaces gambar 2}}{153}% 
-\contentsline {figure}{\numberline {2.113\relax }{\ignorespaces gambar 3}}{154}% 
-\contentsline {figure}{\numberline {2.114\relax }{\ignorespaces gambar 4}}{155}% 
-\contentsline {figure}{\numberline {2.115\relax }{\ignorespaces gambar 5}}{156}% 
-\contentsline {figure}{\numberline {2.116\relax }{\ignorespaces gambar 6}}{156}% 
-\contentsline {figure}{\numberline {2.117\relax }{\ignorespaces gambar 7}}{157}% 
-\contentsline {figure}{\numberline {2.118\relax }{\ignorespaces gambar 8}}{158}% 
-\contentsline {figure}{\numberline {2.119\relax }{\ignorespaces gambar 9}}{158}% 
-\contentsline {figure}{\numberline {2.120\relax }{\ignorespaces gambar 10, 1174091 modulus 8 = 3 (persegi panjang) dengan jumlah 1174091=9}}{159}% 
-\contentsline {figure}{\numberline {2.121\relax }{\ignorespaces Point (Titik)}}{160}% 
-\contentsline {figure}{\numberline {2.122\relax }{\ignorespaces Point (Titik)}}{161}% 
-\contentsline {figure}{\numberline {2.123\relax }{\ignorespaces Point (Titik)}}{162}% 
-\contentsline {figure}{\numberline {2.124\relax }{\ignorespaces Point (Titik)}}{163}% 
-\contentsline {figure}{\numberline {2.125\relax }{\ignorespaces PolyLine (Garis)}}{164}% 
-\contentsline {figure}{\numberline {2.126\relax }{\ignorespaces Polygon (Bidang)}}{165}% 
-\contentsline {figure}{\numberline {2.127\relax }{\ignorespaces Polygon (Bidang)}}{165}% 
-\contentsline {figure}{\numberline {2.128\relax }{\ignorespaces Polygon (Bidang)}}{166}% 
-\contentsline {figure}{\numberline {2.129\relax }{\ignorespaces Polygon (Bidang)}}{167}% 
-\contentsline {figure}{\numberline {2.130\relax }{\ignorespaces Polygon, Hasil modulus dari npm saya 1174087 adalah 7 jadi membuat bidang segitiga siku-siku dan angka kedua dari belakang dari npm saya adalah 8 jadi membuat bidangnya sebanyak 8}}{169}% 
-\contentsline {figure}{\numberline {2.131\relax }{\ignorespaces Point (Titik)}}{170}% 
-\contentsline {figure}{\numberline {2.132\relax }{\ignorespaces Point (Titik)}}{170}% 
-\contentsline {figure}{\numberline {2.133\relax }{\ignorespaces Point (Titik)}}{171}% 
-\contentsline {figure}{\numberline {2.134\relax }{\ignorespaces Point (Titik)}}{172}% 
-\contentsline {figure}{\numberline {2.135\relax }{\ignorespaces PolyLine (Garis)}}{173}% 
-\contentsline {figure}{\numberline {2.136\relax }{\ignorespaces Polygon (Bidang)}}{173}% 
-\contentsline {figure}{\numberline {2.137\relax }{\ignorespaces Polygon (Bidang)}}{174}% 
-\contentsline {figure}{\numberline {2.138\relax }{\ignorespaces Polygon (Bidang)}}{175}% 
-\contentsline {figure}{\numberline {2.139\relax }{\ignorespaces Polygon (Bidang)}}{176}% 
-\contentsline {figure}{\numberline {2.140\relax }{\ignorespaces Polygon, Hasil modulus dari npm saya 1174073}}{177}% 
-\contentsline {figure}{\numberline {2.141\relax }{\ignorespaces Point (Titik)}}{178}% 
-\contentsline {figure}{\numberline {2.142\relax }{\ignorespaces Point (Titik)}}{179}% 
-\contentsline {figure}{\numberline {2.143\relax }{\ignorespaces Point (Titik)}}{180}% 
-\contentsline {figure}{\numberline {2.144\relax }{\ignorespaces Point (Titik)}}{181}% 
-\contentsline {figure}{\numberline {2.145\relax }{\ignorespaces PolyLine (Garis)}}{182}% 
-\contentsline {figure}{\numberline {2.146\relax }{\ignorespaces Polygon (Bidang)}}{183}% 
-\contentsline {figure}{\numberline {2.147\relax }{\ignorespaces Polygon (Bidang)}}{184}% 
-\contentsline {figure}{\numberline {2.148\relax }{\ignorespaces Polygon (Bidang)}}{185}% 
-\contentsline {figure}{\numberline {2.149\relax }{\ignorespaces Polygon (Bidang)}}{186}% 
-\contentsline {figure}{\numberline {2.150\relax }{\ignorespaces Polygon, Hasil modulus dari npm saya 1174070 adalah 2 jadi membuat bidang bujursangkar jadi membuat bidangnya sebanyak 6}}{187}% 
-\contentsline {figure}{\numberline {2.151\relax }{\ignorespaces Hasil No 1}}{188}% 
-\contentsline {figure}{\numberline {2.152\relax }{\ignorespaces Hasil No 2}}{189}% 
-\contentsline {figure}{\numberline {2.153\relax }{\ignorespaces Hasil No 3}}{190}% 
-\contentsline {figure}{\numberline {2.154\relax }{\ignorespaces Hasil No 4}}{190}% 
-\contentsline {figure}{\numberline {2.155\relax }{\ignorespaces Hasil No 5}}{191}% 
-\contentsline {figure}{\numberline {2.156\relax }{\ignorespaces Hasil No 6}}{192}% 
-\contentsline {figure}{\numberline {2.157\relax }{\ignorespaces Hasil No 7}}{193}% 
-\contentsline {figure}{\numberline {2.158\relax }{\ignorespaces Hasil No 8}}{193}% 
-\contentsline {figure}{\numberline {2.159\relax }{\ignorespaces Hasil No 9}}{194}% 
-\contentsline {figure}{\numberline {2.160\relax }{\ignorespaces Hasil No 10, NPM saya adalah 1174077, maka hasil modulus 8 dari NPM 1174077 adalah 5, jadi membuat bidang segitaga siku-siku dan angka kedua terakhir di NPM saya dalah 7 maka saya akan membuat 7 buah belah ketupat}}{196}% 
-\contentsline {figure}{\numberline {2.161\relax }{\ignorespaces Point (Titik)}}{197}% 
-\contentsline {figure}{\numberline {2.162\relax }{\ignorespaces Point (Titik)}}{198}% 
-\contentsline {figure}{\numberline {2.163\relax }{\ignorespaces Point (Titik)}}{199}% 
-\contentsline {figure}{\numberline {2.164\relax }{\ignorespaces Point (Titik)}}{200}% 
-\contentsline {figure}{\numberline {2.165\relax }{\ignorespaces PolyLine (Garis)}}{201}% 
-\contentsline {figure}{\numberline {2.166\relax }{\ignorespaces Polygon (Bidang)}}{201}% 
-\contentsline {figure}{\numberline {2.167\relax }{\ignorespaces Polygon (Bidang)}}{202}% 
-\contentsline {figure}{\numberline {2.168\relax }{\ignorespaces Polygon (Bidang)}}{203}% 
-\contentsline {figure}{\numberline {2.169\relax }{\ignorespaces Polygon (Bidang)}}{204}% 
-\contentsline {figure}{\numberline {2.170\relax }{\ignorespaces Polygon, Hasil modulus dari npm saya 1174054 adalah 6 jadi membuat bidang trapesium sebanyak 5 buah trapesium}}{205}% 
-\contentsline {figure}{\numberline {2.171\relax }{\ignorespaces Point (Titik)}}{206}% 
-\contentsline {figure}{\numberline {2.172\relax }{\ignorespaces Point (Titik)}}{207}% 
-\contentsline {figure}{\numberline {2.173\relax }{\ignorespaces Point (Titik)}}{208}% 
-\contentsline {figure}{\numberline {2.174\relax }{\ignorespaces Point (Titik)}}{208}% 
-\contentsline {figure}{\numberline {2.175\relax }{\ignorespaces PolyLine (Garis)}}{209}% 
-\contentsline {figure}{\numberline {2.176\relax }{\ignorespaces PolyLine (Garis)}}{210}% 
-\contentsline {figure}{\numberline {2.177\relax }{\ignorespaces Polyline (Garis)}}{210}% 
-\contentsline {figure}{\numberline {2.178\relax }{\ignorespaces Polygon (Bidang)}}{211}% 
-\contentsline {figure}{\numberline {2.179\relax }{\ignorespaces Polygon (Bidang)}}{212}% 
-\contentsline {figure}{\numberline {2.180\relax }{\ignorespaces Polygon, Hasil modulus dari npm saya (1174074) adalah 2 jadi membuat bidang bujursangkar dan angka akhir dari npm saya adalah 4 jadi membuat bidangnya sebanyak 4}}{212}% 
-\contentsline {figure}{\numberline {2.181\relax }{\ignorespaces Point (Titik)}}{213}% 
-\contentsline {figure}{\numberline {2.182\relax }{\ignorespaces Point (Titik)}}{214}% 
-\contentsline {figure}{\numberline {2.183\relax }{\ignorespaces Point (Titik)}}{215}% 
-\contentsline {figure}{\numberline {2.184\relax }{\ignorespaces Point (Titik)}}{216}% 
-\contentsline {figure}{\numberline {2.185\relax }{\ignorespaces PolyLine (Garis)}}{216}% 
-\contentsline {figure}{\numberline {2.186\relax }{\ignorespaces Polygon (Bidang)}}{217}% 
-\contentsline {figure}{\numberline {2.187\relax }{\ignorespaces Polygon (Bidang)}}{218}% 
-\contentsline {figure}{\numberline {2.188\relax }{\ignorespaces Polygon (Bidang)}}{218}% 
-\contentsline {figure}{\numberline {2.189\relax }{\ignorespaces Polygon (Bidang)}}{219}% 
-\contentsline {figure}{\numberline {2.190\relax }{\ignorespaces Polygon, Hasil modulus dari npm saya 1174053}}{220}% 
-\contentsline {figure}{\numberline {2.191\relax }{\ignorespaces Nomor 1 Point (Titik)}}{221}% 
-\contentsline {figure}{\numberline {2.192\relax }{\ignorespaces Nomor 2 Point (Titik)}}{222}% 
-\contentsline {figure}{\numberline {2.193\relax }{\ignorespaces Nomor 3 Point (Titik)}}{223}% 
-\contentsline {figure}{\numberline {2.194\relax }{\ignorespaces Nomor 4 Point (Titik)}}{224}% 
-\contentsline {figure}{\numberline {2.195\relax }{\ignorespaces Nomor 5 Garis}}{225}% 
-\contentsline {figure}{\numberline {2.196\relax }{\ignorespaces Nomor 6 Garis lurus}}{225}% 
-\contentsline {figure}{\numberline {2.197\relax }{\ignorespaces Nomor 7 Jam Pasir}}{226}% 
-\contentsline {figure}{\numberline {2.198\relax }{\ignorespaces Nomor 8 Jam Pasir}}{227}% 
-\contentsline {figure}{\numberline {2.199\relax }{\ignorespaces Nomor 9 Kotak dan Persegi Panjang}}{228}% 
-\contentsline {figure}{\numberline {2.200\relax }{\ignorespaces Nomor 10 Jajar Genjang}}{229}% 
-\contentsline {figure}{\numberline {3.1\relax }{\ignorespaces Gambar Soal 1}}{232}% 
-\contentsline {figure}{\numberline {3.2\relax }{\ignorespaces Gambar Soal 2)}}{232}% 
-\contentsline {figure}{\numberline {3.3\relax }{\ignorespaces Gambar Soal 3}}{233}% 
-\contentsline {figure}{\numberline {3.4\relax }{\ignorespaces Gambar Soal 4}}{233}% 
-\contentsline {figure}{\numberline {3.5\relax }{\ignorespaces Gambar Soal 5)}}{234}% 
-\contentsline {figure}{\numberline {3.6\relax }{\ignorespaces Gambar Soal 6}}{234}% 
-\contentsline {figure}{\numberline {3.7\relax }{\ignorespaces Gambar Soal 7)}}{235}% 
-\contentsline {figure}{\numberline {3.8\relax }{\ignorespaces Gambar Soal 8)}}{235}% 
-\contentsline {figure}{\numberline {3.9\relax }{\ignorespaces Gambar Soal 9}}{236}% 
-\contentsline {figure}{\numberline {3.10\relax }{\ignorespaces Gambar Soal 10 }}{236}% 
-\contentsline {figure}{\numberline {3.11\relax }{\ignorespaces Gambar Soal 11 }}{237}% 
-\contentsline {figure}{\numberline {3.12\relax }{\ignorespaces Gambar Soal 1}}{237}% 
-\contentsline {figure}{\numberline {3.13\relax }{\ignorespaces Gambar Soal 2)}}{238}% 
-\contentsline {figure}{\numberline {3.14\relax }{\ignorespaces Gambar Soal 3}}{238}% 
-\contentsline {figure}{\numberline {3.15\relax }{\ignorespaces Gambar Soal 4}}{239}% 
-\contentsline {figure}{\numberline {3.16\relax }{\ignorespaces Gambar Soal 5)}}{240}% 
-\contentsline {figure}{\numberline {3.17\relax }{\ignorespaces Gambar Soal 6}}{240}% 
-\contentsline {figure}{\numberline {3.18\relax }{\ignorespaces Gambar Soal 7)}}{241}% 
-\contentsline {figure}{\numberline {3.19\relax }{\ignorespaces Gambar Soal 8)}}{241}% 
-\contentsline {figure}{\numberline {3.20\relax }{\ignorespaces Gambar Soal 9}}{242}% 
-\contentsline {figure}{\numberline {3.21\relax }{\ignorespaces Gambar Soal 10 }}{242}% 
-\contentsline {figure}{\numberline {3.22\relax }{\ignorespaces Gambar Soal 11 }}{243}% 
-\contentsline {figure}{\numberline {3.23\relax }{\ignorespaces Gambar Soal 1}}{248}% 
-\contentsline {figure}{\numberline {3.24\relax }{\ignorespaces Gambar Soal 2)}}{249}% 
-\contentsline {figure}{\numberline {3.25\relax }{\ignorespaces Gambar Soal 3}}{249}% 
-\contentsline {figure}{\numberline {3.26\relax }{\ignorespaces Gambar Soal 4}}{250}% 
-\contentsline {figure}{\numberline {3.27\relax }{\ignorespaces Gambar Soal 5)}}{250}% 
-\contentsline {figure}{\numberline {3.28\relax }{\ignorespaces Gambar Soal 6}}{251}% 
-\contentsline {figure}{\numberline {3.29\relax }{\ignorespaces Gambar Soal 7)}}{251}% 
-\contentsline {figure}{\numberline {3.30\relax }{\ignorespaces Gambar Soal 8)}}{252}% 
-\contentsline {figure}{\numberline {3.31\relax }{\ignorespaces Gambar Soal 9}}{252}% 
-\contentsline {figure}{\numberline {3.32\relax }{\ignorespaces Gambar Soal 10 }}{253}% 
-\contentsline {figure}{\numberline {3.33\relax }{\ignorespaces Gambar Soal 11 }}{253}% 
-\contentsline {figure}{\numberline {3.34\relax }{\ignorespaces Hasil Soal No.1}}{254}% 
-\contentsline {figure}{\numberline {3.35\relax }{\ignorespaces Hasil Soal No.2}}{254}% 
-\contentsline {figure}{\numberline {3.36\relax }{\ignorespaces Hasil Soal No.3}}{255}% 
-\contentsline {figure}{\numberline {3.37\relax }{\ignorespaces Hasil Soal No.4}}{256}% 
-\contentsline {figure}{\numberline {3.38\relax }{\ignorespaces Hasil Soal No.5}}{257}% 
-\contentsline {figure}{\numberline {3.39\relax }{\ignorespaces Hasil Soal No.6}}{258}% 
-\contentsline {figure}{\numberline {3.40\relax }{\ignorespaces Hasil Soal No.7}}{258}% 
-\contentsline {figure}{\numberline {3.41\relax }{\ignorespaces Hasil Soal No.8}}{259}% 
-\contentsline {figure}{\numberline {3.42\relax }{\ignorespaces Hasil Soal No.9}}{260}% 
-\contentsline {figure}{\numberline {3.43\relax }{\ignorespaces Hasil Soal No.10}}{260}% 
-\contentsline {figure}{\numberline {3.44\relax }{\ignorespaces Hasil Soal No.11}}{261}% 
-\contentsline {figure}{\numberline {3.45\relax }{\ignorespaces Hasil Soal 1}}{262}% 
-\contentsline {figure}{\numberline {3.46\relax }{\ignorespaces Hasil Soal 2}}{262}% 
-\contentsline {figure}{\numberline {3.47\relax }{\ignorespaces Hasil Soal 3}}{262}% 
-\contentsline {figure}{\numberline {3.48\relax }{\ignorespaces Hasil Soal 4}}{263}% 
-\contentsline {figure}{\numberline {3.49\relax }{\ignorespaces Hasil Soal 5}}{263}% 
-\contentsline {figure}{\numberline {3.50\relax }{\ignorespaces Hasil Soal 6}}{264}% 
-\contentsline {figure}{\numberline {3.51\relax }{\ignorespaces Hasil Soal 7}}{264}% 
-\contentsline {figure}{\numberline {3.52\relax }{\ignorespaces Hasil Soal 8}}{265}% 
-\contentsline {figure}{\numberline {3.53\relax }{\ignorespaces Hasil Soal 9}}{265}% 
-\contentsline {figure}{\numberline {3.54\relax }{\ignorespaces Hasil Soal 10 }}{265}% 
-\contentsline {figure}{\numberline {3.55\relax }{\ignorespaces Hasil Soal 11}}{266}% 
-\contentsline {figure}{\numberline {3.56\relax }{\ignorespaces Gambar Soal 1}}{266}% 
-\contentsline {figure}{\numberline {3.57\relax }{\ignorespaces Gambar Soal 2)}}{267}% 
-\contentsline {figure}{\numberline {3.58\relax }{\ignorespaces Gambar Soal 3}}{267}% 
-\contentsline {figure}{\numberline {3.59\relax }{\ignorespaces Gambar Soal 4}}{267}% 
-\contentsline {figure}{\numberline {3.60\relax }{\ignorespaces Gambar Soal 5)}}{268}% 
-\contentsline {figure}{\numberline {3.61\relax }{\ignorespaces Gambar Soal 6}}{268}% 
-\contentsline {figure}{\numberline {3.62\relax }{\ignorespaces Gambar Soal 7)}}{269}% 
-\contentsline {figure}{\numberline {3.63\relax }{\ignorespaces Gambar Soal 8)}}{269}% 
-\contentsline {figure}{\numberline {3.64\relax }{\ignorespaces Gambar Soal 9}}{270}% 
-\contentsline {figure}{\numberline {3.65\relax }{\ignorespaces Gambar Soal 10 }}{270}% 
-\contentsline {figure}{\numberline {3.66\relax }{\ignorespaces Gambar Soal 11 }}{271}% 
-\contentsline {figure}{\numberline {3.67\relax }{\ignorespaces Gambar Soal 1}}{271}% 
-\contentsline {figure}{\numberline {3.68\relax }{\ignorespaces Gambar Soal 2)}}{272}% 
-\contentsline {figure}{\numberline {3.69\relax }{\ignorespaces Gambar Soal 3}}{272}% 
-\contentsline {figure}{\numberline {3.70\relax }{\ignorespaces Gambar Soal 4}}{273}% 
-\contentsline {figure}{\numberline {3.71\relax }{\ignorespaces Gambar Soal 5)}}{273}% 
-\contentsline {figure}{\numberline {3.72\relax }{\ignorespaces Gambar Soal 6}}{274}% 
-\contentsline {figure}{\numberline {3.73\relax }{\ignorespaces Gambar Soal 7)}}{274}% 
-\contentsline {figure}{\numberline {3.74\relax }{\ignorespaces Gambar Soal 8)}}{275}% 
-\contentsline {figure}{\numberline {3.75\relax }{\ignorespaces Gambar Soal 9}}{275}% 
-\contentsline {figure}{\numberline {3.76\relax }{\ignorespaces Gambar Soal 10 }}{276}% 
-\contentsline {figure}{\numberline {3.77\relax }{\ignorespaces Gambar Soal 11 }}{276}% 
-\contentsline {figure}{\numberline {3.78\relax }{\ignorespaces Gambar Soal 1}}{277}% 
-\contentsline {figure}{\numberline {3.79\relax }{\ignorespaces Gambar Soal 2)}}{278}% 
-\contentsline {figure}{\numberline {3.80\relax }{\ignorespaces Gambar Soal 3}}{278}% 
-\contentsline {figure}{\numberline {3.81\relax }{\ignorespaces Gambar Soal 4}}{279}% 
-\contentsline {figure}{\numberline {3.82\relax }{\ignorespaces Gambar Soal 5)}}{279}% 
-\contentsline {figure}{\numberline {3.83\relax }{\ignorespaces Gambar Soal 6}}{280}% 
-\contentsline {figure}{\numberline {3.84\relax }{\ignorespaces Gambar Soal 7)}}{280}% 
-\contentsline {figure}{\numberline {3.85\relax }{\ignorespaces Gambar Soal 8)}}{281}% 
-\contentsline {figure}{\numberline {3.86\relax }{\ignorespaces Gambar Soal 9}}{281}% 
-\contentsline {figure}{\numberline {3.87\relax }{\ignorespaces Gambar Soal 10 }}{282}% 
-\contentsline {figure}{\numberline {3.88\relax }{\ignorespaces Gambar Soal 11 }}{282}% 
-\contentsline {figure}{\numberline {3.89\relax }{\ignorespaces GambarNO 1}}{283}% 
-\contentsline {figure}{\numberline {3.90\relax }{\ignorespaces GambarNO 2)}}{283}% 
-\contentsline {figure}{\numberline {3.91\relax }{\ignorespaces Gambar NO 3}}{284}% 
-\contentsline {figure}{\numberline {3.92\relax }{\ignorespaces Gambar NOl 4}}{284}% 
-\contentsline {figure}{\numberline {3.93\relax }{\ignorespaces Gambar NO 5)}}{285}% 
-\contentsline {figure}{\numberline {3.94\relax }{\ignorespaces Gambar NOl 6}}{285}% 
-\contentsline {figure}{\numberline {3.95\relax }{\ignorespaces Gambar NOl 7)}}{286}% 
-\contentsline {figure}{\numberline {3.96\relax }{\ignorespaces Gambar NO 8)}}{286}% 
-\contentsline {figure}{\numberline {3.97\relax }{\ignorespaces Gambar NO 9}}{287}% 
-\contentsline {figure}{\numberline {3.98\relax }{\ignorespaces Gambar NOl 10 }}{287}% 
-\contentsline {figure}{\numberline {3.99\relax }{\ignorespaces Gambar NO 11 }}{288}% 
-\contentsline {figure}{\numberline {3.100\relax }{\ignorespaces Gambar Soal 2)}}{289}% 
-\contentsline {figure}{\numberline {3.101\relax }{\ignorespaces Gambar Soal 3}}{289}% 
-\contentsline {figure}{\numberline {3.102\relax }{\ignorespaces Gambar Soal 4}}{290}% 
-\contentsline {figure}{\numberline {3.103\relax }{\ignorespaces Gambar Soal 5)}}{290}% 
-\contentsline {figure}{\numberline {3.104\relax }{\ignorespaces Gambar Soal 6}}{290}% 
-\contentsline {figure}{\numberline {3.105\relax }{\ignorespaces Gambar Soal 7)}}{291}% 
-\contentsline {figure}{\numberline {3.106\relax }{\ignorespaces Gambar Soal 8)}}{291}% 
-\contentsline {figure}{\numberline {3.107\relax }{\ignorespaces Gambar Soal 9}}{292}% 
-\contentsline {figure}{\numberline {3.108\relax }{\ignorespaces Gambar Soal 10 }}{292}% 
-\contentsline {figure}{\numberline {3.109\relax }{\ignorespaces Gambar Soal 11 }}{292}% 
-\contentsline {figure}{\numberline {3.110\relax }{\ignorespaces Hasil No 1}}{293}% 
-\contentsline {figure}{\numberline {3.111\relax }{\ignorespaces Hasil No 2}}{294}% 
-\contentsline {figure}{\numberline {3.112\relax }{\ignorespaces Hasil No 3}}{294}% 
-\contentsline {figure}{\numberline {3.113\relax }{\ignorespaces Hasil No 4}}{295}% 
-\contentsline {figure}{\numberline {3.114\relax }{\ignorespaces Hasil No 5.1}}{296}% 
-\contentsline {figure}{\numberline {3.115\relax }{\ignorespaces Hasil No 5.2(lanjutan}}{296}% 
-\contentsline {figure}{\numberline {3.116\relax }{\ignorespaces Hasil No 6}}{297}% 
-\contentsline {figure}{\numberline {3.117\relax }{\ignorespaces Hasil No 7}}{297}% 
-\contentsline {figure}{\numberline {3.118\relax }{\ignorespaces Hasil No 8}}{298}% 
-\contentsline {figure}{\numberline {3.119\relax }{\ignorespaces Hasil No 9}}{299}% 
-\contentsline {figure}{\numberline {3.120\relax }{\ignorespaces Hasil No 10}}{299}% 
-\contentsline {figure}{\numberline {3.121\relax }{\ignorespaces Hasil No 11}}{300}% 
-\contentsline {figure}{\numberline {3.122\relax }{\ignorespaces Hasil Soal 1}}{301}% 
-\contentsline {figure}{\numberline {3.123\relax }{\ignorespaces Hasil Soal 2}}{301}% 
-\contentsline {figure}{\numberline {3.124\relax }{\ignorespaces Hasil Soal 3}}{301}% 
-\contentsline {figure}{\numberline {3.125\relax }{\ignorespaces Hasil Soal 4}}{302}% 
-\contentsline {figure}{\numberline {3.126\relax }{\ignorespaces Hasil Soal 5}}{302}% 
-\contentsline {figure}{\numberline {3.127\relax }{\ignorespaces Hasil Soal 6}}{303}% 
-\contentsline {figure}{\numberline {3.128\relax }{\ignorespaces Hasil Soal 7}}{303}% 
-\contentsline {figure}{\numberline {3.129\relax }{\ignorespaces Hasil Soal 8}}{303}% 
-\contentsline {figure}{\numberline {3.130\relax }{\ignorespaces Hasil Soal 9}}{304}% 
-\contentsline {figure}{\numberline {3.131\relax }{\ignorespaces Hasil Soal 10 }}{304}% 
-\contentsline {figure}{\numberline {3.132\relax }{\ignorespaces Hasil Soal 11}}{305}% 
-\contentsline {figure}{\numberline {3.133\relax }{\ignorespaces Gambar Soal 1}}{305}% 
-\contentsline {figure}{\numberline {3.134\relax }{\ignorespaces Gambar Soal 2)}}{306}% 
-\contentsline {figure}{\numberline {3.135\relax }{\ignorespaces Gambar Soal 3}}{306}% 
-\contentsline {figure}{\numberline {3.136\relax }{\ignorespaces Gambar Soal 4}}{307}% 
-\contentsline {figure}{\numberline {3.137\relax }{\ignorespaces Gambar Soal 5)}}{307}% 
-\contentsline {figure}{\numberline {3.138\relax }{\ignorespaces Gambar Soal 6}}{308}% 
-\contentsline {figure}{\numberline {3.139\relax }{\ignorespaces Gambar Soal 7)}}{308}% 
-\contentsline {figure}{\numberline {3.140\relax }{\ignorespaces Gambar Soal 8)}}{309}% 
-\contentsline {figure}{\numberline {3.141\relax }{\ignorespaces Gambar Soal 9}}{309}% 
-\contentsline {figure}{\numberline {3.142\relax }{\ignorespaces Gambar Soal 10 }}{310}% 
-\contentsline {figure}{\numberline {3.143\relax }{\ignorespaces Gambar Soal 11 }}{310}% 
-\contentsline {figure}{\numberline {3.144\relax }{\ignorespaces Gambar No.1}}{311}% 
-\contentsline {figure}{\numberline {3.145\relax }{\ignorespaces Gambar No.2}}{311}% 
-\contentsline {figure}{\numberline {3.146\relax }{\ignorespaces Gambar No.3}}{311}% 
-\contentsline {figure}{\numberline {3.147\relax }{\ignorespaces Gambar No.4}}{312}% 
-\contentsline {figure}{\numberline {3.148\relax }{\ignorespaces Gambar No.5}}{312}% 
-\contentsline {figure}{\numberline {3.149\relax }{\ignorespaces Gambar No.6}}{313}% 
-\contentsline {figure}{\numberline {3.150\relax }{\ignorespaces Gambar No.7}}{313}% 
-\contentsline {figure}{\numberline {3.151\relax }{\ignorespaces Gambar No.8}}{314}% 
-\contentsline {figure}{\numberline {3.152\relax }{\ignorespaces Gambar No.9}}{314}% 
-\contentsline {figure}{\numberline {3.153\relax }{\ignorespaces Gambar No.10}}{315}% 
-\contentsline {figure}{\numberline {3.154\relax }{\ignorespaces Gambar No.11}}{315}% 
-\contentsline {figure}{\numberline {3.155\relax }{\ignorespaces Hasil Soal 1}}{316}% 
-\contentsline {figure}{\numberline {3.156\relax }{\ignorespaces Hasil Soal 2}}{316}% 
-\contentsline {figure}{\numberline {3.157\relax }{\ignorespaces Hasil Soal 3}}{317}% 
-\contentsline {figure}{\numberline {3.158\relax }{\ignorespaces Hasil Soal 4}}{317}% 
-\contentsline {figure}{\numberline {3.159\relax }{\ignorespaces Hasil Soal 5}}{318}% 
-\contentsline {figure}{\numberline {3.160\relax }{\ignorespaces Hasil Soal 6}}{318}% 
-\contentsline {figure}{\numberline {3.161\relax }{\ignorespaces Hasil Soal 7}}{319}% 
-\contentsline {figure}{\numberline {3.162\relax }{\ignorespaces Hasil Soal 8}}{319}% 
-\contentsline {figure}{\numberline {3.163\relax }{\ignorespaces Hasil Soal 9}}{319}% 
-\contentsline {figure}{\numberline {3.164\relax }{\ignorespaces Hasil Soal 10 }}{320}% 
-\contentsline {figure}{\numberline {3.165\relax }{\ignorespaces Hasil Soal 11}}{320}% 
-\contentsline {figure}{\numberline {3.166\relax }{\ignorespaces Gambar Soal 1}}{321}% 
-\contentsline {figure}{\numberline {3.167\relax }{\ignorespaces Gambar Soal 2)}}{321}% 
-\contentsline {figure}{\numberline {3.168\relax }{\ignorespaces Gambar Soal 3}}{321}% 
-\contentsline {figure}{\numberline {3.169\relax }{\ignorespaces Gambar Soal 4}}{322}% 
-\contentsline {figure}{\numberline {3.170\relax }{\ignorespaces Gambar Soal 5)}}{322}% 
-\contentsline {figure}{\numberline {3.171\relax }{\ignorespaces Gambar Soal 6}}{322}% 
-\contentsline {figure}{\numberline {3.172\relax }{\ignorespaces Gambar Soal 7)}}{323}% 
-\contentsline {figure}{\numberline {3.173\relax }{\ignorespaces Gambar Soal 8)}}{323}% 
-\contentsline {figure}{\numberline {3.174\relax }{\ignorespaces Gambar Soal 9}}{323}% 
-\contentsline {figure}{\numberline {3.175\relax }{\ignorespaces Gambar Soal 10 }}{324}% 
-\contentsline {figure}{\numberline {3.176\relax }{\ignorespaces Gambar Soal 11 }}{324}% 
-\contentsline {figure}{\numberline {3.177\relax }{\ignorespaces Hasil Soal 1}}{324}% 
-\contentsline {figure}{\numberline {3.178\relax }{\ignorespaces Hasil Soal 2}}{325}% 
-\contentsline {figure}{\numberline {3.179\relax }{\ignorespaces Hasil Soal 3}}{325}% 
-\contentsline {figure}{\numberline {3.180\relax }{\ignorespaces Hasil Soal 4}}{326}% 
-\contentsline {figure}{\numberline {3.181\relax }{\ignorespaces Hasil Soal 5}}{326}% 
-\contentsline {figure}{\numberline {3.182\relax }{\ignorespaces Hasil Soal 6}}{327}% 
-\contentsline {figure}{\numberline {3.183\relax }{\ignorespaces Hasil Soal 7}}{327}% 
-\contentsline {figure}{\numberline {3.184\relax }{\ignorespaces Hasil Soal 8}}{327}% 
-\contentsline {figure}{\numberline {3.185\relax }{\ignorespaces Hasil Soal 9}}{328}% 
-\contentsline {figure}{\numberline {3.186\relax }{\ignorespaces Hasil Soal 10 }}{328}% 
-\contentsline {figure}{\numberline {3.187\relax }{\ignorespaces Hasil Soal 11}}{329}% 
-\contentsline {figure}{\numberline {3.188\relax }{\ignorespaces Gambar Soal 1}}{329}% 
-\contentsline {figure}{\numberline {3.189\relax }{\ignorespaces Gambar Soal 2)}}{330}% 
-\contentsline {figure}{\numberline {3.190\relax }{\ignorespaces Gambar Soal 3}}{330}% 
-\contentsline {figure}{\numberline {3.191\relax }{\ignorespaces Gambar Soal 4}}{331}% 
-\contentsline {figure}{\numberline {3.192\relax }{\ignorespaces Gambar Soal 5)}}{332}% 
-\contentsline {figure}{\numberline {3.193\relax }{\ignorespaces Gambar Soal 6}}{332}% 
-\contentsline {figure}{\numberline {3.194\relax }{\ignorespaces Gambar Soal 7)}}{333}% 
-\contentsline {figure}{\numberline {3.195\relax }{\ignorespaces Gambar Soal 8)}}{333}% 
-\contentsline {figure}{\numberline {3.196\relax }{\ignorespaces Gambar Soal 9}}{334}% 
-\contentsline {figure}{\numberline {3.197\relax }{\ignorespaces Gambar Soal 10 }}{334}% 
-\contentsline {figure}{\numberline {3.198\relax }{\ignorespaces Gambar Soal 11 }}{335}% 
-\contentsline {figure}{\numberline {4.1\relax }{\ignorespaces Download MS4W}}{337}% 
-\contentsline {figure}{\numberline {4.2\relax }{\ignorespaces Folder Apache}}{338}% 
-\contentsline {figure}{\numberline {4.3\relax }{\ignorespaces Folder conf}}{338}% 
-\contentsline {figure}{\numberline {4.4\relax }{\ignorespaces File httpd.conf}}{338}% 
-\contentsline {figure}{\numberline {4.5\relax }{\ignorespaces Edit file httpd.conf}}{338}% 
-\contentsline {figure}{\numberline {4.6\relax }{\ignorespaces Task Manager}}{339}% 
-\contentsline {figure}{\numberline {4.7\relax }{\ignorespaces Pilih tab service dan pilih ApacheMS4WWebServer}}{339}% 
-\contentsline {figure}{\numberline {4.8\relax }{\ignorespaces Mengakses Halaman Service}}{339}% 
-\contentsline {figure}{\numberline {4.9\relax }{\ignorespaces Instalasi MapProxy}}{340}% 
-\contentsline {figure}{\numberline {4.10\relax }{\ignorespaces Buat folder tmp}}{340}% 
-\contentsline {figure}{\numberline {4.11\relax }{\ignorespaces File agm.yaml}}{340}% 
-\contentsline {figure}{\numberline {4.12\relax }{\ignorespaces Edit lokasi mymap.map}}{340}% 
-\contentsline {figure}{\numberline {4.13\relax }{\ignorespaces Edit path binary mapserv}}{341}% 
-\contentsline {figure}{\numberline {4.14\relax }{\ignorespaces Edit path working-dir}}{341}% 
-\contentsline {figure}{\numberline {4.15\relax }{\ignorespaces Aplikasi MS4W-Shell}}{341}% 
-\contentsline {figure}{\numberline {4.16\relax }{\ignorespaces Buka Folder gede}}{341}% 
-\contentsline {figure}{\numberline {4.17\relax }{\ignorespaces Buka Folder mapproxy}}{341}% 
-\contentsline {figure}{\numberline {4.18\relax }{\ignorespaces Buka aplikasi mapproxy}}{342}% 
-\contentsline {figure}{\numberline {4.19\relax }{\ignorespaces Buka mapproxy pada browser}}{342}% 
-\contentsline {figure}{\numberline {4.20\relax }{\ignorespaces MapProxy menampilkan map}}{342}% 
-\contentsline {figure}{\numberline {4.21\relax }{\ignorespaces Install MS4W 4.0.1}}{343}% 
-\contentsline {figure}{\numberline {4.22\relax }{\ignorespaces Install MS4W 4.0.1}}{343}% 
-\contentsline {figure}{\numberline {4.23\relax }{\ignorespaces Install MS4W 4.0.1}}{343}% 
-\contentsline {figure}{\numberline {4.24\relax }{\ignorespaces Install MS4W 4.0.1}}{344}% 
-\contentsline {figure}{\numberline {4.25\relax }{\ignorespaces Install MS4W 4.0.1}}{344}% 
-\contentsline {figure}{\numberline {4.26\relax }{\ignorespaces Install MS4W 4.0.1}}{344}% 
-\contentsline {figure}{\numberline {4.27\relax }{\ignorespaces Instalasi MapProxy}}{345}% 
-\contentsline {figure}{\numberline {4.28\relax }{\ignorespaces Buat folder tmp}}{345}% 
-\contentsline {figure}{\numberline {4.29\relax }{\ignorespaces File agm.yaml}}{345}% 
-\contentsline {figure}{\numberline {4.30\relax }{\ignorespaces Buka Folder gede}}{346}% 
-\contentsline {figure}{\numberline {4.31\relax }{\ignorespaces Buka mapproxy pada browser}}{346}% 
-\contentsline {figure}{\numberline {4.32\relax }{\ignorespaces MapProxy menampilkan map}}{346}% 
-\contentsline {figure}{\numberline {4.33\relax }{\ignorespaces Download installer Map Server.}}{347}% 
-\contentsline {figure}{\numberline {4.34\relax }{\ignorespaces Klik 2x Installer}}{347}% 
-\contentsline {figure}{\numberline {4.35\relax }{\ignorespaces Klik "I Agree".}}{347}% 
-\contentsline {figure}{\numberline {4.36\relax }{\ignorespaces Tipe instalasi "Full".}}{348}% 
-\contentsline {figure}{\numberline {4.37\relax }{\ignorespaces Pilih direktori instalasi}}{348}% 
-\contentsline {figure}{\numberline {4.38\relax }{\ignorespaces Isi port Apache.}}{349}% 
-\contentsline {figure}{\numberline {4.39\relax }{\ignorespaces Proses instalasi.}}{349}% 
-\contentsline {figure}{\numberline {4.40\relax }{\ignorespaces Akhir proses instalasi.}}{350}% 
-\contentsline {figure}{\numberline {4.41\relax }{\ignorespaces Install Map Proxy}}{350}% 
-\contentsline {figure}{\numberline {4.42\relax }{\ignorespaces Install pyproj}}{350}% 
-\contentsline {figure}{\numberline {4.43\relax }{\ignorespaces git clone}}{351}% 
-\contentsline {figure}{\numberline {4.44\relax }{\ignorespaces buat folder tmp}}{351}% 
-\contentsline {figure}{\numberline {4.45\relax }{\ignorespaces Edit lokasi mymap.map}}{351}% 
-\contentsline {figure}{\numberline {4.46\relax }{\ignorespaces Edit binary dan path working-dir}}{352}% 
-\contentsline {figure}{\numberline {4.47\relax }{\ignorespaces Buka aplikasi mapproxy}}{352}% 
-\contentsline {figure}{\numberline {4.48\relax }{\ignorespaces Buka mapproxy pada browser}}{352}% 
-\contentsline {figure}{\numberline {4.49\relax }{\ignorespaces MapProxy menampilkan map}}{352}% 
-\contentsline {figure}{\numberline {4.50\relax }{\ignorespaces Download MS4W}}{353}% 
-\contentsline {figure}{\numberline {4.51\relax }{\ignorespaces Folder conf}}{353}% 
-\contentsline {figure}{\numberline {4.52\relax }{\ignorespaces File httpd.conf}}{353}% 
-\contentsline {figure}{\numberline {4.53\relax }{\ignorespaces Instalasi MapProxy}}{354}% 
-\contentsline {figure}{\numberline {4.54\relax }{\ignorespaces Buka mapproxy pada browser}}{354}% 
-\contentsline {figure}{\numberline {4.55\relax }{\ignorespaces MapProxy menampilkan map}}{355}% 
-\contentsline {figure}{\numberline {4.56\relax }{\ignorespaces Download MS4W}}{355}% 
-\contentsline {figure}{\numberline {4.57\relax }{\ignorespaces Download MS4W}}{355}% 
-\contentsline {figure}{\numberline {4.58\relax }{\ignorespaces Download MS4W}}{356}% 
-\contentsline {figure}{\numberline {4.59\relax }{\ignorespaces Folder }}{356}% 
-\contentsline {figure}{\numberline {4.60\relax }{\ignorespaces File httpd.conf}}{356}% 
-\contentsline {figure}{\numberline {4.61\relax }{\ignorespaces Task Manager}}{357}% 
-\contentsline {figure}{\numberline {4.62\relax }{\ignorespaces Pilih tab service dan pilih ApacheMS4WWebServer}}{357}% 
-\contentsline {figure}{\numberline {4.63\relax }{\ignorespaces Instalasi MapProxy}}{357}% 
-\contentsline {figure}{\numberline {4.64\relax }{\ignorespaces Buat folder tmp}}{358}% 
-\contentsline {figure}{\numberline {4.65\relax }{\ignorespaces File agm.yaml}}{358}% 
-\contentsline {figure}{\numberline {4.66\relax }{\ignorespaces Edit lokasi mymap.map}}{358}% 
-\contentsline {figure}{\numberline {4.67\relax }{\ignorespaces Edit path binary mapserv}}{358}% 
-\contentsline {figure}{\numberline {4.68\relax }{\ignorespaces Aplikasi MS4W-Shell}}{358}% 
-\contentsline {figure}{\numberline {4.69\relax }{\ignorespaces Buka Folder gede}}{359}% 
-\contentsline {figure}{\numberline {4.70\relax }{\ignorespaces Buka Folder mapproxy}}{359}% 
-\contentsline {figure}{\numberline {4.71\relax }{\ignorespaces Buka aplikasi mapproxy}}{359}% 
-\contentsline {figure}{\numberline {4.72\relax }{\ignorespaces Buka mapproxy pada browser}}{359}% 
-\contentsline {figure}{\numberline {4.73\relax }{\ignorespaces MapProxy menampilkan map}}{359}% 
-\contentsline {figure}{\numberline {4.74\relax }{\ignorespaces Download File MS4W}}{360}% 
-\contentsline {figure}{\numberline {4.75\relax }{\ignorespaces Install File exe}}{360}% 
-\contentsline {figure}{\numberline {4.76\relax }{\ignorespaces Isi Folder apache}}{360}% 
-\contentsline {figure}{\numberline {4.77\relax }{\ignorespaces Isi Folder conf}}{361}% 
-\contentsline {figure}{\numberline {4.78\relax }{\ignorespaces Listen port 80}}{361}% 
-\contentsline {figure}{\numberline {4.79\relax }{\ignorespaces Mengakses Halaman Service}}{361}% 
-\contentsline {figure}{\numberline {4.80\relax }{\ignorespaces Pengaturan Service Apache MS4W Web Server}}{361}% 
-\contentsline {figure}{\numberline {4.81\relax }{\ignorespaces Pengaturan Service Apache MS4W Web Server}}{362}% 
-\contentsline {figure}{\numberline {4.82\relax }{\ignorespaces Download atau clone file di github}}{362}% 
-\contentsline {figure}{\numberline {4.83\relax }{\ignorespaces Isi folder shp}}{362}% 
-\contentsline {figure}{\numberline {4.84\relax }{\ignorespaces Hasil Gambar file 00}}{363}% 
-\contentsline {figure}{\numberline {4.85\relax }{\ignorespaces Hasil Gambar file btsnegara}}{363}% 
-\contentsline {figure}{\numberline {4.86\relax }{\ignorespaces Instalasi MapProxy}}{363}% 
-\contentsline {figure}{\numberline {4.87\relax }{\ignorespaces Instalasi PyProj}}{364}% 
-\contentsline {figure}{\numberline {4.88\relax }{\ignorespaces Membuat folder baru tmp}}{364}% 
-\contentsline {figure}{\numberline {4.89\relax }{\ignorespaces File agm.yaml}}{364}% 
-\contentsline {figure}{\numberline {4.90\relax }{\ignorespaces Edit lokasi mywms.map}}{364}% 
-\contentsline {figure}{\numberline {4.91\relax }{\ignorespaces Edit path binary mapserv}}{365}% 
-\contentsline {figure}{\numberline {4.92\relax }{\ignorespaces Edit path working-dir}}{365}% 
-\contentsline {figure}{\numberline {4.93\relax }{\ignorespaces Aplikasi MS4W-Shell}}{365}% 
-\contentsline {figure}{\numberline {4.94\relax }{\ignorespaces Buka Folder gede}}{365}% 
-\contentsline {figure}{\numberline {4.95\relax }{\ignorespaces Buka Folder mapproxy}}{365}% 
-\contentsline {figure}{\numberline {4.96\relax }{\ignorespaces Buka aplikasi mapproxy}}{365}% 
-\contentsline {figure}{\numberline {4.97\relax }{\ignorespaces MapProxy menampilkan map}}{366}% 
-\contentsline {figure}{\numberline {4.98\relax }{\ignorespaces MapProxy menampilkan map}}{366}% 
-\contentsline {figure}{\numberline {4.99\relax }{\ignorespaces Download File MS4W}}{366}% 
-\contentsline {figure}{\numberline {4.100\relax }{\ignorespaces Install File exe}}{367}% 
-\contentsline {figure}{\numberline {4.101\relax }{\ignorespaces Isi Folder apache}}{367}% 
-\contentsline {figure}{\numberline {4.102\relax }{\ignorespaces Isi Folder conf}}{367}% 
-\contentsline {figure}{\numberline {4.103\relax }{\ignorespaces Listen port 80}}{367}% 
-\contentsline {figure}{\numberline {4.104\relax }{\ignorespaces Mengakses Halaman Service}}{368}% 
-\contentsline {figure}{\numberline {4.105\relax }{\ignorespaces Pengaturan Service Apache MS4W Web Server}}{368}% 
-\contentsline {figure}{\numberline {4.106\relax }{\ignorespaces Pengaturan Service Apache MS4W Web Server}}{368}% 
-\contentsline {figure}{\numberline {4.107\relax }{\ignorespaces Download atau clone file di github}}{369}% 
-\contentsline {figure}{\numberline {4.108\relax }{\ignorespaces Isi folder shp}}{369}% 
-\contentsline {figure}{\numberline {4.109\relax }{\ignorespaces Hasil Gambar file 00}}{369}% 
-\contentsline {figure}{\numberline {4.110\relax }{\ignorespaces Hasil Gambar file btsnegara}}{370}% 
-\contentsline {figure}{\numberline {4.111\relax }{\ignorespaces Instalasi MapProxy}}{370}% 
-\contentsline {figure}{\numberline {4.112\relax }{\ignorespaces Instalasi PyProj}}{370}% 
-\contentsline {figure}{\numberline {4.113\relax }{\ignorespaces Membuat folder baru tmp}}{371}% 
-\contentsline {figure}{\numberline {4.114\relax }{\ignorespaces File agm.yaml}}{371}% 
-\contentsline {figure}{\numberline {4.115\relax }{\ignorespaces Edit lokasi mywms.map}}{371}% 
-\contentsline {figure}{\numberline {4.116\relax }{\ignorespaces Edit path binary mapserv}}{371}% 
-\contentsline {figure}{\numberline {4.117\relax }{\ignorespaces Edit path working-dir}}{371}% 
-\contentsline {figure}{\numberline {4.118\relax }{\ignorespaces Aplikasi MS4W-Shell}}{372}% 
-\contentsline {figure}{\numberline {4.119\relax }{\ignorespaces Buka Folder gede}}{372}% 
-\contentsline {figure}{\numberline {4.120\relax }{\ignorespaces Buka Folder mapproxy}}{372}% 
-\contentsline {figure}{\numberline {4.121\relax }{\ignorespaces Buka aplikasi mapproxy}}{372}% 
-\contentsline {figure}{\numberline {4.122\relax }{\ignorespaces MapProxy menampilkan map}}{372}% 
-\contentsline {figure}{\numberline {4.123\relax }{\ignorespaces MapProxy menampilkan map}}{373}% 
-\contentsline {figure}{\numberline {4.124\relax }{\ignorespaces Download MS4W}}{373}% 
-\contentsline {figure}{\numberline {4.125\relax }{\ignorespaces Folder Apache}}{373}% 
-\contentsline {figure}{\numberline {4.126\relax }{\ignorespaces Folder conf}}{374}% 
-\contentsline {figure}{\numberline {4.127\relax }{\ignorespaces File httpd.conf}}{374}% 
-\contentsline {figure}{\numberline {4.128\relax }{\ignorespaces Edit file httpd.conf}}{374}% 
-\contentsline {figure}{\numberline {4.129\relax }{\ignorespaces Services.msc}}{374}% 
-\contentsline {figure}{\numberline {4.130\relax }{\ignorespaces pilih ApacheMS4WWebServer}}{375}% 
-\contentsline {figure}{\numberline {4.131\relax }{\ignorespaces Mengakses Halaman Service}}{375}% 
-\contentsline {figure}{\numberline {4.132\relax }{\ignorespaces Instalasi MapProxy}}{375}% 
-\contentsline {figure}{\numberline {4.133\relax }{\ignorespaces buat folder tmp}}{375}% 
-\contentsline {figure}{\numberline {4.134\relax }{\ignorespaces Edit lokasi mymap.map}}{376}% 
-\contentsline {figure}{\numberline {4.135\relax }{\ignorespaces Edit binary dan path working-dir}}{376}% 
-\contentsline {figure}{\numberline {4.136\relax }{\ignorespaces Buka aplikasi mapproxy}}{376}% 
-\contentsline {figure}{\numberline {4.137\relax }{\ignorespaces Buka mapproxy pada browser}}{376}% 
-\contentsline {figure}{\numberline {4.138\relax }{\ignorespaces MapProxy menampilkan map}}{377}% 
-\contentsline {figure}{\numberline {4.139\relax }{\ignorespaces Download installer Map Server.}}{377}% 
-\contentsline {figure}{\numberline {4.140\relax }{\ignorespaces Klik 2x Installer}}{377}% 
-\contentsline {figure}{\numberline {4.141\relax }{\ignorespaces Klik "I Agree".}}{378}% 
-\contentsline {figure}{\numberline {4.142\relax }{\ignorespaces Tipe instalasi "Full".}}{378}% 
-\contentsline {figure}{\numberline {4.143\relax }{\ignorespaces Pilih direktori instalasi}}{379}% 
-\contentsline {figure}{\numberline {4.144\relax }{\ignorespaces Isi port Apache.}}{379}% 
-\contentsline {figure}{\numberline {4.145\relax }{\ignorespaces Proses instalasi.}}{380}% 
-\contentsline {figure}{\numberline {4.146\relax }{\ignorespaces Akhir proses instalasi.}}{380}% 
-\contentsline {figure}{\numberline {4.147\relax }{\ignorespaces Install Map Proxy}}{381}% 
-\contentsline {figure}{\numberline {4.148\relax }{\ignorespaces Install pyproj}}{381}% 
-\contentsline {figure}{\numberline {4.149\relax }{\ignorespaces git clone}}{381}% 
-\contentsline {figure}{\numberline {4.150\relax }{\ignorespaces buat folder tmp}}{382}% 
-\contentsline {figure}{\numberline {4.151\relax }{\ignorespaces Edit lokasi mymap.map}}{382}% 
-\contentsline {figure}{\numberline {4.152\relax }{\ignorespaces Edit binary dan path working-dir}}{382}% 
-\contentsline {figure}{\numberline {4.153\relax }{\ignorespaces Buka aplikasi mapproxy}}{382}% 
-\contentsline {figure}{\numberline {4.154\relax }{\ignorespaces Buka mapproxy pada browser}}{383}% 
-\contentsline {figure}{\numberline {4.155\relax }{\ignorespaces MapProxy menampilkan map}}{383}% 
-\contentsline {figure}{\numberline {4.156\relax }{\ignorespaces Download installer Map Server}}{383}% 
-\contentsline {figure}{\numberline {4.157\relax }{\ignorespaces Menjalankan file ms4w-4.0.1-setup.exe}}{383}% 
-\contentsline {figure}{\numberline {4.158\relax }{\ignorespaces Setuju dengan persyaratan}}{384}% 
-\contentsline {figure}{\numberline {4.159\relax }{\ignorespaces Pilih Komponen yang di install}}{384}% 
-\contentsline {figure}{\numberline {4.160\relax }{\ignorespaces Tentukan path dari file}}{385}% 
-\contentsline {figure}{\numberline {4.161\relax }{\ignorespaces Tentukan port map server}}{385}% 
-\contentsline {figure}{\numberline {4.162\relax }{\ignorespaces Install selesai}}{386}% 
-\contentsline {figure}{\numberline {4.163\relax }{\ignorespaces Install Map Proxy}}{386}% 
-\contentsline {figure}{\numberline {4.164\relax }{\ignorespaces Install Pyproj}}{386}% 
-\contentsline {figure}{\numberline {4.165\relax }{\ignorespaces Install Map Proxy}}{387}% 
-\contentsline {figure}{\numberline {4.166\relax }{\ignorespaces Install Map Proxy}}{387}% 
-\contentsline {figure}{\numberline {4.167\relax }{\ignorespaces Install Map Proxy}}{387}% 
-\contentsline {figure}{\numberline {4.168\relax }{\ignorespaces Install Map Proxy}}{388}% 
-\contentsline {figure}{\numberline {4.169\relax }{\ignorespaces Download installer Map Server.}}{388}% 
-\contentsline {figure}{\numberline {4.170\relax }{\ignorespaces Klik dua kali pada installer.}}{389}% 
-\contentsline {figure}{\numberline {4.171\relax }{\ignorespaces Klik "I Agree".}}{389}% 
-\contentsline {figure}{\numberline {4.172\relax }{\ignorespaces Tipe instalasi "Full".}}{390}% 
-\contentsline {figure}{\numberline {4.173\relax }{\ignorespaces Pilih direktori instalasi}}{390}% 
-\contentsline {figure}{\numberline {4.174\relax }{\ignorespaces Isi port Apache.}}{391}% 
-\contentsline {figure}{\numberline {4.175\relax }{\ignorespaces Proses instalasi.}}{391}% 
-\contentsline {figure}{\numberline {4.176\relax }{\ignorespaces Akhir proses instalasi.}}{392}% 
-\contentsline {figure}{\numberline {4.177\relax }{\ignorespaces Install Map Proxy}}{392}% 
-\contentsline {figure}{\numberline {4.178\relax }{\ignorespaces Install pyproj}}{392}% 
-\contentsline {figure}{\numberline {4.179\relax }{\ignorespaces Isi Folder httpd.d}}{393}% 
-\contentsline {figure}{\numberline {4.180\relax }{\ignorespaces Membuat file baru}}{393}% 
-\contentsline {figure}{\numberline {4.181\relax }{\ignorespaces Konfigurasi File Tersebut}}{393}% 
-\contentsline {figure}{\numberline {4.182\relax }{\ignorespaces Isi Folder Apps}}{393}% 
-\contentsline {figure}{\numberline {4.183\relax }{\ignorespaces Membuat folder baru}}{394}% 
-\contentsline {figure}{\numberline {4.184\relax }{\ignorespaces Membuat file baru}}{394}% 
-\contentsline {figure}{\numberline {4.185\relax }{\ignorespaces Isi mywfs.map 1}}{394}% 
-\contentsline {figure}{\numberline {4.186\relax }{\ignorespaces Tampilan Web}}{394}% 
-\contentsline {figure}{\numberline {4.187\relax }{\ignorespaces File shp dengan XML}}{395}% 
-\contentsline {figure}{\numberline {4.188\relax }{\ignorespaces Hasil}}{395}% 
-\contentsline {figure}{\numberline {4.189\relax }{\ignorespaces Download}}{395}% 
-\contentsline {figure}{\numberline {4.190\relax }{\ignorespaces Download}}{396}% 
-\contentsline {figure}{\numberline {4.191\relax }{\ignorespaces Konfigurasi}}{396}% 
-\contentsline {figure}{\numberline {4.192\relax }{\ignorespaces Konfigurasi}}{396}% 
-\contentsline {figure}{\numberline {4.193\relax }{\ignorespaces Konfigurasi}}{397}% 
-\contentsline {figure}{\numberline {4.194\relax }{\ignorespaces Konfigurasi}}{397}% 
-\contentsline {figure}{\numberline {4.195\relax }{\ignorespaces Instalasi}}{397}% 
-\contentsline {figure}{\numberline {4.196\relax }{\ignorespaces Buat folder}}{398}% 
-\contentsline {figure}{\numberline {4.197\relax }{\ignorespaces File}}{398}% 
-\contentsline {figure}{\numberline {4.198\relax }{\ignorespaces Edit amg.yaml}}{398}% 
-\contentsline {figure}{\numberline {4.199\relax }{\ignorespaces Buka aplikasi mapproxy}}{398}% 
-\contentsline {figure}{\numberline {4.200\relax }{\ignorespaces Download installer Map Server.}}{399}% 
-\contentsline {figure}{\numberline {4.201\relax }{\ignorespaces Klik dua kali pada installer.}}{399}% 
-\contentsline {figure}{\numberline {4.202\relax }{\ignorespaces Klik "I Agree".}}{400}% 
-\contentsline {figure}{\numberline {4.203\relax }{\ignorespaces Tipe instalasi "Full".}}{400}% 
-\contentsline {figure}{\numberline {4.204\relax }{\ignorespaces Pilih direktori instalasi}}{401}% 
-\contentsline {figure}{\numberline {4.205\relax }{\ignorespaces Isi port Apache.}}{401}% 
-\contentsline {figure}{\numberline {4.206\relax }{\ignorespaces Proses instalasi.}}{402}% 
-\contentsline {figure}{\numberline {4.207\relax }{\ignorespaces Akhir proses instalasi.}}{402}% 
-\contentsline {figure}{\numberline {4.208\relax }{\ignorespaces Install Map Proxy}}{403}% 
-\contentsline {figure}{\numberline {4.209\relax }{\ignorespaces Install pyproj}}{403}% 
-\contentsline {figure}{\numberline {4.210\relax }{\ignorespaces Buat folder tmp}}{403}% 
-\contentsline {figure}{\numberline {4.211\relax }{\ignorespaces File agm.yaml}}{404}% 
-\contentsline {figure}{\numberline {4.212\relax }{\ignorespaces Edit lokasi mymap.map}}{404}% 
-\contentsline {figure}{\numberline {4.213\relax }{\ignorespaces Aplikasi MS4W-Shell}}{404}% 
-\contentsline {figure}{\numberline {4.214\relax }{\ignorespaces Buka Folder gede}}{404}% 
-\contentsline {figure}{\numberline {4.215\relax }{\ignorespaces Buka Folder mapproxy}}{404}% 
-\contentsline {figure}{\numberline {4.216\relax }{\ignorespaces Buka aplikasi mapproxy}}{405}% 
-\contentsline {figure}{\numberline {4.217\relax }{\ignorespaces Buka mapproxy pada browser}}{405}% 
-\contentsline {figure}{\numberline {4.218\relax }{\ignorespaces MapProxy menampilkan map}}{405}% 
-\contentsline {figure}{\numberline {4.219\relax }{\ignorespaces Download MS4W}}{406}% 
-\contentsline {figure}{\numberline {4.220\relax }{\ignorespaces Proses Install}}{406}% 
-\contentsline {figure}{\numberline {4.221\relax }{\ignorespaces Install selesai}}{406}% 
-\contentsline {figure}{\numberline {4.222\relax }{\ignorespaces Instalasi MapProxy di cmd}}{407}% 
-\contentsline {figure}{\numberline {4.223\relax }{\ignorespaces Buat folder tmp}}{407}% 
-\contentsline {figure}{\numberline {4.224\relax }{\ignorespaces File agm.yaml}}{408}% 
-\contentsline {figure}{\numberline {4.225\relax }{\ignorespaces Edit lokasi mymap.map}}{408}% 
-\contentsline {figure}{\numberline {4.226\relax }{\ignorespaces Edit path binary mapserv}}{408}% 
-\contentsline {figure}{\numberline {4.227\relax }{\ignorespaces Buka aplikasi mapproxy}}{408}% 
-\contentsline {figure}{\numberline {4.228\relax }{\ignorespaces Buka mapproxy pada browser}}{408}% 
-\contentsline {figure}{\numberline {4.229\relax }{\ignorespaces MapProxy menampilkan map}}{409}% 
-\contentsline {figure}{\numberline {4.230\relax }{\ignorespaces Halaman download map server untuk windows}}{409}% 
-\contentsline {figure}{\numberline {4.231\relax }{\ignorespaces Halaman download map server untuk selain windows}}{409}% 
-\contentsline {figure}{\numberline {4.232\relax }{\ignorespaces File yang telah didownload}}{410}% 
-\contentsline {figure}{\numberline {4.233\relax }{\ignorespaces Agree Instalasi}}{410}% 
-\contentsline {figure}{\numberline {4.234\relax }{\ignorespaces Full Instalasi}}{410}% 
-\contentsline {figure}{\numberline {4.235\relax }{\ignorespaces Penyimpanan Instalasi}}{411}% 
-\contentsline {figure}{\numberline {4.236\relax }{\ignorespaces Menggunakan Port 80}}{411}% 
-\contentsline {figure}{\numberline {4.237\relax }{\ignorespaces Proses Instalasi}}{411}% 
-\contentsline {figure}{\numberline {4.238\relax }{\ignorespaces Membuka folder ms4w}}{412}% 
-\contentsline {figure}{\numberline {4.239\relax }{\ignorespaces Isi Folder ms4w}}{412}% 
-\contentsline {figure}{\numberline {4.240\relax }{\ignorespaces Isi Folder Apache}}{412}% 
-\contentsline {figure}{\numberline {4.241\relax }{\ignorespaces Isi Folder Conf}}{413}% 
-\contentsline {figure}{\numberline {4.242\relax }{\ignorespaces Listen port}}{413}% 
-\contentsline {figure}{\numberline {4.243\relax }{\ignorespaces Mengakses Halaman Service}}{413}% 
-\contentsline {figure}{\numberline {4.244\relax }{\ignorespaces Pengaturan Service Apache MS4W Web Server}}{414}% 
-\contentsline {figure}{\numberline {4.245\relax }{\ignorespaces Isi Folder httpd.d}}{414}% 
-\contentsline {figure}{\numberline {4.246\relax }{\ignorespaces Membuat file baru}}{414}% 
-\contentsline {figure}{\numberline {4.247\relax }{\ignorespaces Konfigurasi File Tersebut}}{414}% 
-\contentsline {figure}{\numberline {4.248\relax }{\ignorespaces Isi Folder Apps}}{415}% 
-\contentsline {figure}{\numberline {4.249\relax }{\ignorespaces Membuat folder baru}}{415}% 
-\contentsline {figure}{\numberline {4.250\relax }{\ignorespaces Membuat file baru}}{415}% 
-\contentsline {figure}{\numberline {4.251\relax }{\ignorespaces Isi mywfs.map 1}}{415}% 
-\contentsline {figure}{\numberline {4.252\relax }{\ignorespaces Isi mywfs.map 2}}{416}% 
-\contentsline {figure}{\numberline {4.253\relax }{\ignorespaces Hasil}}{416}% 
-\contentsline {figure}{\numberline {4.254\relax }{\ignorespaces Instalasi MapProxy}}{416}% 
-\contentsline {figure}{\numberline {4.255\relax }{\ignorespaces Buat folder tmp}}{417}% 
-\contentsline {figure}{\numberline {4.256\relax }{\ignorespaces Edit lokasi mymap.map}}{417}% 
-\contentsline {figure}{\numberline {4.257\relax }{\ignorespaces Edit path binary mapserv}}{417}% 
-\contentsline {figure}{\numberline {4.258\relax }{\ignorespaces Edit path working-dir}}{418}% 
-\contentsline {figure}{\numberline {4.259\relax }{\ignorespaces Buka Folder gede dan mapproxy}}{418}% 
-\contentsline {figure}{\numberline {4.260\relax }{\ignorespaces Buka aplikasi mapproxy}}{418}% 
-\contentsline {figure}{\numberline {4.261\relax }{\ignorespaces Buka mapproxy pada browser}}{418}% 
-\contentsline {figure}{\numberline {4.262\relax }{\ignorespaces MapProxy menampilkan map}}{419}% 
-\contentsline {figure}{\numberline {4.263\relax }{\ignorespaces Pilih menu download}}{419}% 
-\contentsline {figure}{\numberline {4.264\relax }{\ignorespaces Download aplikasi MS4W}}{419}% 
-\contentsline {figure}{\numberline {4.265\relax }{\ignorespaces Klik "I Agree" lalu install seperti biasa}}{420}% 
-\contentsline {figure}{\numberline {4.266\relax }{\ignorespaces Install mapproxy}}{420}% 
-\contentsline {figure}{\numberline {4.267\relax }{\ignorespaces Install pyproj}}{420}% 
-\contentsline {figure}{\numberline {4.268\relax }{\ignorespaces Membuka service}}{420}% 
-\contentsline {figure}{\numberline {4.269\relax }{\ignorespaces MS4W Web Server Automatic}}{421}% 
-\contentsline {figure}{\numberline {4.270\relax }{\ignorespaces Download repository gede}}{421}% 
-\contentsline {figure}{\numberline {4.271\relax }{\ignorespaces Extract repository}}{421}% 
-\contentsline {figure}{\numberline {4.272\relax }{\ignorespaces Buka folder shp}}{422}% 
-\contentsline {figure}{\numberline {4.273\relax }{\ignorespaces Hasil gambar 00.shp Negara Indonesia}}{422}% 
-\contentsline {figure}{\numberline {4.274\relax }{\ignorespaces Hasil gambar btsnegara.shp peta dunia}}{422}% 
-\contentsline {figure}{\numberline {4.275\relax }{\ignorespaces Hasil 00.shp dan btsnegara.shp peta dunia dengan batas negara Indonesia}}{423}% 
-\contentsline {figure}{\numberline {4.276\relax }{\ignorespaces Isi folder mapproxy}}{423}% 
-\contentsline {figure}{\numberline {4.277\relax }{\ignorespaces Konfigurasi map:lokasi file mwmys.map, binary:lokasi instal MS4C, dan workingdir:lokasi folder tmp di dalam folder gede }}{423}% 
-\contentsline {figure}{\numberline {4.278\relax }{\ignorespaces Jalankan map server}}{423}% 
-\contentsline {figure}{\numberline {4.279\relax }{\ignorespaces Buka mapproxy pada browser}}{424}% 
-\contentsline {figure}{\numberline {4.280\relax }{\ignorespaces Pilih png atau jpg}}{424}% 
-\contentsline {figure}{\numberline {4.281\relax }{\ignorespaces Hasil mapproxy}}{424}% 
-\contentsline {figure}{\numberline {4.282\relax }{\ignorespaces Gambar Link Download MS4W}}{425}% 
-\contentsline {figure}{\numberline {4.283\relax }{\ignorespaces Gambar Untuk Install File exe}}{425}% 
-\contentsline {figure}{\numberline {4.284\relax }{\ignorespaces Gambar Proses Instalasi Ms4w}}{425}% 
-\contentsline {figure}{\numberline {4.285\relax }{\ignorespaces Gambar Untuk File http.conf}}{426}% 
-\contentsline {figure}{\numberline {4.286\relax }{\ignorespaces Gambar Listen port 80}}{426}% 
-\contentsline {figure}{\numberline {4.287\relax }{\ignorespaces Gambar Untuk Mengakses Halaman Service}}{426}% 
-\contentsline {figure}{\numberline {4.288\relax }{\ignorespaces Gambar Untuk Mengakses Halaman Service}}{426}% 
-\contentsline {figure}{\numberline {4.289\relax }{\ignorespaces Link Github}}{427}% 
-\contentsline {figure}{\numberline {4.290\relax }{\ignorespaces Gambar Untuk Download File}}{427}% 
-\contentsline {figure}{\numberline {4.291\relax }{\ignorespaces Gambar di File aqm.ymal}}{427}% 
-\contentsline {figure}{\numberline {4.292\relax }{\ignorespaces Gambar Untuk Aplikasi QGIS}}{428}% 
-\contentsline {figure}{\numberline {4.293\relax }{\ignorespaces Gambar Hasil 00.shp}}{428}% 
-\contentsline {figure}{\numberline {4.294\relax }{\ignorespaces Gambar Hasil bts negara.shp}}{428}% 
-\contentsline {figure}{\numberline {4.295\relax }{\ignorespaces Instalasi MapProxy}}{429}% 
-\contentsline {figure}{\numberline {4.296\relax }{\ignorespaces Download File MS4W}}{429}% 
-\contentsline {figure}{\numberline {4.297\relax }{\ignorespaces Install File exe}}{429}% 
-\contentsline {figure}{\numberline {4.298\relax }{\ignorespaces Isi Folder apache}}{430}% 
-\contentsline {figure}{\numberline {4.299\relax }{\ignorespaces Isi Folder conf}}{430}% 
-\contentsline {figure}{\numberline {4.300\relax }{\ignorespaces Listen port 80}}{430}% 
-\contentsline {figure}{\numberline {4.301\relax }{\ignorespaces Mengakses Halaman Service}}{430}% 
-\contentsline {figure}{\numberline {4.302\relax }{\ignorespaces Pengaturan Service Apache MS4W Web Server}}{431}% 
-\contentsline {figure}{\numberline {4.303\relax }{\ignorespaces Pengaturan Service Apache MS4W Web Server}}{431}% 
-\contentsline {figure}{\numberline {4.304\relax }{\ignorespaces Download atau clone file di github}}{431}% 
-\contentsline {figure}{\numberline {4.305\relax }{\ignorespaces Isi folder shp}}{432}% 
-\contentsline {figure}{\numberline {4.306\relax }{\ignorespaces Hasil Gambar file 00}}{432}% 
-\contentsline {figure}{\numberline {4.307\relax }{\ignorespaces Hasil Gambar file btsnegara}}{432}% 
-\contentsline {figure}{\numberline {4.308\relax }{\ignorespaces Instalasi MapProxy}}{432}% 
-\contentsline {figure}{\numberline {4.309\relax }{\ignorespaces Instalasi PyProj}}{433}% 
-\contentsline {figure}{\numberline {4.310\relax }{\ignorespaces Membuat folder baru tmp}}{433}% 
-\contentsline {figure}{\numberline {4.311\relax }{\ignorespaces File agm.yaml}}{433}% 
-\contentsline {figure}{\numberline {4.312\relax }{\ignorespaces Edit lokasi mywms.map}}{433}% 
-\contentsline {figure}{\numberline {4.313\relax }{\ignorespaces Edit path binary mapserv}}{434}% 
-\contentsline {figure}{\numberline {4.314\relax }{\ignorespaces Edit path working-dir}}{434}% 
-\contentsline {figure}{\numberline {4.315\relax }{\ignorespaces Aplikasi MS4W-Shell}}{434}% 
-\contentsline {figure}{\numberline {4.316\relax }{\ignorespaces Buka Folder gede}}{434}% 
-\contentsline {figure}{\numberline {4.317\relax }{\ignorespaces Buka Folder mapproxy}}{434}% 
-\contentsline {figure}{\numberline {4.318\relax }{\ignorespaces Buka aplikasi mapproxy}}{434}% 
-\contentsline {figure}{\numberline {4.319\relax }{\ignorespaces MapProxy menampilkan map}}{435}% 
-\contentsline {figure}{\numberline {4.320\relax }{\ignorespaces MapProxy menampilkan map}}{435}% 
-\contentsline {figure}{\numberline {5.1\relax }{\ignorespaces Run Mapproxy}}{437}% 
-\contentsline {figure}{\numberline {5.2\relax }{\ignorespaces Isi Basic.html}}{438}% 
-\contentsline {figure}{\numberline {5.3\relax }{\ignorespaces Hasil dari Basic.html}}{438}% 
-\contentsline {figure}{\numberline {5.4\relax }{\ignorespaces Isi dari marker.html}}{438}% 
-\contentsline {figure}{\numberline {5.5\relax }{\ignorespaces Isi dari marker.html}}{438}% 
-\contentsline {figure}{\numberline {5.6\relax }{\ignorespaces Gambar 1}}{439}% 
-\contentsline {figure}{\numberline {5.7\relax }{\ignorespaces Gambar 2}}{439}% 
-\contentsline {figure}{\numberline {5.8\relax }{\ignorespaces Gambar 3}}{440}% 
-\contentsline {figure}{\numberline {5.9\relax }{\ignorespaces Gambar 4}}{440}% 
-\contentsline {figure}{\numberline {5.10\relax }{\ignorespaces Gambar 5}}{441}% 
-\contentsline {figure}{\numberline {5.11\relax }{\ignorespaces Gambar 6}}{442}% 
-\contentsline {figure}{\numberline {5.12\relax }{\ignorespaces Menjalankan Mapproxy}}{442}% 
-\contentsline {figure}{\numberline {5.13\relax }{\ignorespaces Hasil dari file basic.htm}}{443}% 
-\contentsline {figure}{\numberline {5.14\relax }{\ignorespaces Contoh menambahkan marker, circle dan polygon}}{443}% 
-\contentsline {figure}{\numberline {5.15\relax }{\ignorespaces Hasil dari file marker.html}}{443}% 
-\contentsline {figure}{\numberline {5.16\relax }{\ignorespaces Start server MapProxy}}{444}% 
-\contentsline {figure}{\numberline {5.17\relax }{\ignorespaces File Basic.html}}{444}% 
-\contentsline {figure}{\numberline {5.18\relax }{\ignorespaces Code Basic.html}}{445}% 
-\contentsline {figure}{\numberline {5.19\relax }{\ignorespaces Tampilan Basic.html}}{446}% 
-\contentsline {figure}{\numberline {5.20\relax }{\ignorespaces File Marker.html}}{446}% 
-\contentsline {figure}{\numberline {5.21\relax }{\ignorespaces Code tambahan Marker.html}}{447}% 
-\contentsline {figure}{\numberline {5.22\relax }{\ignorespaces Tampilan Marker.html}}{447}% 
-\contentsline {figure}{\numberline {5.23\relax }{\ignorespaces Gambar 1}}{448}% 
-\contentsline {figure}{\numberline {5.24\relax }{\ignorespaces Gambar 2}}{448}% 
-\contentsline {figure}{\numberline {5.25\relax }{\ignorespaces Gambar 3}}{449}% 
-\contentsline {figure}{\numberline {5.26\relax }{\ignorespaces Gambar 4}}{449}% 
-\contentsline {figure}{\numberline {5.27\relax }{\ignorespaces Gambar 5}}{450}% 
-\contentsline {figure}{\numberline {5.28\relax }{\ignorespaces Run Mapproxy}}{450}% 
-\contentsline {figure}{\numberline {5.29\relax }{\ignorespaces Isi Basic.html}}{451}% 
-\contentsline {figure}{\numberline {5.30\relax }{\ignorespaces Hasil dari Basic.html}}{451}% 
-\contentsline {figure}{\numberline {5.31\relax }{\ignorespaces Isi dari marker.html}}{451}% 
-\contentsline {figure}{\numberline {5.32\relax }{\ignorespaces Isi dari marker.html}}{451}% 
-\contentsline {figure}{\numberline {5.33\relax }{\ignorespaces Start server MapProxy}}{452}% 
-\contentsline {figure}{\numberline {5.34\relax }{\ignorespaces File Basic.html}}{452}% 
-\contentsline {figure}{\numberline {5.35\relax }{\ignorespaces Code Basic.html}}{453}% 
-\contentsline {figure}{\numberline {5.36\relax }{\ignorespaces Tampilan Basic.html}}{453}% 
-\contentsline {figure}{\numberline {5.37\relax }{\ignorespaces File Marker.html}}{454}% 
-\contentsline {figure}{\numberline {5.38\relax }{\ignorespaces Code tambahan Marker.html}}{454}% 
-\contentsline {figure}{\numberline {5.39\relax }{\ignorespaces Tampilan Marker.html}}{455}% 
-\contentsline {figure}{\numberline {5.40\relax }{\ignorespaces Start server MapProxy}}{455}% 
-\contentsline {figure}{\numberline {5.41\relax }{\ignorespaces File Basic.html}}{456}% 
-\contentsline {figure}{\numberline {5.42\relax }{\ignorespaces Code Basic.html}}{456}% 
-\contentsline {figure}{\numberline {5.43\relax }{\ignorespaces Tampilan Basic.html}}{457}% 
-\contentsline {figure}{\numberline {5.44\relax }{\ignorespaces File Marker.html}}{457}% 
-\contentsline {figure}{\numberline {5.45\relax }{\ignorespaces Code tambahan Marker.html}}{458}% 
-\contentsline {figure}{\numberline {5.46\relax }{\ignorespaces Tampilan Marker.html}}{458}% 
-\contentsline {figure}{\numberline {5.47\relax }{\ignorespaces Gambar 1}}{459}% 
-\contentsline {figure}{\numberline {5.48\relax }{\ignorespaces Gambar 2}}{459}% 
-\contentsline {figure}{\numberline {5.49\relax }{\ignorespaces Gambar 3}}{460}% 
-\contentsline {figure}{\numberline {5.50\relax }{\ignorespaces Gambar 4}}{460}% 
-\contentsline {figure}{\numberline {5.51\relax }{\ignorespaces Gambar 5}}{461}% 
-\contentsline {figure}{\numberline {5.52\relax }{\ignorespaces Gambar 6}}{462}% 
-\contentsline {figure}{\numberline {5.53\relax }{\ignorespaces Run Mapproxy}}{462}% 
-\contentsline {figure}{\numberline {5.54\relax }{\ignorespaces Open basic.html}}{463}% 
-\contentsline {figure}{\numberline {5.55\relax }{\ignorespaces Hasil basic.html}}{464}% 
-\contentsline {figure}{\numberline {5.56\relax }{\ignorespaces Hasil marker.html}}{465}% 
+\contentsline {figure}{\numberline {1.1\relax }{\ignorespaces Contoh gambar.}}{2}%
+\contentsline {figure}{\numberline {1.2\relax }{\ignorespaces Gambar 1}}{3}%
+\contentsline {figure}{\numberline {1.3\relax }{\ignorespaces Gambar 1}}{3}%
+\contentsline {figure}{\numberline {1.4\relax }{\ignorespaces Gambar Plagiat}}{4}%
+\contentsline {figure}{\numberline {1.5\relax }{\ignorespaces Tipe data Geospasial.}}{4}%
+\contentsline {figure}{\numberline {1.6\relax }{\ignorespaces Plagiarisme.}}{6}%
+\contentsline {figure}{\numberline {1.7\relax }{\ignorespaces Contoh gambar.}}{6}%
+\contentsline {figure}{\numberline {1.8\relax }{\ignorespaces Plagiarisme.}}{8}%
+\contentsline {figure}{\numberline {1.9\relax }{\ignorespaces Contoh gambar.}}{8}%
+\contentsline {figure}{\numberline {1.10\relax }{\ignorespaces Gambar Plagiat}}{10}%
+\contentsline {figure}{\numberline {1.11\relax }{\ignorespaces Gambar Plagiat}}{12}%
+\contentsline {figure}{\numberline {1.12\relax }{\ignorespaces Gambar Garis Lintang}}{14}%
+\contentsline {figure}{\numberline {1.13\relax }{\ignorespaces Gambar Garis Bujur}}{14}%
+\contentsline {figure}{\numberline {1.14\relax }{\ignorespaces Gambar Plagiat}}{17}%
+\contentsline {figure}{\numberline {1.15\relax }{\ignorespaces Data Vektor}}{18}%
+\contentsline {figure}{\numberline {1.16\relax }{\ignorespaces Culture}}{18}%
+\contentsline {figure}{\numberline {1.17\relax }{\ignorespaces Physycal}}{19}%
+\contentsline {figure}{\numberline {1.18\relax }{\ignorespaces Data Raster}}{19}%
+\contentsline {figure}{\numberline {1.19\relax }{\ignorespaces Plagiarism}}{20}%
+\contentsline {figure}{\numberline {1.20\relax }{\ignorespaces Hasil Plagiarisme}}{22}%
+\contentsline {figure}{\numberline {1.21\relax }{\ignorespaces Plagiarism}}{23}%
+\contentsline {figure}{\numberline {1.22\relax }{\ignorespaces Gambar 1}}{24}%
+\contentsline {figure}{\numberline {1.23\relax }{\ignorespaces Gambar 1}}{25}%
+\contentsline {figure}{\numberline {1.24\relax }{\ignorespaces Gambar Plagiat}}{25}%
+\contentsline {figure}{\numberline {1.25\relax }{\ignorespaces Data Raster}}{26}%
+\contentsline {figure}{\numberline {1.26\relax }{\ignorespaces Data Vektor}}{27}%
+\contentsline {figure}{\numberline {1.27\relax }{\ignorespaces check plagiarsm}}{27}%
+\contentsline {figure}{\numberline {1.28\relax }{\ignorespaces Contoh gambar.}}{27}%
+\contentsline {figure}{\numberline {1.29\relax }{\ignorespaces Plagiarisme.}}{29}%
+\contentsline {figure}{\numberline {1.30\relax }{\ignorespaces Contoh gambar.}}{29}%
+\contentsline {figure}{\numberline {1.31\relax }{\ignorespaces Gambar Plagiat}}{32}%
+\contentsline {figure}{\numberline {1.32\relax }{\ignorespaces Gambar Plagiat}}{35}%
+\contentsline {figure}{\numberline {1.33\relax }{\ignorespaces Gambar Plagiarisme}}{40}%
+\contentsline {figure}{\numberline {1.34\relax }{\ignorespaces Gambar Plagiarisme 1174076}}{41}%
+\contentsline {figure}{\numberline {1.35\relax }{\ignorespaces Gambar 1}}{42}%
+\contentsline {figure}{\numberline {1.36\relax }{\ignorespaces Gambar 1}}{42}%
+\contentsline {figure}{\numberline {1.37\relax }{\ignorespaces Gambar 1}}{43}%
+\contentsline {figure}{\numberline {1.38\relax }{\ignorespaces Gambar Plagiat}}{43}%
+\contentsline {figure}{\numberline {1.39\relax }{\ignorespaces Data Geospasial}}{44}%
+\contentsline {figure}{\numberline {1.40\relax }{\ignorespaces Data Raster}}{44}%
+\contentsline {figure}{\numberline {1.41\relax }{\ignorespaces Data Vektor}}{45}%
+\contentsline {figure}{\numberline {1.42\relax }{\ignorespaces Open Geospasial Consortium}}{46}%
+\contentsline {figure}{\numberline {1.43\relax }{\ignorespaces Check Plagiarism}}{46}%
+\contentsline {figure}{\numberline {2.1\relax }{\ignorespaces Point (Titik)}}{52}%
+\contentsline {figure}{\numberline {2.2\relax }{\ignorespaces Point (Titik)}}{53}%
+\contentsline {figure}{\numberline {2.3\relax }{\ignorespaces Point (Titik)}}{54}%
+\contentsline {figure}{\numberline {2.4\relax }{\ignorespaces Point (Titik)}}{55}%
+\contentsline {figure}{\numberline {2.5\relax }{\ignorespaces PolyLine (Garis)}}{55}%
+\contentsline {figure}{\numberline {2.6\relax }{\ignorespaces Polygon (Bidang)}}{56}%
+\contentsline {figure}{\numberline {2.7\relax }{\ignorespaces Polygon (Bidang)}}{57}%
+\contentsline {figure}{\numberline {2.8\relax }{\ignorespaces Polygon (Bidang)}}{58}%
+\contentsline {figure}{\numberline {2.9\relax }{\ignorespaces Polygon (Bidang)}}{59}%
+\contentsline {figure}{\numberline {2.10\relax }{\ignorespaces Polygon, Hasil modulus dari npm saya 1174066 adalah 2 jadi membuat bidang bujursangkar dan angka akhir dari npm saya adalah 6 jadi membuat bidangnya sebanyak 6}}{60}%
+\contentsline {figure}{\numberline {2.11\relax }{\ignorespaces Hasil No 1}}{61}%
+\contentsline {figure}{\numberline {2.12\relax }{\ignorespaces Hasil No 2}}{62}%
+\contentsline {figure}{\numberline {2.13\relax }{\ignorespaces Hasil No 3}}{63}%
+\contentsline {figure}{\numberline {2.14\relax }{\ignorespaces Hasil No 4}}{64}%
+\contentsline {figure}{\numberline {2.15\relax }{\ignorespaces Hasil No 5}}{65}%
+\contentsline {figure}{\numberline {2.16\relax }{\ignorespaces Hasil No 6}}{66}%
+\contentsline {figure}{\numberline {2.17\relax }{\ignorespaces Hasil No 7}}{66}%
+\contentsline {figure}{\numberline {2.18\relax }{\ignorespaces Hasil No 8}}{67}%
+\contentsline {figure}{\numberline {2.19\relax }{\ignorespaces Hasil No 9}}{68}%
+\contentsline {figure}{\numberline {2.20\relax }{\ignorespaces Hasil No 10, NPM saya adalah 1174079, maka hasil modulus 8 dari NPM 1174079 adalah 7, jadi membuat bidang segitaga siku-siku dan angka kedua terakhir di NPM saya dalah 7 maka saya akan membuat 7 buah segitiga siku siku}}{70}%
+\contentsline {figure}{\numberline {2.21\relax }{\ignorespaces Point (Titik)}}{71}%
+\contentsline {figure}{\numberline {2.22\relax }{\ignorespaces Point (Titik)}}{71}%
+\contentsline {figure}{\numberline {2.23\relax }{\ignorespaces Point (Titik)}}{72}%
+\contentsline {figure}{\numberline {2.24\relax }{\ignorespaces Point (Titik)}}{73}%
+\contentsline {figure}{\numberline {2.25\relax }{\ignorespaces PolyLine (Garis)}}{74}%
+\contentsline {figure}{\numberline {2.26\relax }{\ignorespaces Polygon (Bidang)}}{74}%
+\contentsline {figure}{\numberline {2.27\relax }{\ignorespaces Polygon (Bidang)}}{75}%
+\contentsline {figure}{\numberline {2.28\relax }{\ignorespaces Polygon (Bidang)}}{76}%
+\contentsline {figure}{\numberline {2.29\relax }{\ignorespaces Polygon (Bidang)}}{77}%
+\contentsline {figure}{\numberline {2.30\relax }{\ignorespaces Polygon, Hasil modulus dari npm saya 1174086 adalah 6 jadi membuat bidang trapesium dan angka kedua akhir dari npm saya adalah 8 jadi membuat bidangnya sebanyak 8}}{78}%
+\contentsline {figure}{\numberline {2.31\relax }{\ignorespaces Point (Titik)}}{79}%
+\contentsline {figure}{\numberline {2.32\relax }{\ignorespaces Point (Titik)}}{80}%
+\contentsline {figure}{\numberline {2.33\relax }{\ignorespaces Point (Titik)}}{81}%
+\contentsline {figure}{\numberline {2.34\relax }{\ignorespaces Point (Titik)}}{81}%
+\contentsline {figure}{\numberline {2.35\relax }{\ignorespaces PolyLine (Garis)}}{82}%
+\contentsline {figure}{\numberline {2.36\relax }{\ignorespaces PolyLine (Garis)}}{83}%
+\contentsline {figure}{\numberline {2.37\relax }{\ignorespaces Polyline (Garis)}}{83}%
+\contentsline {figure}{\numberline {2.38\relax }{\ignorespaces Polygon (Bidang)}}{84}%
+\contentsline {figure}{\numberline {2.39\relax }{\ignorespaces Polygon (Bidang)}}{85}%
+\contentsline {figure}{\numberline {2.40\relax }{\ignorespaces Polygon, Hasil modulus dari npm saya 1174071 adalah 7 , membuat bangun datar segitiga siku-siku. Angka kedua npm dari belakang adalah 7 sehingga membuat 7 bangun datar segita siku-siku}}{86}%
+\contentsline {figure}{\numberline {2.41\relax }{\ignorespaces Point}}{87}%
+\contentsline {figure}{\numberline {2.42\relax }{\ignorespaces Point}}{88}%
+\contentsline {figure}{\numberline {2.43\relax }{\ignorespaces Point}}{89}%
+\contentsline {figure}{\numberline {2.44\relax }{\ignorespaces Point}}{90}%
+\contentsline {figure}{\numberline {2.45\relax }{\ignorespaces Polyline}}{91}%
+\contentsline {figure}{\numberline {2.46\relax }{\ignorespaces Polygon}}{92}%
+\contentsline {figure}{\numberline {2.47\relax }{\ignorespaces Polygon}}{92}%
+\contentsline {figure}{\numberline {2.48\relax }{\ignorespaces Polygon}}{93}%
+\contentsline {figure}{\numberline {2.49\relax }{\ignorespaces Polygon}}{94}%
+\contentsline {figure}{\numberline {2.50\relax }{\ignorespaces Polygon, Hasil modulus dari npm saya 1174084 adalah 4 jadi membuat bidang jajargenjang dan angka akhir dari npm saya adalah 8 jadi membuat bidangnya sebanyak 8}}{96}%
+\contentsline {figure}{\numberline {2.51\relax }{\ignorespaces Point (Titik)}}{97}%
+\contentsline {figure}{\numberline {2.52\relax }{\ignorespaces Point (Titik)}}{98}%
+\contentsline {figure}{\numberline {2.53\relax }{\ignorespaces Point (Titik)}}{99}%
+\contentsline {figure}{\numberline {2.54\relax }{\ignorespaces Point (Titik)}}{99}%
+\contentsline {figure}{\numberline {2.55\relax }{\ignorespaces PolyLine (Garis)}}{100}%
+\contentsline {figure}{\numberline {2.56\relax }{\ignorespaces Polygon (Bidang)}}{101}%
+\contentsline {figure}{\numberline {2.57\relax }{\ignorespaces Polygon (Bidang)}}{102}%
+\contentsline {figure}{\numberline {2.58\relax }{\ignorespaces Polygon (Bidang)}}{102}%
+\contentsline {figure}{\numberline {2.59\relax }{\ignorespaces Polygon (Bidang)}}{103}%
+\contentsline {figure}{\numberline {2.60\relax }{\ignorespaces Polygon,Hasil modul dari NPM saya 1174069 adalah 5 jadi membuat bidang Belahketupat sebanyak 6 buah }}{105}%
+\contentsline {figure}{\numberline {2.61\relax }{\ignorespaces Hasil No 1}}{106}%
+\contentsline {figure}{\numberline {2.62\relax }{\ignorespaces Hasil No 2}}{107}%
+\contentsline {figure}{\numberline {2.63\relax }{\ignorespaces Hasil No 3}}{108}%
+\contentsline {figure}{\numberline {2.64\relax }{\ignorespaces Hasil No 4}}{108}%
+\contentsline {figure}{\numberline {2.65\relax }{\ignorespaces Hasil No 5}}{109}%
+\contentsline {figure}{\numberline {2.66\relax }{\ignorespaces Hasil No 6}}{110}%
+\contentsline {figure}{\numberline {2.67\relax }{\ignorespaces Hasil No 7}}{111}%
+\contentsline {figure}{\numberline {2.68\relax }{\ignorespaces Hasil No 8}}{112}%
+\contentsline {figure}{\numberline {2.69\relax }{\ignorespaces Hasil No 9}}{113}%
+\contentsline {figure}{\numberline {2.70\relax }{\ignorespaces Hasil No 10, NPM saya adalah 1174083, maka hasil modulus 8 dari NPM 1174083 adalah 3, jadi membuat bidang persegi panjang dan angka kedua terakhir di NPM saya dalah 8 maka saya akan membuat 8 buah persegi panjang}}{114}%
+\contentsline {figure}{\numberline {2.71\relax }{\ignorespaces Point (Titik)}}{115}%
+\contentsline {figure}{\numberline {2.72\relax }{\ignorespaces Point (Titik)}}{116}%
+\contentsline {figure}{\numberline {2.73\relax }{\ignorespaces Point (Titik)}}{117}%
+\contentsline {figure}{\numberline {2.74\relax }{\ignorespaces Point (Titik)}}{118}%
+\contentsline {figure}{\numberline {2.75\relax }{\ignorespaces PolyLine (Garis)}}{119}%
+\contentsline {figure}{\numberline {2.76\relax }{\ignorespaces Polygon (Bidang)}}{119}%
+\contentsline {figure}{\numberline {2.77\relax }{\ignorespaces Polygon (Bidang)}}{120}%
+\contentsline {figure}{\numberline {2.78\relax }{\ignorespaces Polygon (Bidang)}}{120}%
+\contentsline {figure}{\numberline {2.79\relax }{\ignorespaces Polygon (Bidang)}}{121}%
+\contentsline {figure}{\numberline {2.80\relax }{\ignorespaces Polygon, Hasil modulus 8 dari npm 1174067 adalah 3 sesui nomor 3 bidang persegipanjang dan angka akhir dari npm saya adalah 6 jadi membuat bidangnya sebanyak 6}}{123}%
+\contentsline {figure}{\numberline {2.81\relax }{\ignorespaces Point (Titik)}}{124}%
+\contentsline {figure}{\numberline {2.82\relax }{\ignorespaces Point (Titik)}}{125}%
+\contentsline {figure}{\numberline {2.83\relax }{\ignorespaces Point (Titik)}}{126}%
+\contentsline {figure}{\numberline {2.84\relax }{\ignorespaces Point (Titik)}}{127}%
+\contentsline {figure}{\numberline {2.85\relax }{\ignorespaces PolyLine (Garis)}}{128}%
+\contentsline {figure}{\numberline {2.86\relax }{\ignorespaces Polygon (Bidang)}}{128}%
+\contentsline {figure}{\numberline {2.87\relax }{\ignorespaces Polygon (Bidang)}}{129}%
+\contentsline {figure}{\numberline {2.88\relax }{\ignorespaces Polygon (Bidang)}}{130}%
+\contentsline {figure}{\numberline {2.89\relax }{\ignorespaces Polygon (Bidang)}}{131}%
+\contentsline {figure}{\numberline {2.90\relax }{\ignorespaces Polygon, Hasil modulus dari NPM masing masing}}{132}%
+\contentsline {figure}{\numberline {2.91\relax }{\ignorespaces Point (Titik)}}{133}%
+\contentsline {figure}{\numberline {2.92\relax }{\ignorespaces Point (Titik)}}{134}%
+\contentsline {figure}{\numberline {2.93\relax }{\ignorespaces Point (Titik)}}{135}%
+\contentsline {figure}{\numberline {2.94\relax }{\ignorespaces Point (Titik)}}{136}%
+\contentsline {figure}{\numberline {2.95\relax }{\ignorespaces PolyLine (Garis)}}{137}%
+\contentsline {figure}{\numberline {2.96\relax }{\ignorespaces Polygon (Bidang)}}{138}%
+\contentsline {figure}{\numberline {2.97\relax }{\ignorespaces Polygon (Bidang)}}{139}%
+\contentsline {figure}{\numberline {2.98\relax }{\ignorespaces Polygon (Bidang)}}{140}%
+\contentsline {figure}{\numberline {2.99\relax }{\ignorespaces Polygon (Bidang)}}{141}%
+\contentsline {figure}{\numberline {2.100\relax }{\ignorespaces Polygon, Hasil modulus dari npm saya 1174089 adalah membuatsegitiga sama sisi dan angka akhir dari npm saya adalah 8 jadi membuat bidangnya sebanyak 8}}{142}%
+\contentsline {figure}{\numberline {2.101\relax }{\ignorespaces Point}}{143}%
+\contentsline {figure}{\numberline {2.102\relax }{\ignorespaces Point}}{144}%
+\contentsline {figure}{\numberline {2.103\relax }{\ignorespaces Point}}{145}%
+\contentsline {figure}{\numberline {2.104\relax }{\ignorespaces Point (Titik)}}{146}%
+\contentsline {figure}{\numberline {2.105\relax }{\ignorespaces PolyLine/Garis)}}{147}%
+\contentsline {figure}{\numberline {2.106\relax }{\ignorespaces Polygon/Bidang}}{147}%
+\contentsline {figure}{\numberline {2.107\relax }{\ignorespaces Polygon/Bidang}}{148}%
+\contentsline {figure}{\numberline {2.108\relax }{\ignorespaces Polygon/Bidang}}{149}%
+\contentsline {figure}{\numberline {2.109\relax }{\ignorespaces Polygon/Bidang}}{150}%
+\contentsline {figure}{\numberline {2.110\relax }{\ignorespaces Polygon/Bidang (Hasil Dari Angka Ke2 Terkahir Dari Nmp yaitu Angka 6}}{151}%
+\contentsline {figure}{\numberline {2.111\relax }{\ignorespaces gambar 1}}{152}%
+\contentsline {figure}{\numberline {2.112\relax }{\ignorespaces gambar 2}}{153}%
+\contentsline {figure}{\numberline {2.113\relax }{\ignorespaces gambar 3}}{154}%
+\contentsline {figure}{\numberline {2.114\relax }{\ignorespaces gambar 4}}{155}%
+\contentsline {figure}{\numberline {2.115\relax }{\ignorespaces gambar 5}}{156}%
+\contentsline {figure}{\numberline {2.116\relax }{\ignorespaces gambar 6}}{156}%
+\contentsline {figure}{\numberline {2.117\relax }{\ignorespaces gambar 7}}{157}%
+\contentsline {figure}{\numberline {2.118\relax }{\ignorespaces gambar 8}}{158}%
+\contentsline {figure}{\numberline {2.119\relax }{\ignorespaces gambar 9}}{158}%
+\contentsline {figure}{\numberline {2.120\relax }{\ignorespaces gambar 10, 1174091 modulus 8 = 3 (persegi panjang) dengan jumlah 1174091=9}}{159}%
+\contentsline {figure}{\numberline {2.121\relax }{\ignorespaces Point (Titik)}}{160}%
+\contentsline {figure}{\numberline {2.122\relax }{\ignorespaces Point (Titik)}}{161}%
+\contentsline {figure}{\numberline {2.123\relax }{\ignorespaces Point (Titik)}}{162}%
+\contentsline {figure}{\numberline {2.124\relax }{\ignorespaces Point (Titik)}}{163}%
+\contentsline {figure}{\numberline {2.125\relax }{\ignorespaces PolyLine (Garis)}}{164}%
+\contentsline {figure}{\numberline {2.126\relax }{\ignorespaces Polygon (Bidang)}}{165}%
+\contentsline {figure}{\numberline {2.127\relax }{\ignorespaces Polygon (Bidang)}}{165}%
+\contentsline {figure}{\numberline {2.128\relax }{\ignorespaces Polygon (Bidang)}}{166}%
+\contentsline {figure}{\numberline {2.129\relax }{\ignorespaces Polygon (Bidang)}}{167}%
+\contentsline {figure}{\numberline {2.130\relax }{\ignorespaces Polygon, Hasil modulus dari npm saya 1174087 adalah 7 jadi membuat bidang segitiga siku-siku dan angka kedua dari belakang dari npm saya adalah 8 jadi membuat bidangnya sebanyak 8}}{169}%
+\contentsline {figure}{\numberline {2.131\relax }{\ignorespaces Point (Titik)}}{170}%
+\contentsline {figure}{\numberline {2.132\relax }{\ignorespaces Point (Titik)}}{170}%
+\contentsline {figure}{\numberline {2.133\relax }{\ignorespaces Point (Titik)}}{171}%
+\contentsline {figure}{\numberline {2.134\relax }{\ignorespaces Point (Titik)}}{172}%
+\contentsline {figure}{\numberline {2.135\relax }{\ignorespaces PolyLine (Garis)}}{173}%
+\contentsline {figure}{\numberline {2.136\relax }{\ignorespaces Polygon (Bidang)}}{173}%
+\contentsline {figure}{\numberline {2.137\relax }{\ignorespaces Polygon (Bidang)}}{174}%
+\contentsline {figure}{\numberline {2.138\relax }{\ignorespaces Polygon (Bidang)}}{175}%
+\contentsline {figure}{\numberline {2.139\relax }{\ignorespaces Polygon (Bidang)}}{176}%
+\contentsline {figure}{\numberline {2.140\relax }{\ignorespaces Polygon, Hasil modulus dari npm saya 1174073}}{177}%
+\contentsline {figure}{\numberline {2.141\relax }{\ignorespaces Point (Titik)}}{178}%
+\contentsline {figure}{\numberline {2.142\relax }{\ignorespaces Point (Titik)}}{179}%
+\contentsline {figure}{\numberline {2.143\relax }{\ignorespaces Point (Titik)}}{180}%
+\contentsline {figure}{\numberline {2.144\relax }{\ignorespaces Point (Titik)}}{181}%
+\contentsline {figure}{\numberline {2.145\relax }{\ignorespaces PolyLine (Garis)}}{182}%
+\contentsline {figure}{\numberline {2.146\relax }{\ignorespaces Polygon (Bidang)}}{183}%
+\contentsline {figure}{\numberline {2.147\relax }{\ignorespaces Polygon (Bidang)}}{184}%
+\contentsline {figure}{\numberline {2.148\relax }{\ignorespaces Polygon (Bidang)}}{185}%
+\contentsline {figure}{\numberline {2.149\relax }{\ignorespaces Polygon (Bidang)}}{186}%
+\contentsline {figure}{\numberline {2.150\relax }{\ignorespaces Polygon, Hasil modulus dari npm saya 1174070 adalah 2 jadi membuat bidang bujursangkar jadi membuat bidangnya sebanyak 6}}{187}%
+\contentsline {figure}{\numberline {2.151\relax }{\ignorespaces Hasil No 1}}{188}%
+\contentsline {figure}{\numberline {2.152\relax }{\ignorespaces Hasil No 2}}{189}%
+\contentsline {figure}{\numberline {2.153\relax }{\ignorespaces Hasil No 3}}{190}%
+\contentsline {figure}{\numberline {2.154\relax }{\ignorespaces Hasil No 4}}{190}%
+\contentsline {figure}{\numberline {2.155\relax }{\ignorespaces Hasil No 5}}{191}%
+\contentsline {figure}{\numberline {2.156\relax }{\ignorespaces Hasil No 6}}{192}%
+\contentsline {figure}{\numberline {2.157\relax }{\ignorespaces Hasil No 7}}{193}%
+\contentsline {figure}{\numberline {2.158\relax }{\ignorespaces Hasil No 8}}{193}%
+\contentsline {figure}{\numberline {2.159\relax }{\ignorespaces Hasil No 9}}{194}%
+\contentsline {figure}{\numberline {2.160\relax }{\ignorespaces Hasil No 10, NPM saya adalah 1174077, maka hasil modulus 8 dari NPM 1174077 adalah 5, jadi membuat bidang segitaga siku-siku dan angka kedua terakhir di NPM saya dalah 7 maka saya akan membuat 7 buah belah ketupat}}{196}%
+\contentsline {figure}{\numberline {2.161\relax }{\ignorespaces Point (Titik)}}{197}%
+\contentsline {figure}{\numberline {2.162\relax }{\ignorespaces Point (Titik)}}{198}%
+\contentsline {figure}{\numberline {2.163\relax }{\ignorespaces Point (Titik)}}{199}%
+\contentsline {figure}{\numberline {2.164\relax }{\ignorespaces Point (Titik)}}{200}%
+\contentsline {figure}{\numberline {2.165\relax }{\ignorespaces PolyLine (Garis)}}{201}%
+\contentsline {figure}{\numberline {2.166\relax }{\ignorespaces Polygon (Bidang)}}{201}%
+\contentsline {figure}{\numberline {2.167\relax }{\ignorespaces Polygon (Bidang)}}{202}%
+\contentsline {figure}{\numberline {2.168\relax }{\ignorespaces Polygon (Bidang)}}{203}%
+\contentsline {figure}{\numberline {2.169\relax }{\ignorespaces Polygon (Bidang)}}{204}%
+\contentsline {figure}{\numberline {2.170\relax }{\ignorespaces Polygon, Hasil modulus dari npm saya 1174054 adalah 6 jadi membuat bidang trapesium sebanyak 5 buah trapesium}}{205}%
+\contentsline {figure}{\numberline {2.171\relax }{\ignorespaces Point (Titik)}}{206}%
+\contentsline {figure}{\numberline {2.172\relax }{\ignorespaces Point (Titik)}}{207}%
+\contentsline {figure}{\numberline {2.173\relax }{\ignorespaces Point (Titik)}}{208}%
+\contentsline {figure}{\numberline {2.174\relax }{\ignorespaces Point (Titik)}}{208}%
+\contentsline {figure}{\numberline {2.175\relax }{\ignorespaces PolyLine (Garis)}}{209}%
+\contentsline {figure}{\numberline {2.176\relax }{\ignorespaces PolyLine (Garis)}}{210}%
+\contentsline {figure}{\numberline {2.177\relax }{\ignorespaces Polyline (Garis)}}{210}%
+\contentsline {figure}{\numberline {2.178\relax }{\ignorespaces Polygon (Bidang)}}{211}%
+\contentsline {figure}{\numberline {2.179\relax }{\ignorespaces Polygon (Bidang)}}{212}%
+\contentsline {figure}{\numberline {2.180\relax }{\ignorespaces Polygon, Hasil modulus dari npm saya (1174074) adalah 2 jadi membuat bidang bujursangkar dan angka akhir dari npm saya adalah 4 jadi membuat bidangnya sebanyak 4}}{212}%
+\contentsline {figure}{\numberline {2.181\relax }{\ignorespaces Point (Titik)}}{213}%
+\contentsline {figure}{\numberline {2.182\relax }{\ignorespaces Point (Titik)}}{214}%
+\contentsline {figure}{\numberline {2.183\relax }{\ignorespaces Point (Titik)}}{215}%
+\contentsline {figure}{\numberline {2.184\relax }{\ignorespaces Point (Titik)}}{216}%
+\contentsline {figure}{\numberline {2.185\relax }{\ignorespaces PolyLine (Garis)}}{216}%
+\contentsline {figure}{\numberline {2.186\relax }{\ignorespaces Polygon (Bidang)}}{217}%
+\contentsline {figure}{\numberline {2.187\relax }{\ignorespaces Polygon (Bidang)}}{218}%
+\contentsline {figure}{\numberline {2.188\relax }{\ignorespaces Polygon (Bidang)}}{218}%
+\contentsline {figure}{\numberline {2.189\relax }{\ignorespaces Polygon (Bidang)}}{219}%
+\contentsline {figure}{\numberline {2.190\relax }{\ignorespaces Polygon, Hasil modulus dari npm saya 1174053}}{220}%
+\contentsline {figure}{\numberline {2.191\relax }{\ignorespaces Nomor 1 Point (Titik)}}{221}%
+\contentsline {figure}{\numberline {2.192\relax }{\ignorespaces Nomor 2 Point (Titik)}}{222}%
+\contentsline {figure}{\numberline {2.193\relax }{\ignorespaces Nomor 3 Point (Titik)}}{223}%
+\contentsline {figure}{\numberline {2.194\relax }{\ignorespaces Nomor 4 Point (Titik)}}{224}%
+\contentsline {figure}{\numberline {2.195\relax }{\ignorespaces Nomor 5 Garis}}{225}%
+\contentsline {figure}{\numberline {2.196\relax }{\ignorespaces Nomor 6 Garis lurus}}{225}%
+\contentsline {figure}{\numberline {2.197\relax }{\ignorespaces Nomor 7 Jam Pasir}}{226}%
+\contentsline {figure}{\numberline {2.198\relax }{\ignorespaces Nomor 8 Jam Pasir}}{227}%
+\contentsline {figure}{\numberline {2.199\relax }{\ignorespaces Nomor 9 Kotak dan Persegi Panjang}}{228}%
+\contentsline {figure}{\numberline {2.200\relax }{\ignorespaces Nomor 10 Jajar Genjang}}{229}%
+\contentsline {figure}{\numberline {3.1\relax }{\ignorespaces Gambar Soal 1}}{232}%
+\contentsline {figure}{\numberline {3.2\relax }{\ignorespaces Gambar Soal 2)}}{232}%
+\contentsline {figure}{\numberline {3.3\relax }{\ignorespaces Gambar Soal 3}}{233}%
+\contentsline {figure}{\numberline {3.4\relax }{\ignorespaces Gambar Soal 4}}{233}%
+\contentsline {figure}{\numberline {3.5\relax }{\ignorespaces Gambar Soal 5)}}{234}%
+\contentsline {figure}{\numberline {3.6\relax }{\ignorespaces Gambar Soal 6}}{234}%
+\contentsline {figure}{\numberline {3.7\relax }{\ignorespaces Gambar Soal 7)}}{235}%
+\contentsline {figure}{\numberline {3.8\relax }{\ignorespaces Gambar Soal 8)}}{235}%
+\contentsline {figure}{\numberline {3.9\relax }{\ignorespaces Gambar Soal 9}}{236}%
+\contentsline {figure}{\numberline {3.10\relax }{\ignorespaces Gambar Soal 10 }}{236}%
+\contentsline {figure}{\numberline {3.11\relax }{\ignorespaces Gambar Soal 11 }}{237}%
+\contentsline {figure}{\numberline {3.12\relax }{\ignorespaces Gambar Soal 1}}{237}%
+\contentsline {figure}{\numberline {3.13\relax }{\ignorespaces Gambar Soal 2)}}{238}%
+\contentsline {figure}{\numberline {3.14\relax }{\ignorespaces Gambar Soal 3}}{238}%
+\contentsline {figure}{\numberline {3.15\relax }{\ignorespaces Gambar Soal 4}}{239}%
+\contentsline {figure}{\numberline {3.16\relax }{\ignorespaces Gambar Soal 5)}}{240}%
+\contentsline {figure}{\numberline {3.17\relax }{\ignorespaces Gambar Soal 6}}{240}%
+\contentsline {figure}{\numberline {3.18\relax }{\ignorespaces Gambar Soal 7)}}{241}%
+\contentsline {figure}{\numberline {3.19\relax }{\ignorespaces Gambar Soal 8)}}{241}%
+\contentsline {figure}{\numberline {3.20\relax }{\ignorespaces Gambar Soal 9}}{242}%
+\contentsline {figure}{\numberline {3.21\relax }{\ignorespaces Gambar Soal 10 }}{242}%
+\contentsline {figure}{\numberline {3.22\relax }{\ignorespaces Gambar Soal 11 }}{243}%
+\contentsline {figure}{\numberline {3.23\relax }{\ignorespaces Gambar Soal 1}}{248}%
+\contentsline {figure}{\numberline {3.24\relax }{\ignorespaces Gambar Soal 2)}}{249}%
+\contentsline {figure}{\numberline {3.25\relax }{\ignorespaces Gambar Soal 3}}{249}%
+\contentsline {figure}{\numberline {3.26\relax }{\ignorespaces Gambar Soal 4}}{250}%
+\contentsline {figure}{\numberline {3.27\relax }{\ignorespaces Gambar Soal 5)}}{250}%
+\contentsline {figure}{\numberline {3.28\relax }{\ignorespaces Gambar Soal 6}}{251}%
+\contentsline {figure}{\numberline {3.29\relax }{\ignorespaces Gambar Soal 7)}}{251}%
+\contentsline {figure}{\numberline {3.30\relax }{\ignorespaces Gambar Soal 8)}}{252}%
+\contentsline {figure}{\numberline {3.31\relax }{\ignorespaces Gambar Soal 9}}{252}%
+\contentsline {figure}{\numberline {3.32\relax }{\ignorespaces Gambar Soal 10 }}{253}%
+\contentsline {figure}{\numberline {3.33\relax }{\ignorespaces Gambar Soal 11 }}{253}%
+\contentsline {figure}{\numberline {3.34\relax }{\ignorespaces Hasil Soal No.1}}{254}%
+\contentsline {figure}{\numberline {3.35\relax }{\ignorespaces Hasil Soal No.2}}{254}%
+\contentsline {figure}{\numberline {3.36\relax }{\ignorespaces Hasil Soal No.3}}{255}%
+\contentsline {figure}{\numberline {3.37\relax }{\ignorespaces Hasil Soal No.4}}{256}%
+\contentsline {figure}{\numberline {3.38\relax }{\ignorespaces Hasil Soal No.5}}{257}%
+\contentsline {figure}{\numberline {3.39\relax }{\ignorespaces Hasil Soal No.6}}{258}%
+\contentsline {figure}{\numberline {3.40\relax }{\ignorespaces Hasil Soal No.7}}{258}%
+\contentsline {figure}{\numberline {3.41\relax }{\ignorespaces Hasil Soal No.8}}{259}%
+\contentsline {figure}{\numberline {3.42\relax }{\ignorespaces Hasil Soal No.9}}{260}%
+\contentsline {figure}{\numberline {3.43\relax }{\ignorespaces Hasil Soal No.10}}{260}%
+\contentsline {figure}{\numberline {3.44\relax }{\ignorespaces Hasil Soal No.11}}{261}%
+\contentsline {figure}{\numberline {3.45\relax }{\ignorespaces Hasil Soal 1}}{262}%
+\contentsline {figure}{\numberline {3.46\relax }{\ignorespaces Hasil Soal 2}}{262}%
+\contentsline {figure}{\numberline {3.47\relax }{\ignorespaces Hasil Soal 3}}{262}%
+\contentsline {figure}{\numberline {3.48\relax }{\ignorespaces Hasil Soal 4}}{263}%
+\contentsline {figure}{\numberline {3.49\relax }{\ignorespaces Hasil Soal 5}}{263}%
+\contentsline {figure}{\numberline {3.50\relax }{\ignorespaces Hasil Soal 6}}{264}%
+\contentsline {figure}{\numberline {3.51\relax }{\ignorespaces Hasil Soal 7}}{264}%
+\contentsline {figure}{\numberline {3.52\relax }{\ignorespaces Hasil Soal 8}}{265}%
+\contentsline {figure}{\numberline {3.53\relax }{\ignorespaces Hasil Soal 9}}{265}%
+\contentsline {figure}{\numberline {3.54\relax }{\ignorespaces Hasil Soal 10 }}{265}%
+\contentsline {figure}{\numberline {3.55\relax }{\ignorespaces Hasil Soal 11}}{266}%
+\contentsline {figure}{\numberline {3.56\relax }{\ignorespaces Gambar Soal 1}}{266}%
+\contentsline {figure}{\numberline {3.57\relax }{\ignorespaces Gambar Soal 2)}}{267}%
+\contentsline {figure}{\numberline {3.58\relax }{\ignorespaces Gambar Soal 3}}{267}%
+\contentsline {figure}{\numberline {3.59\relax }{\ignorespaces Gambar Soal 4}}{267}%
+\contentsline {figure}{\numberline {3.60\relax }{\ignorespaces Gambar Soal 5)}}{268}%
+\contentsline {figure}{\numberline {3.61\relax }{\ignorespaces Gambar Soal 6}}{268}%
+\contentsline {figure}{\numberline {3.62\relax }{\ignorespaces Gambar Soal 7)}}{269}%
+\contentsline {figure}{\numberline {3.63\relax }{\ignorespaces Gambar Soal 8)}}{269}%
+\contentsline {figure}{\numberline {3.64\relax }{\ignorespaces Gambar Soal 9}}{270}%
+\contentsline {figure}{\numberline {3.65\relax }{\ignorespaces Gambar Soal 10 }}{270}%
+\contentsline {figure}{\numberline {3.66\relax }{\ignorespaces Gambar Soal 11 }}{271}%
+\contentsline {figure}{\numberline {3.67\relax }{\ignorespaces Gambar Soal 1}}{271}%
+\contentsline {figure}{\numberline {3.68\relax }{\ignorespaces Gambar Soal 2)}}{272}%
+\contentsline {figure}{\numberline {3.69\relax }{\ignorespaces Gambar Soal 3}}{272}%
+\contentsline {figure}{\numberline {3.70\relax }{\ignorespaces Gambar Soal 4}}{273}%
+\contentsline {figure}{\numberline {3.71\relax }{\ignorespaces Gambar Soal 5)}}{273}%
+\contentsline {figure}{\numberline {3.72\relax }{\ignorespaces Gambar Soal 6}}{274}%
+\contentsline {figure}{\numberline {3.73\relax }{\ignorespaces Gambar Soal 7)}}{274}%
+\contentsline {figure}{\numberline {3.74\relax }{\ignorespaces Gambar Soal 8)}}{275}%
+\contentsline {figure}{\numberline {3.75\relax }{\ignorespaces Gambar Soal 9}}{275}%
+\contentsline {figure}{\numberline {3.76\relax }{\ignorespaces Gambar Soal 10 }}{276}%
+\contentsline {figure}{\numberline {3.77\relax }{\ignorespaces Gambar Soal 11 }}{276}%
+\contentsline {figure}{\numberline {3.78\relax }{\ignorespaces Gambar Soal 1}}{277}%
+\contentsline {figure}{\numberline {3.79\relax }{\ignorespaces Gambar Soal 2)}}{278}%
+\contentsline {figure}{\numberline {3.80\relax }{\ignorespaces Gambar Soal 3}}{278}%
+\contentsline {figure}{\numberline {3.81\relax }{\ignorespaces Gambar Soal 4}}{279}%
+\contentsline {figure}{\numberline {3.82\relax }{\ignorespaces Gambar Soal 5)}}{279}%
+\contentsline {figure}{\numberline {3.83\relax }{\ignorespaces Gambar Soal 6}}{280}%
+\contentsline {figure}{\numberline {3.84\relax }{\ignorespaces Gambar Soal 7)}}{280}%
+\contentsline {figure}{\numberline {3.85\relax }{\ignorespaces Gambar Soal 8)}}{281}%
+\contentsline {figure}{\numberline {3.86\relax }{\ignorespaces Gambar Soal 9}}{281}%
+\contentsline {figure}{\numberline {3.87\relax }{\ignorespaces Gambar Soal 10 }}{282}%
+\contentsline {figure}{\numberline {3.88\relax }{\ignorespaces Gambar Soal 11 }}{282}%
+\contentsline {figure}{\numberline {3.89\relax }{\ignorespaces GambarNO 1}}{283}%
+\contentsline {figure}{\numberline {3.90\relax }{\ignorespaces GambarNO 2)}}{283}%
+\contentsline {figure}{\numberline {3.91\relax }{\ignorespaces Gambar NO 3}}{284}%
+\contentsline {figure}{\numberline {3.92\relax }{\ignorespaces Gambar NOl 4}}{284}%
+\contentsline {figure}{\numberline {3.93\relax }{\ignorespaces Gambar NO 5)}}{285}%
+\contentsline {figure}{\numberline {3.94\relax }{\ignorespaces Gambar NOl 6}}{285}%
+\contentsline {figure}{\numberline {3.95\relax }{\ignorespaces Gambar NOl 7)}}{286}%
+\contentsline {figure}{\numberline {3.96\relax }{\ignorespaces Gambar NO 8)}}{286}%
+\contentsline {figure}{\numberline {3.97\relax }{\ignorespaces Gambar NO 9}}{287}%
+\contentsline {figure}{\numberline {3.98\relax }{\ignorespaces Gambar NOl 10 }}{287}%
+\contentsline {figure}{\numberline {3.99\relax }{\ignorespaces Gambar NO 11 }}{288}%
+\contentsline {figure}{\numberline {3.100\relax }{\ignorespaces Gambar Soal 2)}}{289}%
+\contentsline {figure}{\numberline {3.101\relax }{\ignorespaces Gambar Soal 3}}{289}%
+\contentsline {figure}{\numberline {3.102\relax }{\ignorespaces Gambar Soal 4}}{290}%
+\contentsline {figure}{\numberline {3.103\relax }{\ignorespaces Gambar Soal 5)}}{290}%
+\contentsline {figure}{\numberline {3.104\relax }{\ignorespaces Gambar Soal 6}}{290}%
+\contentsline {figure}{\numberline {3.105\relax }{\ignorespaces Gambar Soal 7)}}{291}%
+\contentsline {figure}{\numberline {3.106\relax }{\ignorespaces Gambar Soal 8)}}{291}%
+\contentsline {figure}{\numberline {3.107\relax }{\ignorespaces Gambar Soal 9}}{292}%
+\contentsline {figure}{\numberline {3.108\relax }{\ignorespaces Gambar Soal 10 }}{292}%
+\contentsline {figure}{\numberline {3.109\relax }{\ignorespaces Gambar Soal 11 }}{292}%
+\contentsline {figure}{\numberline {3.110\relax }{\ignorespaces Hasil No 1}}{293}%
+\contentsline {figure}{\numberline {3.111\relax }{\ignorespaces Hasil No 2}}{294}%
+\contentsline {figure}{\numberline {3.112\relax }{\ignorespaces Hasil No 3}}{294}%
+\contentsline {figure}{\numberline {3.113\relax }{\ignorespaces Hasil No 4}}{295}%
+\contentsline {figure}{\numberline {3.114\relax }{\ignorespaces Hasil No 5.1}}{296}%
+\contentsline {figure}{\numberline {3.115\relax }{\ignorespaces Hasil No 5.2(lanjutan}}{296}%
+\contentsline {figure}{\numberline {3.116\relax }{\ignorespaces Hasil No 6}}{297}%
+\contentsline {figure}{\numberline {3.117\relax }{\ignorespaces Hasil No 7}}{297}%
+\contentsline {figure}{\numberline {3.118\relax }{\ignorespaces Hasil No 8}}{298}%
+\contentsline {figure}{\numberline {3.119\relax }{\ignorespaces Hasil No 9}}{299}%
+\contentsline {figure}{\numberline {3.120\relax }{\ignorespaces Hasil No 10}}{299}%
+\contentsline {figure}{\numberline {3.121\relax }{\ignorespaces Hasil No 11}}{300}%
+\contentsline {figure}{\numberline {3.122\relax }{\ignorespaces Hasil Soal 1}}{301}%
+\contentsline {figure}{\numberline {3.123\relax }{\ignorespaces Hasil Soal 2}}{301}%
+\contentsline {figure}{\numberline {3.124\relax }{\ignorespaces Hasil Soal 3}}{301}%
+\contentsline {figure}{\numberline {3.125\relax }{\ignorespaces Hasil Soal 4}}{302}%
+\contentsline {figure}{\numberline {3.126\relax }{\ignorespaces Hasil Soal 5}}{302}%
+\contentsline {figure}{\numberline {3.127\relax }{\ignorespaces Hasil Soal 6}}{303}%
+\contentsline {figure}{\numberline {3.128\relax }{\ignorespaces Hasil Soal 7}}{303}%
+\contentsline {figure}{\numberline {3.129\relax }{\ignorespaces Hasil Soal 8}}{303}%
+\contentsline {figure}{\numberline {3.130\relax }{\ignorespaces Hasil Soal 9}}{304}%
+\contentsline {figure}{\numberline {3.131\relax }{\ignorespaces Hasil Soal 10 }}{304}%
+\contentsline {figure}{\numberline {3.132\relax }{\ignorespaces Hasil Soal 11}}{305}%
+\contentsline {figure}{\numberline {3.133\relax }{\ignorespaces Gambar Soal 1}}{305}%
+\contentsline {figure}{\numberline {3.134\relax }{\ignorespaces Gambar Soal 2)}}{306}%
+\contentsline {figure}{\numberline {3.135\relax }{\ignorespaces Gambar Soal 3}}{306}%
+\contentsline {figure}{\numberline {3.136\relax }{\ignorespaces Gambar Soal 4}}{307}%
+\contentsline {figure}{\numberline {3.137\relax }{\ignorespaces Gambar Soal 5)}}{307}%
+\contentsline {figure}{\numberline {3.138\relax }{\ignorespaces Gambar Soal 6}}{308}%
+\contentsline {figure}{\numberline {3.139\relax }{\ignorespaces Gambar Soal 7)}}{308}%
+\contentsline {figure}{\numberline {3.140\relax }{\ignorespaces Gambar Soal 8)}}{309}%
+\contentsline {figure}{\numberline {3.141\relax }{\ignorespaces Gambar Soal 9}}{309}%
+\contentsline {figure}{\numberline {3.142\relax }{\ignorespaces Gambar Soal 10 }}{310}%
+\contentsline {figure}{\numberline {3.143\relax }{\ignorespaces Gambar Soal 11 }}{310}%
+\contentsline {figure}{\numberline {3.144\relax }{\ignorespaces Gambar No.1}}{311}%
+\contentsline {figure}{\numberline {3.145\relax }{\ignorespaces Gambar No.2}}{311}%
+\contentsline {figure}{\numberline {3.146\relax }{\ignorespaces Gambar No.3}}{311}%
+\contentsline {figure}{\numberline {3.147\relax }{\ignorespaces Gambar No.4}}{312}%
+\contentsline {figure}{\numberline {3.148\relax }{\ignorespaces Gambar No.5}}{312}%
+\contentsline {figure}{\numberline {3.149\relax }{\ignorespaces Gambar No.6}}{313}%
+\contentsline {figure}{\numberline {3.150\relax }{\ignorespaces Gambar No.7}}{313}%
+\contentsline {figure}{\numberline {3.151\relax }{\ignorespaces Gambar No.8}}{314}%
+\contentsline {figure}{\numberline {3.152\relax }{\ignorespaces Gambar No.9}}{314}%
+\contentsline {figure}{\numberline {3.153\relax }{\ignorespaces Gambar No.10}}{315}%
+\contentsline {figure}{\numberline {3.154\relax }{\ignorespaces Gambar No.11}}{315}%
+\contentsline {figure}{\numberline {3.155\relax }{\ignorespaces Hasil Soal 1}}{316}%
+\contentsline {figure}{\numberline {3.156\relax }{\ignorespaces Hasil Soal 2}}{316}%
+\contentsline {figure}{\numberline {3.157\relax }{\ignorespaces Hasil Soal 3}}{317}%
+\contentsline {figure}{\numberline {3.158\relax }{\ignorespaces Hasil Soal 4}}{317}%
+\contentsline {figure}{\numberline {3.159\relax }{\ignorespaces Hasil Soal 5}}{318}%
+\contentsline {figure}{\numberline {3.160\relax }{\ignorespaces Hasil Soal 6}}{318}%
+\contentsline {figure}{\numberline {3.161\relax }{\ignorespaces Hasil Soal 7}}{319}%
+\contentsline {figure}{\numberline {3.162\relax }{\ignorespaces Hasil Soal 8}}{319}%
+\contentsline {figure}{\numberline {3.163\relax }{\ignorespaces Hasil Soal 9}}{319}%
+\contentsline {figure}{\numberline {3.164\relax }{\ignorespaces Hasil Soal 10 }}{320}%
+\contentsline {figure}{\numberline {3.165\relax }{\ignorespaces Hasil Soal 11}}{320}%
+\contentsline {figure}{\numberline {3.166\relax }{\ignorespaces Gambar Soal 1}}{321}%
+\contentsline {figure}{\numberline {3.167\relax }{\ignorespaces Gambar Soal 2)}}{321}%
+\contentsline {figure}{\numberline {3.168\relax }{\ignorespaces Gambar Soal 3}}{321}%
+\contentsline {figure}{\numberline {3.169\relax }{\ignorespaces Gambar Soal 4}}{322}%
+\contentsline {figure}{\numberline {3.170\relax }{\ignorespaces Gambar Soal 5)}}{322}%
+\contentsline {figure}{\numberline {3.171\relax }{\ignorespaces Gambar Soal 6}}{322}%
+\contentsline {figure}{\numberline {3.172\relax }{\ignorespaces Gambar Soal 7)}}{323}%
+\contentsline {figure}{\numberline {3.173\relax }{\ignorespaces Gambar Soal 8)}}{323}%
+\contentsline {figure}{\numberline {3.174\relax }{\ignorespaces Gambar Soal 9}}{323}%
+\contentsline {figure}{\numberline {3.175\relax }{\ignorespaces Gambar Soal 10 }}{324}%
+\contentsline {figure}{\numberline {3.176\relax }{\ignorespaces Gambar Soal 11 }}{324}%
+\contentsline {figure}{\numberline {3.177\relax }{\ignorespaces Hasil Soal 1}}{324}%
+\contentsline {figure}{\numberline {3.178\relax }{\ignorespaces Hasil Soal 2}}{325}%
+\contentsline {figure}{\numberline {3.179\relax }{\ignorespaces Hasil Soal 3}}{325}%
+\contentsline {figure}{\numberline {3.180\relax }{\ignorespaces Hasil Soal 4}}{326}%
+\contentsline {figure}{\numberline {3.181\relax }{\ignorespaces Hasil Soal 5}}{326}%
+\contentsline {figure}{\numberline {3.182\relax }{\ignorespaces Hasil Soal 6}}{327}%
+\contentsline {figure}{\numberline {3.183\relax }{\ignorespaces Hasil Soal 7}}{327}%
+\contentsline {figure}{\numberline {3.184\relax }{\ignorespaces Hasil Soal 8}}{327}%
+\contentsline {figure}{\numberline {3.185\relax }{\ignorespaces Hasil Soal 9}}{328}%
+\contentsline {figure}{\numberline {3.186\relax }{\ignorespaces Hasil Soal 10 }}{328}%
+\contentsline {figure}{\numberline {3.187\relax }{\ignorespaces Hasil Soal 11}}{329}%
+\contentsline {figure}{\numberline {3.188\relax }{\ignorespaces Gambar Soal 1}}{329}%
+\contentsline {figure}{\numberline {3.189\relax }{\ignorespaces Gambar Soal 2)}}{330}%
+\contentsline {figure}{\numberline {3.190\relax }{\ignorespaces Gambar Soal 3}}{330}%
+\contentsline {figure}{\numberline {3.191\relax }{\ignorespaces Gambar Soal 4}}{331}%
+\contentsline {figure}{\numberline {3.192\relax }{\ignorespaces Gambar Soal 5)}}{332}%
+\contentsline {figure}{\numberline {3.193\relax }{\ignorespaces Gambar Soal 6}}{332}%
+\contentsline {figure}{\numberline {3.194\relax }{\ignorespaces Gambar Soal 7)}}{333}%
+\contentsline {figure}{\numberline {3.195\relax }{\ignorespaces Gambar Soal 8)}}{333}%
+\contentsline {figure}{\numberline {3.196\relax }{\ignorespaces Gambar Soal 9}}{334}%
+\contentsline {figure}{\numberline {3.197\relax }{\ignorespaces Gambar Soal 10 }}{334}%
+\contentsline {figure}{\numberline {3.198\relax }{\ignorespaces Gambar Soal 11 }}{335}%
+\contentsline {figure}{\numberline {4.1\relax }{\ignorespaces Download MS4W}}{337}%
+\contentsline {figure}{\numberline {4.2\relax }{\ignorespaces Folder Apache}}{338}%
+\contentsline {figure}{\numberline {4.3\relax }{\ignorespaces Folder conf}}{338}%
+\contentsline {figure}{\numberline {4.4\relax }{\ignorespaces File httpd.conf}}{338}%
+\contentsline {figure}{\numberline {4.5\relax }{\ignorespaces Edit file httpd.conf}}{338}%
+\contentsline {figure}{\numberline {4.6\relax }{\ignorespaces Task Manager}}{339}%
+\contentsline {figure}{\numberline {4.7\relax }{\ignorespaces Pilih tab service dan pilih ApacheMS4WWebServer}}{339}%
+\contentsline {figure}{\numberline {4.8\relax }{\ignorespaces Mengakses Halaman Service}}{339}%
+\contentsline {figure}{\numberline {4.9\relax }{\ignorespaces Instalasi MapProxy}}{340}%
+\contentsline {figure}{\numberline {4.10\relax }{\ignorespaces Buat folder tmp}}{340}%
+\contentsline {figure}{\numberline {4.11\relax }{\ignorespaces File agm.yaml}}{340}%
+\contentsline {figure}{\numberline {4.12\relax }{\ignorespaces Edit lokasi mymap.map}}{340}%
+\contentsline {figure}{\numberline {4.13\relax }{\ignorespaces Edit path binary mapserv}}{341}%
+\contentsline {figure}{\numberline {4.14\relax }{\ignorespaces Edit path working-dir}}{341}%
+\contentsline {figure}{\numberline {4.15\relax }{\ignorespaces Aplikasi MS4W-Shell}}{341}%
+\contentsline {figure}{\numberline {4.16\relax }{\ignorespaces Buka Folder gede}}{341}%
+\contentsline {figure}{\numberline {4.17\relax }{\ignorespaces Buka Folder mapproxy}}{341}%
+\contentsline {figure}{\numberline {4.18\relax }{\ignorespaces Buka aplikasi mapproxy}}{342}%
+\contentsline {figure}{\numberline {4.19\relax }{\ignorespaces Buka mapproxy pada browser}}{342}%
+\contentsline {figure}{\numberline {4.20\relax }{\ignorespaces MapProxy menampilkan map}}{342}%
+\contentsline {figure}{\numberline {4.21\relax }{\ignorespaces Install MS4W 4.0.1}}{343}%
+\contentsline {figure}{\numberline {4.22\relax }{\ignorespaces Install MS4W 4.0.1}}{343}%
+\contentsline {figure}{\numberline {4.23\relax }{\ignorespaces Install MS4W 4.0.1}}{343}%
+\contentsline {figure}{\numberline {4.24\relax }{\ignorespaces Install MS4W 4.0.1}}{344}%
+\contentsline {figure}{\numberline {4.25\relax }{\ignorespaces Install MS4W 4.0.1}}{344}%
+\contentsline {figure}{\numberline {4.26\relax }{\ignorespaces Install MS4W 4.0.1}}{344}%
+\contentsline {figure}{\numberline {4.27\relax }{\ignorespaces Instalasi MapProxy}}{345}%
+\contentsline {figure}{\numberline {4.28\relax }{\ignorespaces Buat folder tmp}}{345}%
+\contentsline {figure}{\numberline {4.29\relax }{\ignorespaces File agm.yaml}}{345}%
+\contentsline {figure}{\numberline {4.30\relax }{\ignorespaces Buka Folder gede}}{346}%
+\contentsline {figure}{\numberline {4.31\relax }{\ignorespaces Buka mapproxy pada browser}}{346}%
+\contentsline {figure}{\numberline {4.32\relax }{\ignorespaces MapProxy menampilkan map}}{346}%
+\contentsline {figure}{\numberline {4.33\relax }{\ignorespaces Download installer Map Server.}}{347}%
+\contentsline {figure}{\numberline {4.34\relax }{\ignorespaces Klik 2x Installer}}{347}%
+\contentsline {figure}{\numberline {4.35\relax }{\ignorespaces Klik "I Agree".}}{347}%
+\contentsline {figure}{\numberline {4.36\relax }{\ignorespaces Tipe instalasi "Full".}}{348}%
+\contentsline {figure}{\numberline {4.37\relax }{\ignorespaces Pilih direktori instalasi}}{348}%
+\contentsline {figure}{\numberline {4.38\relax }{\ignorespaces Isi port Apache.}}{349}%
+\contentsline {figure}{\numberline {4.39\relax }{\ignorespaces Proses instalasi.}}{349}%
+\contentsline {figure}{\numberline {4.40\relax }{\ignorespaces Akhir proses instalasi.}}{350}%
+\contentsline {figure}{\numberline {4.41\relax }{\ignorespaces Install Map Proxy}}{350}%
+\contentsline {figure}{\numberline {4.42\relax }{\ignorespaces Install pyproj}}{350}%
+\contentsline {figure}{\numberline {4.43\relax }{\ignorespaces git clone}}{351}%
+\contentsline {figure}{\numberline {4.44\relax }{\ignorespaces buat folder tmp}}{351}%
+\contentsline {figure}{\numberline {4.45\relax }{\ignorespaces Edit lokasi mymap.map}}{351}%
+\contentsline {figure}{\numberline {4.46\relax }{\ignorespaces Edit binary dan path working-dir}}{352}%
+\contentsline {figure}{\numberline {4.47\relax }{\ignorespaces Buka aplikasi mapproxy}}{352}%
+\contentsline {figure}{\numberline {4.48\relax }{\ignorespaces Buka mapproxy pada browser}}{352}%
+\contentsline {figure}{\numberline {4.49\relax }{\ignorespaces MapProxy menampilkan map}}{352}%
+\contentsline {figure}{\numberline {4.50\relax }{\ignorespaces Download MS4W}}{353}%
+\contentsline {figure}{\numberline {4.51\relax }{\ignorespaces Folder conf}}{353}%
+\contentsline {figure}{\numberline {4.52\relax }{\ignorespaces File httpd.conf}}{353}%
+\contentsline {figure}{\numberline {4.53\relax }{\ignorespaces Instalasi MapProxy}}{354}%
+\contentsline {figure}{\numberline {4.54\relax }{\ignorespaces Buka mapproxy pada browser}}{354}%
+\contentsline {figure}{\numberline {4.55\relax }{\ignorespaces MapProxy menampilkan map}}{355}%
+\contentsline {figure}{\numberline {4.56\relax }{\ignorespaces Download MS4W}}{355}%
+\contentsline {figure}{\numberline {4.57\relax }{\ignorespaces Download MS4W}}{355}%
+\contentsline {figure}{\numberline {4.58\relax }{\ignorespaces Download MS4W}}{356}%
+\contentsline {figure}{\numberline {4.59\relax }{\ignorespaces Folder }}{356}%
+\contentsline {figure}{\numberline {4.60\relax }{\ignorespaces File httpd.conf}}{356}%
+\contentsline {figure}{\numberline {4.61\relax }{\ignorespaces Task Manager}}{357}%
+\contentsline {figure}{\numberline {4.62\relax }{\ignorespaces Pilih tab service dan pilih ApacheMS4WWebServer}}{357}%
+\contentsline {figure}{\numberline {4.63\relax }{\ignorespaces Instalasi MapProxy}}{357}%
+\contentsline {figure}{\numberline {4.64\relax }{\ignorespaces Buat folder tmp}}{358}%
+\contentsline {figure}{\numberline {4.65\relax }{\ignorespaces File agm.yaml}}{358}%
+\contentsline {figure}{\numberline {4.66\relax }{\ignorespaces Edit lokasi mymap.map}}{358}%
+\contentsline {figure}{\numberline {4.67\relax }{\ignorespaces Edit path binary mapserv}}{358}%
+\contentsline {figure}{\numberline {4.68\relax }{\ignorespaces Aplikasi MS4W-Shell}}{358}%
+\contentsline {figure}{\numberline {4.69\relax }{\ignorespaces Buka Folder gede}}{359}%
+\contentsline {figure}{\numberline {4.70\relax }{\ignorespaces Buka Folder mapproxy}}{359}%
+\contentsline {figure}{\numberline {4.71\relax }{\ignorespaces Buka aplikasi mapproxy}}{359}%
+\contentsline {figure}{\numberline {4.72\relax }{\ignorespaces Buka mapproxy pada browser}}{359}%
+\contentsline {figure}{\numberline {4.73\relax }{\ignorespaces MapProxy menampilkan map}}{359}%
+\contentsline {figure}{\numberline {4.74\relax }{\ignorespaces Download File MS4W}}{360}%
+\contentsline {figure}{\numberline {4.75\relax }{\ignorespaces Install File exe}}{360}%
+\contentsline {figure}{\numberline {4.76\relax }{\ignorespaces Isi Folder apache}}{360}%
+\contentsline {figure}{\numberline {4.77\relax }{\ignorespaces Isi Folder conf}}{361}%
+\contentsline {figure}{\numberline {4.78\relax }{\ignorespaces Listen port 80}}{361}%
+\contentsline {figure}{\numberline {4.79\relax }{\ignorespaces Mengakses Halaman Service}}{361}%
+\contentsline {figure}{\numberline {4.80\relax }{\ignorespaces Pengaturan Service Apache MS4W Web Server}}{361}%
+\contentsline {figure}{\numberline {4.81\relax }{\ignorespaces Pengaturan Service Apache MS4W Web Server}}{362}%
+\contentsline {figure}{\numberline {4.82\relax }{\ignorespaces Download atau clone file di github}}{362}%
+\contentsline {figure}{\numberline {4.83\relax }{\ignorespaces Isi folder shp}}{362}%
+\contentsline {figure}{\numberline {4.84\relax }{\ignorespaces Hasil Gambar file 00}}{363}%
+\contentsline {figure}{\numberline {4.85\relax }{\ignorespaces Hasil Gambar file btsnegara}}{363}%
+\contentsline {figure}{\numberline {4.86\relax }{\ignorespaces Instalasi MapProxy}}{363}%
+\contentsline {figure}{\numberline {4.87\relax }{\ignorespaces Instalasi PyProj}}{364}%
+\contentsline {figure}{\numberline {4.88\relax }{\ignorespaces Membuat folder baru tmp}}{364}%
+\contentsline {figure}{\numberline {4.89\relax }{\ignorespaces File agm.yaml}}{364}%
+\contentsline {figure}{\numberline {4.90\relax }{\ignorespaces Edit lokasi mywms.map}}{364}%
+\contentsline {figure}{\numberline {4.91\relax }{\ignorespaces Edit path binary mapserv}}{365}%
+\contentsline {figure}{\numberline {4.92\relax }{\ignorespaces Edit path working-dir}}{365}%
+\contentsline {figure}{\numberline {4.93\relax }{\ignorespaces Aplikasi MS4W-Shell}}{365}%
+\contentsline {figure}{\numberline {4.94\relax }{\ignorespaces Buka Folder gede}}{365}%
+\contentsline {figure}{\numberline {4.95\relax }{\ignorespaces Buka Folder mapproxy}}{365}%
+\contentsline {figure}{\numberline {4.96\relax }{\ignorespaces Buka aplikasi mapproxy}}{365}%
+\contentsline {figure}{\numberline {4.97\relax }{\ignorespaces MapProxy menampilkan map}}{366}%
+\contentsline {figure}{\numberline {4.98\relax }{\ignorespaces MapProxy menampilkan map}}{366}%
+\contentsline {figure}{\numberline {4.99\relax }{\ignorespaces Download File MS4W}}{366}%
+\contentsline {figure}{\numberline {4.100\relax }{\ignorespaces Install File exe}}{367}%
+\contentsline {figure}{\numberline {4.101\relax }{\ignorespaces Isi Folder apache}}{367}%
+\contentsline {figure}{\numberline {4.102\relax }{\ignorespaces Isi Folder conf}}{367}%
+\contentsline {figure}{\numberline {4.103\relax }{\ignorespaces Listen port 80}}{367}%
+\contentsline {figure}{\numberline {4.104\relax }{\ignorespaces Mengakses Halaman Service}}{368}%
+\contentsline {figure}{\numberline {4.105\relax }{\ignorespaces Pengaturan Service Apache MS4W Web Server}}{368}%
+\contentsline {figure}{\numberline {4.106\relax }{\ignorespaces Pengaturan Service Apache MS4W Web Server}}{368}%
+\contentsline {figure}{\numberline {4.107\relax }{\ignorespaces Download atau clone file di github}}{369}%
+\contentsline {figure}{\numberline {4.108\relax }{\ignorespaces Isi folder shp}}{369}%
+\contentsline {figure}{\numberline {4.109\relax }{\ignorespaces Hasil Gambar file 00}}{369}%
+\contentsline {figure}{\numberline {4.110\relax }{\ignorespaces Hasil Gambar file btsnegara}}{370}%
+\contentsline {figure}{\numberline {4.111\relax }{\ignorespaces Instalasi MapProxy}}{370}%
+\contentsline {figure}{\numberline {4.112\relax }{\ignorespaces Instalasi PyProj}}{370}%
+\contentsline {figure}{\numberline {4.113\relax }{\ignorespaces Membuat folder baru tmp}}{371}%
+\contentsline {figure}{\numberline {4.114\relax }{\ignorespaces File agm.yaml}}{371}%
+\contentsline {figure}{\numberline {4.115\relax }{\ignorespaces Edit lokasi mywms.map}}{371}%
+\contentsline {figure}{\numberline {4.116\relax }{\ignorespaces Edit path binary mapserv}}{371}%
+\contentsline {figure}{\numberline {4.117\relax }{\ignorespaces Edit path working-dir}}{371}%
+\contentsline {figure}{\numberline {4.118\relax }{\ignorespaces Aplikasi MS4W-Shell}}{372}%
+\contentsline {figure}{\numberline {4.119\relax }{\ignorespaces Buka Folder gede}}{372}%
+\contentsline {figure}{\numberline {4.120\relax }{\ignorespaces Buka Folder mapproxy}}{372}%
+\contentsline {figure}{\numberline {4.121\relax }{\ignorespaces Buka aplikasi mapproxy}}{372}%
+\contentsline {figure}{\numberline {4.122\relax }{\ignorespaces MapProxy menampilkan map}}{372}%
+\contentsline {figure}{\numberline {4.123\relax }{\ignorespaces MapProxy menampilkan map}}{373}%
+\contentsline {figure}{\numberline {4.124\relax }{\ignorespaces Download MS4W}}{373}%
+\contentsline {figure}{\numberline {4.125\relax }{\ignorespaces Folder Apache}}{373}%
+\contentsline {figure}{\numberline {4.126\relax }{\ignorespaces Folder conf}}{374}%
+\contentsline {figure}{\numberline {4.127\relax }{\ignorespaces File httpd.conf}}{374}%
+\contentsline {figure}{\numberline {4.128\relax }{\ignorespaces Edit file httpd.conf}}{374}%
+\contentsline {figure}{\numberline {4.129\relax }{\ignorespaces Services.msc}}{374}%
+\contentsline {figure}{\numberline {4.130\relax }{\ignorespaces pilih ApacheMS4WWebServer}}{375}%
+\contentsline {figure}{\numberline {4.131\relax }{\ignorespaces Mengakses Halaman Service}}{375}%
+\contentsline {figure}{\numberline {4.132\relax }{\ignorespaces Instalasi MapProxy}}{375}%
+\contentsline {figure}{\numberline {4.133\relax }{\ignorespaces buat folder tmp}}{375}%
+\contentsline {figure}{\numberline {4.134\relax }{\ignorespaces Edit lokasi mymap.map}}{376}%
+\contentsline {figure}{\numberline {4.135\relax }{\ignorespaces Edit binary dan path working-dir}}{376}%
+\contentsline {figure}{\numberline {4.136\relax }{\ignorespaces Buka aplikasi mapproxy}}{376}%
+\contentsline {figure}{\numberline {4.137\relax }{\ignorespaces Buka mapproxy pada browser}}{376}%
+\contentsline {figure}{\numberline {4.138\relax }{\ignorespaces MapProxy menampilkan map}}{377}%
+\contentsline {figure}{\numberline {4.139\relax }{\ignorespaces Download installer Map Server.}}{377}%
+\contentsline {figure}{\numberline {4.140\relax }{\ignorespaces Klik 2x Installer}}{377}%
+\contentsline {figure}{\numberline {4.141\relax }{\ignorespaces Klik "I Agree".}}{378}%
+\contentsline {figure}{\numberline {4.142\relax }{\ignorespaces Tipe instalasi "Full".}}{378}%
+\contentsline {figure}{\numberline {4.143\relax }{\ignorespaces Pilih direktori instalasi}}{379}%
+\contentsline {figure}{\numberline {4.144\relax }{\ignorespaces Isi port Apache.}}{379}%
+\contentsline {figure}{\numberline {4.145\relax }{\ignorespaces Proses instalasi.}}{380}%
+\contentsline {figure}{\numberline {4.146\relax }{\ignorespaces Akhir proses instalasi.}}{380}%
+\contentsline {figure}{\numberline {4.147\relax }{\ignorespaces Install Map Proxy}}{381}%
+\contentsline {figure}{\numberline {4.148\relax }{\ignorespaces Install pyproj}}{381}%
+\contentsline {figure}{\numberline {4.149\relax }{\ignorespaces git clone}}{381}%
+\contentsline {figure}{\numberline {4.150\relax }{\ignorespaces buat folder tmp}}{382}%
+\contentsline {figure}{\numberline {4.151\relax }{\ignorespaces Edit lokasi mymap.map}}{382}%
+\contentsline {figure}{\numberline {4.152\relax }{\ignorespaces Edit binary dan path working-dir}}{382}%
+\contentsline {figure}{\numberline {4.153\relax }{\ignorespaces Buka aplikasi mapproxy}}{382}%
+\contentsline {figure}{\numberline {4.154\relax }{\ignorespaces Buka mapproxy pada browser}}{383}%
+\contentsline {figure}{\numberline {4.155\relax }{\ignorespaces MapProxy menampilkan map}}{383}%
+\contentsline {figure}{\numberline {4.156\relax }{\ignorespaces Download installer Map Server}}{383}%
+\contentsline {figure}{\numberline {4.157\relax }{\ignorespaces Menjalankan file ms4w-4.0.1-setup.exe}}{383}%
+\contentsline {figure}{\numberline {4.158\relax }{\ignorespaces Setuju dengan persyaratan}}{384}%
+\contentsline {figure}{\numberline {4.159\relax }{\ignorespaces Pilih Komponen yang di install}}{384}%
+\contentsline {figure}{\numberline {4.160\relax }{\ignorespaces Tentukan path dari file}}{385}%
+\contentsline {figure}{\numberline {4.161\relax }{\ignorespaces Tentukan port map server}}{385}%
+\contentsline {figure}{\numberline {4.162\relax }{\ignorespaces Install selesai}}{386}%
+\contentsline {figure}{\numberline {4.163\relax }{\ignorespaces Install Map Proxy}}{386}%
+\contentsline {figure}{\numberline {4.164\relax }{\ignorespaces Install Pyproj}}{386}%
+\contentsline {figure}{\numberline {4.165\relax }{\ignorespaces Install Map Proxy}}{387}%
+\contentsline {figure}{\numberline {4.166\relax }{\ignorespaces Install Map Proxy}}{387}%
+\contentsline {figure}{\numberline {4.167\relax }{\ignorespaces Install Map Proxy}}{387}%
+\contentsline {figure}{\numberline {4.168\relax }{\ignorespaces Install Map Proxy}}{388}%
+\contentsline {figure}{\numberline {4.169\relax }{\ignorespaces Download installer Map Server.}}{388}%
+\contentsline {figure}{\numberline {4.170\relax }{\ignorespaces Klik dua kali pada installer.}}{389}%
+\contentsline {figure}{\numberline {4.171\relax }{\ignorespaces Klik "I Agree".}}{389}%
+\contentsline {figure}{\numberline {4.172\relax }{\ignorespaces Tipe instalasi "Full".}}{390}%
+\contentsline {figure}{\numberline {4.173\relax }{\ignorespaces Pilih direktori instalasi}}{390}%
+\contentsline {figure}{\numberline {4.174\relax }{\ignorespaces Isi port Apache.}}{391}%
+\contentsline {figure}{\numberline {4.175\relax }{\ignorespaces Proses instalasi.}}{391}%
+\contentsline {figure}{\numberline {4.176\relax }{\ignorespaces Akhir proses instalasi.}}{392}%
+\contentsline {figure}{\numberline {4.177\relax }{\ignorespaces Install Map Proxy}}{392}%
+\contentsline {figure}{\numberline {4.178\relax }{\ignorespaces Install pyproj}}{392}%
+\contentsline {figure}{\numberline {4.179\relax }{\ignorespaces Isi Folder httpd.d}}{393}%
+\contentsline {figure}{\numberline {4.180\relax }{\ignorespaces Membuat file baru}}{393}%
+\contentsline {figure}{\numberline {4.181\relax }{\ignorespaces Konfigurasi File Tersebut}}{393}%
+\contentsline {figure}{\numberline {4.182\relax }{\ignorespaces Isi Folder Apps}}{393}%
+\contentsline {figure}{\numberline {4.183\relax }{\ignorespaces Membuat folder baru}}{394}%
+\contentsline {figure}{\numberline {4.184\relax }{\ignorespaces Membuat file baru}}{394}%
+\contentsline {figure}{\numberline {4.185\relax }{\ignorespaces Isi mywfs.map 1}}{394}%
+\contentsline {figure}{\numberline {4.186\relax }{\ignorespaces Tampilan Web}}{394}%
+\contentsline {figure}{\numberline {4.187\relax }{\ignorespaces File shp dengan XML}}{395}%
+\contentsline {figure}{\numberline {4.188\relax }{\ignorespaces Hasil}}{395}%
+\contentsline {figure}{\numberline {4.189\relax }{\ignorespaces Download}}{395}%
+\contentsline {figure}{\numberline {4.190\relax }{\ignorespaces Download}}{396}%
+\contentsline {figure}{\numberline {4.191\relax }{\ignorespaces Konfigurasi}}{396}%
+\contentsline {figure}{\numberline {4.192\relax }{\ignorespaces Konfigurasi}}{396}%
+\contentsline {figure}{\numberline {4.193\relax }{\ignorespaces Konfigurasi}}{397}%
+\contentsline {figure}{\numberline {4.194\relax }{\ignorespaces Konfigurasi}}{397}%
+\contentsline {figure}{\numberline {4.195\relax }{\ignorespaces Instalasi}}{397}%
+\contentsline {figure}{\numberline {4.196\relax }{\ignorespaces Buat folder}}{398}%
+\contentsline {figure}{\numberline {4.197\relax }{\ignorespaces File}}{398}%
+\contentsline {figure}{\numberline {4.198\relax }{\ignorespaces Edit amg.yaml}}{398}%
+\contentsline {figure}{\numberline {4.199\relax }{\ignorespaces Buka aplikasi mapproxy}}{398}%
+\contentsline {figure}{\numberline {4.200\relax }{\ignorespaces Download installer Map Server.}}{399}%
+\contentsline {figure}{\numberline {4.201\relax }{\ignorespaces Klik dua kali pada installer.}}{399}%
+\contentsline {figure}{\numberline {4.202\relax }{\ignorespaces Klik "I Agree".}}{400}%
+\contentsline {figure}{\numberline {4.203\relax }{\ignorespaces Tipe instalasi "Full".}}{400}%
+\contentsline {figure}{\numberline {4.204\relax }{\ignorespaces Pilih direktori instalasi}}{401}%
+\contentsline {figure}{\numberline {4.205\relax }{\ignorespaces Isi port Apache.}}{401}%
+\contentsline {figure}{\numberline {4.206\relax }{\ignorespaces Proses instalasi.}}{402}%
+\contentsline {figure}{\numberline {4.207\relax }{\ignorespaces Akhir proses instalasi.}}{402}%
+\contentsline {figure}{\numberline {4.208\relax }{\ignorespaces Install Map Proxy}}{403}%
+\contentsline {figure}{\numberline {4.209\relax }{\ignorespaces Install pyproj}}{403}%
+\contentsline {figure}{\numberline {4.210\relax }{\ignorespaces Buat folder tmp}}{403}%
+\contentsline {figure}{\numberline {4.211\relax }{\ignorespaces File agm.yaml}}{404}%
+\contentsline {figure}{\numberline {4.212\relax }{\ignorespaces Edit lokasi mymap.map}}{404}%
+\contentsline {figure}{\numberline {4.213\relax }{\ignorespaces Aplikasi MS4W-Shell}}{404}%
+\contentsline {figure}{\numberline {4.214\relax }{\ignorespaces Buka Folder gede}}{404}%
+\contentsline {figure}{\numberline {4.215\relax }{\ignorespaces Buka Folder mapproxy}}{404}%
+\contentsline {figure}{\numberline {4.216\relax }{\ignorespaces Buka aplikasi mapproxy}}{405}%
+\contentsline {figure}{\numberline {4.217\relax }{\ignorespaces Buka mapproxy pada browser}}{405}%
+\contentsline {figure}{\numberline {4.218\relax }{\ignorespaces MapProxy menampilkan map}}{405}%
+\contentsline {figure}{\numberline {4.219\relax }{\ignorespaces Download MS4W}}{406}%
+\contentsline {figure}{\numberline {4.220\relax }{\ignorespaces Proses Install}}{406}%
+\contentsline {figure}{\numberline {4.221\relax }{\ignorespaces Install selesai}}{406}%
+\contentsline {figure}{\numberline {4.222\relax }{\ignorespaces Instalasi MapProxy di cmd}}{407}%
+\contentsline {figure}{\numberline {4.223\relax }{\ignorespaces Buat folder tmp}}{407}%
+\contentsline {figure}{\numberline {4.224\relax }{\ignorespaces File agm.yaml}}{408}%
+\contentsline {figure}{\numberline {4.225\relax }{\ignorespaces Edit lokasi mymap.map}}{408}%
+\contentsline {figure}{\numberline {4.226\relax }{\ignorespaces Edit path binary mapserv}}{408}%
+\contentsline {figure}{\numberline {4.227\relax }{\ignorespaces Buka aplikasi mapproxy}}{408}%
+\contentsline {figure}{\numberline {4.228\relax }{\ignorespaces Buka mapproxy pada browser}}{408}%
+\contentsline {figure}{\numberline {4.229\relax }{\ignorespaces MapProxy menampilkan map}}{409}%
+\contentsline {figure}{\numberline {4.230\relax }{\ignorespaces Halaman download map server untuk windows}}{409}%
+\contentsline {figure}{\numberline {4.231\relax }{\ignorespaces Halaman download map server untuk selain windows}}{409}%
+\contentsline {figure}{\numberline {4.232\relax }{\ignorespaces File yang telah didownload}}{410}%
+\contentsline {figure}{\numberline {4.233\relax }{\ignorespaces Agree Instalasi}}{410}%
+\contentsline {figure}{\numberline {4.234\relax }{\ignorespaces Full Instalasi}}{410}%
+\contentsline {figure}{\numberline {4.235\relax }{\ignorespaces Penyimpanan Instalasi}}{411}%
+\contentsline {figure}{\numberline {4.236\relax }{\ignorespaces Menggunakan Port 80}}{411}%
+\contentsline {figure}{\numberline {4.237\relax }{\ignorespaces Proses Instalasi}}{411}%
+\contentsline {figure}{\numberline {4.238\relax }{\ignorespaces Membuka folder ms4w}}{412}%
+\contentsline {figure}{\numberline {4.239\relax }{\ignorespaces Isi Folder ms4w}}{412}%
+\contentsline {figure}{\numberline {4.240\relax }{\ignorespaces Isi Folder Apache}}{412}%
+\contentsline {figure}{\numberline {4.241\relax }{\ignorespaces Isi Folder Conf}}{413}%
+\contentsline {figure}{\numberline {4.242\relax }{\ignorespaces Listen port}}{413}%
+\contentsline {figure}{\numberline {4.243\relax }{\ignorespaces Mengakses Halaman Service}}{413}%
+\contentsline {figure}{\numberline {4.244\relax }{\ignorespaces Pengaturan Service Apache MS4W Web Server}}{414}%
+\contentsline {figure}{\numberline {4.245\relax }{\ignorespaces Isi Folder httpd.d}}{414}%
+\contentsline {figure}{\numberline {4.246\relax }{\ignorespaces Membuat file baru}}{414}%
+\contentsline {figure}{\numberline {4.247\relax }{\ignorespaces Konfigurasi File Tersebut}}{414}%
+\contentsline {figure}{\numberline {4.248\relax }{\ignorespaces Isi Folder Apps}}{415}%
+\contentsline {figure}{\numberline {4.249\relax }{\ignorespaces Membuat folder baru}}{415}%
+\contentsline {figure}{\numberline {4.250\relax }{\ignorespaces Membuat file baru}}{415}%
+\contentsline {figure}{\numberline {4.251\relax }{\ignorespaces Isi mywfs.map 1}}{415}%
+\contentsline {figure}{\numberline {4.252\relax }{\ignorespaces Isi mywfs.map 2}}{416}%
+\contentsline {figure}{\numberline {4.253\relax }{\ignorespaces Hasil}}{416}%
+\contentsline {figure}{\numberline {4.254\relax }{\ignorespaces Instalasi MapProxy}}{416}%
+\contentsline {figure}{\numberline {4.255\relax }{\ignorespaces Buat folder tmp}}{417}%
+\contentsline {figure}{\numberline {4.256\relax }{\ignorespaces Edit lokasi mymap.map}}{417}%
+\contentsline {figure}{\numberline {4.257\relax }{\ignorespaces Edit path binary mapserv}}{417}%
+\contentsline {figure}{\numberline {4.258\relax }{\ignorespaces Edit path working-dir}}{418}%
+\contentsline {figure}{\numberline {4.259\relax }{\ignorespaces Buka Folder gede dan mapproxy}}{418}%
+\contentsline {figure}{\numberline {4.260\relax }{\ignorespaces Buka aplikasi mapproxy}}{418}%
+\contentsline {figure}{\numberline {4.261\relax }{\ignorespaces Buka mapproxy pada browser}}{418}%
+\contentsline {figure}{\numberline {4.262\relax }{\ignorespaces MapProxy menampilkan map}}{419}%
+\contentsline {figure}{\numberline {4.263\relax }{\ignorespaces Pilih menu download}}{419}%
+\contentsline {figure}{\numberline {4.264\relax }{\ignorespaces Download aplikasi MS4W}}{419}%
+\contentsline {figure}{\numberline {4.265\relax }{\ignorespaces Klik "I Agree" lalu install seperti biasa}}{420}%
+\contentsline {figure}{\numberline {4.266\relax }{\ignorespaces Install mapproxy}}{420}%
+\contentsline {figure}{\numberline {4.267\relax }{\ignorespaces Install pyproj}}{420}%
+\contentsline {figure}{\numberline {4.268\relax }{\ignorespaces Membuka service}}{420}%
+\contentsline {figure}{\numberline {4.269\relax }{\ignorespaces MS4W Web Server Automatic}}{421}%
+\contentsline {figure}{\numberline {4.270\relax }{\ignorespaces Download repository gede}}{421}%
+\contentsline {figure}{\numberline {4.271\relax }{\ignorespaces Extract repository}}{421}%
+\contentsline {figure}{\numberline {4.272\relax }{\ignorespaces Buka folder shp}}{422}%
+\contentsline {figure}{\numberline {4.273\relax }{\ignorespaces Hasil gambar 00.shp Negara Indonesia}}{422}%
+\contentsline {figure}{\numberline {4.274\relax }{\ignorespaces Hasil gambar btsnegara.shp peta dunia}}{422}%
+\contentsline {figure}{\numberline {4.275\relax }{\ignorespaces Hasil 00.shp dan btsnegara.shp peta dunia dengan batas negara Indonesia}}{423}%
+\contentsline {figure}{\numberline {4.276\relax }{\ignorespaces Isi folder mapproxy}}{423}%
+\contentsline {figure}{\numberline {4.277\relax }{\ignorespaces Konfigurasi map:lokasi file mwmys.map, binary:lokasi instal MS4C, dan workingdir:lokasi folder tmp di dalam folder gede }}{423}%
+\contentsline {figure}{\numberline {4.278\relax }{\ignorespaces Jalankan map server}}{423}%
+\contentsline {figure}{\numberline {4.279\relax }{\ignorespaces Buka mapproxy pada browser}}{424}%
+\contentsline {figure}{\numberline {4.280\relax }{\ignorespaces Pilih png atau jpg}}{424}%
+\contentsline {figure}{\numberline {4.281\relax }{\ignorespaces Hasil mapproxy}}{424}%
+\contentsline {figure}{\numberline {4.282\relax }{\ignorespaces Gambar Link Download MS4W}}{425}%
+\contentsline {figure}{\numberline {4.283\relax }{\ignorespaces Gambar Untuk Install File exe}}{425}%
+\contentsline {figure}{\numberline {4.284\relax }{\ignorespaces Gambar Proses Instalasi Ms4w}}{425}%
+\contentsline {figure}{\numberline {4.285\relax }{\ignorespaces Gambar Untuk File http.conf}}{426}%
+\contentsline {figure}{\numberline {4.286\relax }{\ignorespaces Gambar Listen port 80}}{426}%
+\contentsline {figure}{\numberline {4.287\relax }{\ignorespaces Gambar Untuk Mengakses Halaman Service}}{426}%
+\contentsline {figure}{\numberline {4.288\relax }{\ignorespaces Gambar Untuk Mengakses Halaman Service}}{426}%
+\contentsline {figure}{\numberline {4.289\relax }{\ignorespaces Link Github}}{427}%
+\contentsline {figure}{\numberline {4.290\relax }{\ignorespaces Gambar Untuk Download File}}{427}%
+\contentsline {figure}{\numberline {4.291\relax }{\ignorespaces Gambar di File aqm.ymal}}{427}%
+\contentsline {figure}{\numberline {4.292\relax }{\ignorespaces Gambar Untuk Aplikasi QGIS}}{428}%
+\contentsline {figure}{\numberline {4.293\relax }{\ignorespaces Gambar Hasil 00.shp}}{428}%
+\contentsline {figure}{\numberline {4.294\relax }{\ignorespaces Gambar Hasil bts negara.shp}}{428}%
+\contentsline {figure}{\numberline {4.295\relax }{\ignorespaces Instalasi MapProxy}}{429}%
+\contentsline {figure}{\numberline {4.296\relax }{\ignorespaces Download File MS4W}}{429}%
+\contentsline {figure}{\numberline {4.297\relax }{\ignorespaces Install File exe}}{429}%
+\contentsline {figure}{\numberline {4.298\relax }{\ignorespaces Isi Folder apache}}{430}%
+\contentsline {figure}{\numberline {4.299\relax }{\ignorespaces Isi Folder conf}}{430}%
+\contentsline {figure}{\numberline {4.300\relax }{\ignorespaces Listen port 80}}{430}%
+\contentsline {figure}{\numberline {4.301\relax }{\ignorespaces Mengakses Halaman Service}}{430}%
+\contentsline {figure}{\numberline {4.302\relax }{\ignorespaces Pengaturan Service Apache MS4W Web Server}}{431}%
+\contentsline {figure}{\numberline {4.303\relax }{\ignorespaces Pengaturan Service Apache MS4W Web Server}}{431}%
+\contentsline {figure}{\numberline {4.304\relax }{\ignorespaces Download atau clone file di github}}{431}%
+\contentsline {figure}{\numberline {4.305\relax }{\ignorespaces Isi folder shp}}{432}%
+\contentsline {figure}{\numberline {4.306\relax }{\ignorespaces Hasil Gambar file 00}}{432}%
+\contentsline {figure}{\numberline {4.307\relax }{\ignorespaces Hasil Gambar file btsnegara}}{432}%
+\contentsline {figure}{\numberline {4.308\relax }{\ignorespaces Instalasi MapProxy}}{432}%
+\contentsline {figure}{\numberline {4.309\relax }{\ignorespaces Instalasi PyProj}}{433}%
+\contentsline {figure}{\numberline {4.310\relax }{\ignorespaces Membuat folder baru tmp}}{433}%
+\contentsline {figure}{\numberline {4.311\relax }{\ignorespaces File agm.yaml}}{433}%
+\contentsline {figure}{\numberline {4.312\relax }{\ignorespaces Edit lokasi mywms.map}}{433}%
+\contentsline {figure}{\numberline {4.313\relax }{\ignorespaces Edit path binary mapserv}}{434}%
+\contentsline {figure}{\numberline {4.314\relax }{\ignorespaces Edit path working-dir}}{434}%
+\contentsline {figure}{\numberline {4.315\relax }{\ignorespaces Aplikasi MS4W-Shell}}{434}%
+\contentsline {figure}{\numberline {4.316\relax }{\ignorespaces Buka Folder gede}}{434}%
+\contentsline {figure}{\numberline {4.317\relax }{\ignorespaces Buka Folder mapproxy}}{434}%
+\contentsline {figure}{\numberline {4.318\relax }{\ignorespaces Buka aplikasi mapproxy}}{434}%
+\contentsline {figure}{\numberline {4.319\relax }{\ignorespaces MapProxy menampilkan map}}{435}%
+\contentsline {figure}{\numberline {4.320\relax }{\ignorespaces MapProxy menampilkan map}}{435}%
+\contentsline {figure}{\numberline {5.1\relax }{\ignorespaces Run Mapproxy}}{437}%
+\contentsline {figure}{\numberline {5.2\relax }{\ignorespaces Isi Basic.html}}{438}%
+\contentsline {figure}{\numberline {5.3\relax }{\ignorespaces Hasil dari Basic.html}}{438}%
+\contentsline {figure}{\numberline {5.4\relax }{\ignorespaces Isi dari marker.html}}{438}%
+\contentsline {figure}{\numberline {5.5\relax }{\ignorespaces Isi dari marker.html}}{438}%
+\contentsline {figure}{\numberline {5.6\relax }{\ignorespaces Gambar 1}}{439}%
+\contentsline {figure}{\numberline {5.7\relax }{\ignorespaces Gambar 2}}{439}%
+\contentsline {figure}{\numberline {5.8\relax }{\ignorespaces Gambar 3}}{440}%
+\contentsline {figure}{\numberline {5.9\relax }{\ignorespaces Gambar 4}}{440}%
+\contentsline {figure}{\numberline {5.10\relax }{\ignorespaces Gambar 5}}{441}%
+\contentsline {figure}{\numberline {5.11\relax }{\ignorespaces Gambar 6}}{442}%
+\contentsline {figure}{\numberline {5.12\relax }{\ignorespaces Menjalankan Mapproxy}}{442}%
+\contentsline {figure}{\numberline {5.13\relax }{\ignorespaces Hasil dari file basic.htm}}{443}%
+\contentsline {figure}{\numberline {5.14\relax }{\ignorespaces Contoh menambahkan marker, circle dan polygon}}{443}%
+\contentsline {figure}{\numberline {5.15\relax }{\ignorespaces Hasil dari file marker.html}}{443}%
+\contentsline {figure}{\numberline {5.16\relax }{\ignorespaces Start server MapProxy}}{444}%
+\contentsline {figure}{\numberline {5.17\relax }{\ignorespaces File Basic.html}}{444}%
+\contentsline {figure}{\numberline {5.18\relax }{\ignorespaces Code Basic.html}}{445}%
+\contentsline {figure}{\numberline {5.19\relax }{\ignorespaces Tampilan Basic.html}}{446}%
+\contentsline {figure}{\numberline {5.20\relax }{\ignorespaces File Marker.html}}{446}%
+\contentsline {figure}{\numberline {5.21\relax }{\ignorespaces Code tambahan Marker.html}}{447}%
+\contentsline {figure}{\numberline {5.22\relax }{\ignorespaces Tampilan Marker.html}}{447}%
+\contentsline {figure}{\numberline {5.23\relax }{\ignorespaces Gambar 1}}{448}%
+\contentsline {figure}{\numberline {5.24\relax }{\ignorespaces Gambar 2}}{448}%
+\contentsline {figure}{\numberline {5.25\relax }{\ignorespaces Gambar 3}}{449}%
+\contentsline {figure}{\numberline {5.26\relax }{\ignorespaces Gambar 4}}{449}%
+\contentsline {figure}{\numberline {5.27\relax }{\ignorespaces Gambar 5}}{450}%
+\contentsline {figure}{\numberline {5.28\relax }{\ignorespaces Run Mapproxy}}{450}%
+\contentsline {figure}{\numberline {5.29\relax }{\ignorespaces Isi Basic.html}}{451}%
+\contentsline {figure}{\numberline {5.30\relax }{\ignorespaces Hasil dari Basic.html}}{451}%
+\contentsline {figure}{\numberline {5.31\relax }{\ignorespaces Isi dari marker.html}}{451}%
+\contentsline {figure}{\numberline {5.32\relax }{\ignorespaces Isi dari marker.html}}{451}%
+\contentsline {figure}{\numberline {5.33\relax }{\ignorespaces Start server MapProxy}}{452}%
+\contentsline {figure}{\numberline {5.34\relax }{\ignorespaces File Basic.html}}{452}%
+\contentsline {figure}{\numberline {5.35\relax }{\ignorespaces Code Basic.html}}{453}%
+\contentsline {figure}{\numberline {5.36\relax }{\ignorespaces Tampilan Basic.html}}{453}%
+\contentsline {figure}{\numberline {5.37\relax }{\ignorespaces File Marker.html}}{454}%
+\contentsline {figure}{\numberline {5.38\relax }{\ignorespaces Code tambahan Marker.html}}{454}%
+\contentsline {figure}{\numberline {5.39\relax }{\ignorespaces Tampilan Marker.html}}{455}%
+\contentsline {figure}{\numberline {5.40\relax }{\ignorespaces Start server MapProxy}}{455}%
+\contentsline {figure}{\numberline {5.41\relax }{\ignorespaces File Basic.html}}{456}%
+\contentsline {figure}{\numberline {5.42\relax }{\ignorespaces Code Basic.html}}{456}%
+\contentsline {figure}{\numberline {5.43\relax }{\ignorespaces Tampilan Basic.html}}{457}%
+\contentsline {figure}{\numberline {5.44\relax }{\ignorespaces File Marker.html}}{457}%
+\contentsline {figure}{\numberline {5.45\relax }{\ignorespaces Code tambahan Marker.html}}{458}%
+\contentsline {figure}{\numberline {5.46\relax }{\ignorespaces Tampilan Marker.html}}{458}%
+\contentsline {figure}{\numberline {5.47\relax }{\ignorespaces Gambar 1}}{459}%
+\contentsline {figure}{\numberline {5.48\relax }{\ignorespaces Gambar 2}}{459}%
+\contentsline {figure}{\numberline {5.49\relax }{\ignorespaces Gambar 3}}{460}%
+\contentsline {figure}{\numberline {5.50\relax }{\ignorespaces Gambar 4}}{460}%
+\contentsline {figure}{\numberline {5.51\relax }{\ignorespaces Gambar 5}}{461}%
+\contentsline {figure}{\numberline {5.52\relax }{\ignorespaces Gambar 6}}{462}%
+\contentsline {figure}{\numberline {5.53\relax }{\ignorespaces Run Mapproxy}}{462}%
+\contentsline {figure}{\numberline {5.54\relax }{\ignorespaces Open basic.html}}{463}%
+\contentsline {figure}{\numberline {5.55\relax }{\ignorespaces Hasil basic.html}}{464}%
+\contentsline {figure}{\numberline {5.56\relax }{\ignorespaces Hasil marker.html}}{465}%
+\contentsline {figure}{\numberline {5.57\relax }{\ignorespaces Start server MapProxy}}{465}%
+\contentsline {figure}{\numberline {5.58\relax }{\ignorespaces File Basic.html}}{466}%
+\contentsline {figure}{\numberline {5.59\relax }{\ignorespaces Code Basic.html}}{466}%
+\contentsline {figure}{\numberline {5.60\relax }{\ignorespaces Tampilan Basic.html}}{467}%
+\contentsline {figure}{\numberline {5.61\relax }{\ignorespaces File Marker.html}}{467}%
+\contentsline {figure}{\numberline {5.62\relax }{\ignorespaces Code tambahan Marker.html}}{468}%
+\contentsline {figure}{\numberline {5.63\relax }{\ignorespaces Tampilan Marker.html}}{469}%
+\contentsline {figure}{\numberline {5.64\relax }{\ignorespaces Run Mapproxy}}{469}%
+\contentsline {figure}{\numberline {5.65\relax }{\ignorespaces Buka basic.html}}{470}%
+\contentsline {figure}{\numberline {5.66\relax }{\ignorespaces Hasil }}{470}%
+\contentsline {figure}{\numberline {5.67\relax }{\ignorespaces Hasil marker.html}}{471}%
+\contentsline {figure}{\numberline {5.68\relax }{\ignorespaces Run Mapproxy}}{471}%
+\contentsline {figure}{\numberline {5.69\relax }{\ignorespaces File basic.html}}{472}%
+\contentsline {figure}{\numberline {5.70\relax }{\ignorespaces Hasil basic.html}}{472}%
+\contentsline {figure}{\numberline {5.71\relax }{\ignorespaces Kode untuk menggunakan marker, circle, dan polygon}}{473}%
+\contentsline {figure}{\numberline {5.72\relax }{\ignorespaces Hasil marker.html}}{474}%
+\contentsline {figure}{\numberline {5.73\relax }{\ignorespaces Menjalankan Mapproxy}}{474}%
+\contentsline {figure}{\numberline {5.74\relax }{\ignorespaces Hasil dari file basic.htm}}{475}%
+\contentsline {figure}{\numberline {5.75\relax }{\ignorespaces Contoh menambahkan marker, circle dan polygon}}{475}%
+\contentsline {figure}{\numberline {5.76\relax }{\ignorespaces Hasil dari file marker.html}}{475}%
